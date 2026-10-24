@@ -1,0 +1,856 @@
+,Region,Year,Month,Median Sale Price,Median Sale Price MoM,Median Sale Price YoY,Homes Sold,Homes Sold MoM,Homes Sold YoY,Month of Period End
+0,North Carolina,2012,January,170000.0,-9.0%,-10.5%,"2,035",-6.5%,29.7%,January 2012
+1,North Carolina,2012,February,169000.0,-1.3%,-6.6%,"2,410",22.5%,48.9%,February 2012
+2,North Carolina,2012,March,188000.0,9.8%,4.7%,"2,913",25.3%,27.1%,March 2012
+3,North Carolina,2012,April,181000.0,-0.5%,-4.0%,"3,331",4.4%,35.1%,April 2012
+4,North Carolina,2012,May,191000.0,2.4%,-1.3%,"3,523",16.9%,39.0%,May 2012
+5,North Carolina,2012,June,196000.0,3.4%,-2.2%,"3,971",9.2%,37.3%,June 2012
+6,North Carolina,2012,July,193000.0,-2.9%,-3.0%,"3,441",-10.2%,40.5%,July 2012
+7,North Carolina,2012,August,187000.0,-0.4%,-2.5%,"4,319",10.4%,61.2%,August 2012
+8,North Carolina,2012,September,180000.0,-4.9%,-6.2%,"3,460",-17.5%,52.9%,September 2012
+9,North Carolina,2012,October,182000.0,1.5%,0.2%,"3,451",2.3%,65.8%,October 2012
+10,North Carolina,2012,November,189000.0,2.5%,-1.6%,"3,102",-7.4%,55.1%,November 2012
+11,North Carolina,2012,December,186000.0,0.2%,0.1%,"3,415",-0.7%,54.6%,December 2012
+12,North Carolina,2013,January,166000.0,-9.9%,1.3%,"3,033",-13.5%,33.4%,January 2013
+13,North Carolina,2013,February,166000.0,-0.3%,1.3%,"3,169",4.6%,14.0%,February 2013
+14,North Carolina,2013,March,181000.0,9.7%,1.4%,"4,048",27.3%,18.3%,March 2013
+15,North Carolina,2013,April,186000.0,2.5%,4.4%,"4,640",14.8%,31.0%,April 2013
+16,North Carolina,2013,May,193000.0,3.6%,4.7%,"5,578",20.1%,33.8%,May 2013
+17,North Carolina,2013,June,193000.0,0.1%,1.0%,"5,367",-3.6%,19.2%,June 2013
+18,North Carolina,2013,July,195000.0,0.9%,4.1%,"5,396",0.4%,33.4%,July 2013
+19,North Carolina,2013,August,194000.0,-0.2%,4.4%,"5,352",-1.2%,19.3%,August 2013
+20,North Carolina,2013,September,184000.0,-5.4%,3.8%,"4,450",-17.1%,19.1%,September 2013
+21,North Carolina,2013,October,185000.0,0.5%,3.0%,"4,558",2.8%,17.7%,October 2013
+22,North Carolina,2013,November,187000.0,1.1%,1.6%,"3,956",-13.2%,11.6%,November 2013
+23,North Carolina,2013,December,196000.0,5.1%,6.5%,"4,316",8.8%,22.8%,December 2013
+24,North Carolina,2014,January,178000.0,-9.3%,7.4%,"3,347",-22.3%,10.2%,January 2014
+25,North Carolina,2014,February,172000.0,-1.6%,6.6%,"5,144",0.7%,4.3%,February 2014
+26,North Carolina,2014,March,179000.0,4.0%,1.4%,"6,671",30.0%,6.9%,March 2014
+27,North Carolina,2014,April,186000.0,3.5%,4.1%,"7,553",12.1%,4.9%,April 2014
+28,North Carolina,2014,May,198000.0,6.9%,5.3%,"8,471",13.4%,-0.8%,May 2014
+29,North Carolina,2014,June,199000.0,0.4%,3.9%,"9,163",8.2%,11.0%,June 2014
+30,North Carolina,2014,July,199000.0,-0.3%,3.5%,"9,211",-0.4%,11.3%,July 2014
+31,North Carolina,2014,August,194000.0,-2.9%,2.0%,"8,867",-3.7%,9.0%,August 2014
+32,North Carolina,2014,September,186000.0,-3.2%,3.1%,"7,823",-11.2%,17.2%,September 2014
+33,North Carolina,2014,October,187000.0,-0.2%,3.1%,"8,144",2.9%,17.4%,October 2014
+34,North Carolina,2014,November,188000.0,0.3%,2.9%,"6,583",-19.2%,7.5%,November 2014
+35,North Carolina,2014,December,189000.0,0.6%,-1.7%,"7,761",17.8%,16.6%,December 2014
+36,North Carolina,2015,January,179000.0,-5.2%,1.3%,"5,492",-29.2%,6.2%,January 2015
+37,North Carolina,2015,February,186000.0,3.2%,6.3%,"5,700",3.5%,9.3%,February 2015
+38,North Carolina,2015,March,197000.0,6.0%,8.7%,"8,117",42.3%,19.8%,March 2015
+39,North Carolina,2015,April,199000.0,1.3%,6.2%,"8,297",2.2%,9.3%,April 2015
+40,North Carolina,2015,May,209000.0,5.1%,4.5%,"9,396",13.2%,8.8%,May 2015
+41,North Carolina,2015,June,212000.0,2.0%,6.5%,"12,255",17.6%,19.1%,June 2015
+42,North Carolina,2015,July,204000.0,-3.6%,3.3%,"11,647",-5.0%,13.4%,July 2015
+43,North Carolina,2015,August,200000.0,-2.1%,3.3%,"10,626",-8.8%,8.1%,August 2015
+44,North Carolina,2015,September,197000.0,-1.6%,5.3%,"9,892",-6.9%,12.3%,September 2015
+45,North Carolina,2015,October,195000.0,-0.6%,4.3%,"9,350",-5.4%,3.1%,October 2015
+46,North Carolina,2015,November,201000.0,3.1%,7.8%,"7,397",-20.8%,1.0%,November 2015
+47,North Carolina,2015,December,201000.0,-0.1%,6.8%,"9,218",24.6%,6.9%,December 2015
+48,North Carolina,2016,January,193000.0,-4.3%,7.4%,"6,405",-30.5%,4.7%,January 2016
+49,North Carolina,2016,February,189000.0,-2.0%,2.3%,"7,156",11.8%,12.4%,February 2016
+50,North Carolina,2016,March,200000.0,6.2%,3.0%,"9,665",35.0%,7.5%,March 2016
+51,North Carolina,2016,April,207000.0,3.5%,4.8%,"10,467",8.3%,13.6%,April 2016
+52,North Carolina,2016,May,213000.0,2.7%,2.6%,"11,873",13.4%,13.9%,May 2016
+53,North Carolina,2016,June,224000.0,5.0%,5.6%,"13,424",13.1%,9.6%,June 2016
+54,North Carolina,2016,July,217000.0,-3.0%,6.3%,"11,457",-14.7%,-1.6%,July 2016
+55,North Carolina,2016,August,218000.0,0.4%,9.0%,"12,200",6.4%,14.8%,August 2016
+56,North Carolina,2016,September,210000.0,-3.7%,6.6%,"11,054",-9.9%,11.7%,September 2016
+57,North Carolina,2016,October,213000.0,1.3%,8.8%,"9,794",-11.2%,4.7%,October 2016
+58,North Carolina,2016,November,211000.0,-0.6%,4.9%,"9,464",-3.2%,27.9%,November 2016
+59,North Carolina,2016,December,215000.0,1.9%,6.8%,"10,191",7.3%,10.4%,December 2016
+60,North Carolina,2017,January,207000.0,-3.7%,7.6%,"7,514",-26.2%,17.2%,January 2017
+61,North Carolina,2017,February,207000.0,0.2%,10.0%,"7,477",-0.5%,4.4%,February 2017
+62,North Carolina,2017,March,218000.0,4.9%,8.6%,"11,482",53.6%,18.7%,March 2017
+63,North Carolina,2017,April,225000.0,3.3%,8.3%,"10,747",-6.5%,2.7%,April 2017
+64,North Carolina,2017,May,226000.0,0.7%,6.2%,"12,806",19.3%,7.9%,May 2017
+65,North Carolina,2017,June,237000.0,4.6%,5.8%,"14,395",12.6%,7.1%,June 2017
+66,North Carolina,2017,July,229000.0,-3.2%,5.6%,"12,123",-15.8%,5.7%,July 2017
+67,North Carolina,2017,August,227000.0,-0.6%,4.5%,"13,068",7.2%,6.2%,August 2017
+68,North Carolina,2017,September,224000.0,-1.6%,6.9%,"11,452",-12.4%,3.3%,September 2017
+69,North Carolina,2017,October,221000.0,-1.3%,4.2%,"11,176",-2.4%,13.6%,October 2017
+70,North Carolina,2017,November,227000.0,2.7%,7.6%,"10,369",-7.2%,8.9%,November 2017
+71,North Carolina,2017,December,232000.0,2.5%,8.2%,"10,281",-0.8%,0.6%,December 2017
+72,North Carolina,2018,January,217000.0,-6.5%,5.1%,"7,657",-25.6%,1.5%,January 2018
+73,North Carolina,2018,February,224000.0,2.8%,7.8%,"8,061",5.4%,7.4%,February 2018
+74,North Carolina,2018,March,233000.0,4.1%,7.1%,"11,338",40.7%,-1.6%,March 2018
+75,North Carolina,2018,April,236000.0,1.4%,5.2%,"11,944",5.4%,10.9%,April 2018
+76,North Carolina,2018,May,239000.0,1.1%,5.6%,"13,712",14.6%,6.7%,May 2018
+77,North Carolina,2018,June,246000.0,3.0%,4.0%,"14,510",5.8%,0.0%,June 2018
+78,North Carolina,2018,July,241000.0,-1.8%,5.4%,"13,481",-7.1%,10.6%,July 2018
+79,North Carolina,2018,August,240000.0,-0.7%,5.4%,"13,852",2.8%,6.0%,August 2018
+80,North Carolina,2018,September,233000.0,-2.8%,4.1%,"9,993",-27.9%,-12.7%,September 2018
+81,North Carolina,2018,October,232000.0,-0.5%,4.9%,"11,464",14.7%,2.6%,October 2018
+82,North Carolina,2018,November,236000.0,1.8%,4.0%,"10,384",-9.4%,0.1%,November 2018
+83,North Carolina,2018,December,235000.0,-0.3%,1.2%,"9,896",-4.7%,-3.8%,December 2018
+84,North Carolina,2019,January,225000.0,-4.5%,3.4%,"7,640",-22.8%,-0.2%,January 2019
+85,North Carolina,2019,February,232000.0,3.3%,3.8%,"8,832",15.6%,9.6%,February 2019
+86,North Carolina,2019,March,240000.0,3.2%,3.0%,"11,602",31.3%,2.3%,March 2019
+87,North Carolina,2019,April,248000.0,3.7%,5.3%,"12,320",6.2%,3.0%,April 2019
+88,North Carolina,2019,May,254000.0,2.4%,6.6%,"14,615",18.7%,6.6%,May 2019
+89,North Carolina,2019,June,257000.0,0.9%,4.5%,"14,212",-2.8%,-2.1%,June 2019
+90,North Carolina,2019,July,255000.0,-0.6%,5.8%,"14,318",0.7%,6.2%,July 2019
+91,North Carolina,2019,August,251000.0,-1.5%,4.9%,"14,196",-0.8%,2.5%,August 2019
+92,North Carolina,2019,September,249000.0,-0.8%,7.0%,"11,807",-16.8%,18.2%,September 2019
+93,North Carolina,2019,October,250000.0,0.3%,7.9%,"12,312",4.3%,7.4%,October 2019
+94,North Carolina,2019,November,254000.0,1.7%,7.8%,"10,603",-13.9%,2.1%,November 2019
+95,North Carolina,2019,December,257000.0,1.1%,9.3%,"11,443",7.9%,15.6%,December 2019
+96,North Carolina,2020,January,245000.0,-4.8%,8.9%,"8,699",-24.0%,13.9%,January 2020
+97,North Carolina,2020,February,254000.0,3.8%,9.4%,"9,267",6.5%,4.9%,February 2020
+98,North Carolina,2020,March,262000.0,3.1%,9.3%,"11,844",27.8%,2.1%,March 2020
+99,North Carolina,2020,April,266000.0,1.5%,6.9%,"10,717",-9.5%,-13.0%,April 2020
+100,North Carolina,2020,May,260000.0,-2.0%,2.4%,"10,527",-1.8%,-28.0%,May 2020
+101,North Carolina,2020,June,271000.0,3.9%,5.4%,"14,447",37.2%,1.7%,June 2020
+102,North Carolina,2020,July,281000.0,3.8%,10.0%,"16,207",12.2%,13.2%,July 2020
+103,North Carolina,2020,August,290000.0,3.2%,15.3%,"14,676",-9.4%,3.4%,August 2020
+104,North Carolina,2020,September,288000.0,-0.6%,15.6%,"14,926",1.7%,26.4%,September 2020
+105,North Carolina,2020,October,291000.0,1.0%,16.4%,"14,938",0.1%,21.3%,October 2020
+106,North Carolina,2020,November,292000.0,0.4%,14.8%,"12,960",-13.3%,22.2%,November 2020
+107,North Carolina,2020,December,289000.0,-1.0%,12.5%,"14,187",9.5%,24.0%,December 2020
+108,North Carolina,2021,January,285000.0,-1.4%,16.5%,"10,051",-29.2%,15.5%,January 2021
+109,North Carolina,2021,February,286000.0,0.1%,12.4%,"10,298",2.5%,11.1%,February 2021
+110,North Carolina,2021,March,299000.0,4.9%,14.3%,"14,247",38.3%,20.2%,March 2021
+111,North Carolina,2021,April,304000.0,1.5%,14.4%,"14,005",-1.7%,30.7%,April 2021
+112,North Carolina,2021,May,314000.0,3.4%,20.7%,"14,395",2.7%,36.7%,May 2021
+113,North Carolina,2021,June,325000.0,3.4%,20.2%,"16,878",17.3%,16.8%,June 2021
+114,North Carolina,2021,July,322000.0,-1.0%,14.7%,"15,330",-9.2%,-5.4%,July 2021
+115,North Carolina,2021,August,322000.0,0.0%,11.1%,"15,644",2.0%,6.6%,August 2021
+116,North Carolina,2021,September,321000.0,-0.4%,11.4%,"14,983",-4.2%,0.4%,September 2021
+117,North Carolina,2021,October,323000.0,0.8%,11.2%,"13,936",-6.9%,-6.7%,October 2021
+118,North Carolina,2021,November,332000.0,2.6%,13.6%,"14,148",1.5%,9.2%,November 2021
+119,North Carolina,2021,December,335000.0,1.0%,15.8%,"14,430",2.0%,1.7%,December 2021
+120,North Carolina,2022,January,329000.0,-1.9%,15.3%,"10,726",-25.7%,6.7%,January 2022
+121,North Carolina,2022,February,338000.0,2.9%,18.6%,"10,381",-3.2%,0.7%,February 2022
+122,North Carolina,2022,March,352000.0,4.1%,17.6%,"13,478",29.8%,-5.4%,March 2022
+123,North Carolina,2022,April,366000.0,4.0%,20.4%,"13,422",-0.4%,-4.2%,April 2022
+124,North Carolina,2022,May,377000.0,3.0%,20.0%,"14,065",4.8%,-2.3%,May 2022
+125,North Carolina,2022,June,381000.0,0.9%,17.1%,"15,309",8.8%,-9.3%,June 2022
+126,North Carolina,2022,July,375000.0,-1.6%,16.4%,"12,875",-15.9%,-16.0%,July 2022
+127,North Carolina,2022,August,370000.0,-1.2%,15.0%,"13,869",7.7%,-11.3%,August 2022
+128,North Carolina,2022,September,365000.0,-1.5%,13.7%,"12,674",-8.6%,-15.4%,September 2022
+129,North Carolina,2022,October,364000.0,-0.2%,12.5%,"11,183",-11.8%,-19.8%,October 2022
+130,North Carolina,2022,November,364000.0,-0.1%,9.6%,"9,832",-12.1%,-30.5%,November 2022
+131,North Carolina,2022,December,354000.0,-2.6%,5.8%,"9,685",-1.5%,-32.9%,December 2022
+132,North Carolina,2023,January,348000.0,-1.9%,5.7%,"7,160",-26.1%,-33.3%,January 2023
+133,North Carolina,2023,February,352000.0,1.2%,3.9%,"8,142",13.7%,-21.6%,February 2023
+134,North Carolina,2023,March,362000.0,3.1%,2.9%,"11,529",41.6%,-14.5%,March 2023
+135,North Carolina,2023,April,372000.0,2.7%,1.7%,"10,230",-11.3%,-23.8%,April 2023
+136,North Carolina,2023,May,388000.0,4.2%,2.8%,"11,950",16.8%,-15.0%,May 2023
+137,North Carolina,2023,June,394000.0,1.6%,3.5%,"12,831",7.4%,-16.2%,June 2023
+138,North Carolina,2023,July,392000.0,-0.6%,4.6%,"10,511",-18.1%,-18.3%,July 2023
+139,North Carolina,2023,August,384000.0,-2.0%,3.8%,"11,600",10.4%,-16.3%,August 2023
+140,North Carolina,2023,September,379000.0,-1.3%,4.0%,"10,079",-13.1%,-20.5%,September 2023
+141,North Carolina,2023,October,380000.0,0.4%,4.5%,"9,697",-3.9%,-13.3%,October 2023
+142,North Carolina,2023,November,378000.0,-0.7%,4.0%,"8,910",-8.1%,-9.4%,November 2023
+143,North Carolina,2023,December,371000.0,-1.8%,4.8%,"8,392",-5.8%,-13.3%,December 2023
+144,North Carolina,2024,January,367000.0,-1.1%,5.6%,"7,188",-14.3%,0.4%,January 2024
+145,North Carolina,2024,February,374000.0,1.8%,6.3%,"8,472",17.9%,4.1%,February 2024
+146,North Carolina,2024,March,386000.0,3.2%,6.4%,"10,222",20.6%,-11.3%,March 2024
+147,North Carolina,2024,April,391000.0,1.4%,5.0%,"11,138",9.0%,8.9%,April 2024
+148,North Carolina,2024,May,403000.0,3.1%,4.0%,"12,232",9.8%,2.4%,May 2024
+149,North Carolina,2024,June,406000.0,0.7%,3.1%,"11,294",-7.7%,-12.0%,June 2024
+150,North Carolina,2024,July,402000.0,-1.1%,2.6%,"11,534",2.2%,9.7%,July 2024
+151,North Carolina,2024,August,397000.0,-1.2%,3.4%,"11,166",-3.2%,-3.7%,August 2024
+152,North Carolina,2024,September,390000.0,-1.8%,2.9%,"9,441",-15.5%,-6.4%,September 2024
+153,North Carolina,2024,October,392000.0,0.5%,3.1%,"10,349",9.6%,6.7%,October 2024
+154,North Carolina,2024,November,391000.0,-0.2%,3.5%,"8,990",-13.1%,0.9%,November 2024
+155,North Carolina,2024,December,391000.0,-0.1%,5.3%,"9,525",6.0%,13.5%,December 2024
+156,North Carolina,2025,January,383000.0,-2.1%,4.2%,"7,541",-20.8%,4.9%,January 2025
+157,North Carolina,2025,February,383000.0,0.1%,2.5%,"7,959",5.6%,-6.1%,February 2025
+158,North Carolina,2025,March,397000.0,3.8%,3.0%,"10,060",26.4%,-1.6%,March 2025
+159,North Carolina,2025,April,401000.0,1.0%,2.6%,"10,880",8.1%,-2.4%,April 2025
+160,North Carolina,2025,May,405000.0,0.9%,0.4%,"12,111",11.4%,-0.9%,May 2025
+161,North Carolina,2025,June,414000.0,2.3%,2.0%,"12,100",-0.1%,7.2%,June 2025
+162,North Carolina,2025,July,407000.0,-1.7%,1.4%,"11,888",-1.8%,3.0%,July 2025
+163,North Carolina,2025,August,412000.0,1.1%,3.7%,"11,275",-5.2%,0.9%,August 2025
+164,North Carolina,2025,September,397000.0,-3.6%,1.8%,"10,828",-4.0%,14.7%,September 2025
+165,North Carolina,2025,October,405000.0,2.0%,3.3%,"10,997",1.6%,6.3%,October 2025
+166,North Carolina,2025,November,407000.0,0.5%,4.0%,"8,871",-19.3%,-1.3%,November 2025
+167,North Carolina,2025,December,399000.0,-1.9%,2.2%,"10,679",20.4%,12.1%,December 2025
+168,North Carolina,2026,January,390000.0,-2.4%,1.9%,"7,069",-33.8%,-6.2%,January 2026
+169,North Carolina,2026,February,392000.0,0.4%,2.3%,"7,814",10.6%,-1.8%,February 2026
+170,North Carolina,2026,March,399000.0,1.8%,0.4%,"10,247",31.1%,1.9%,March 2026
+171,South Carolina,2012,January,177000.0,-3.1%,-3.0%,"1,433",-21.7%,13.4%,January 2012
+172,South Carolina,2012,February,174000.0,-1.5%,4.7%,"1,597",11.0%,9.1%,February 2012
+173,South Carolina,2012,March,179000.0,3.5%,4.6%,"2,210",36.0%,6.5%,March 2012
+174,South Carolina,2012,April,178000.0,-0.5%,0.0%,"2,067",-5.9%,3.4%,April 2012
+175,South Carolina,2012,May,189000.0,6.0%,4.0%,"2,432",17.5%,17.8%,May 2012
+176,South Carolina,2012,June,190000.0,0.4%,0.6%,"2,606",7.1%,10.6%,June 2012
+177,South Carolina,2012,July,187000.0,-1.5%,3.7%,"2,506",-3.8%,21.8%,July 2012
+178,South Carolina,2012,August,187000.0,-0.2%,2.9%,"2,624",4.4%,14.7%,August 2012
+179,South Carolina,2012,September,180000.0,-3.6%,-0.3%,"2,185",-16.7%,12.6%,September 2012
+180,South Carolina,2012,October,182000.0,0.6%,1.9%,"2,367",8.7%,28.9%,October 2012
+181,South Carolina,2012,November,187000.0,2.9%,4.2%,"2,196",-7.3%,27.8%,November 2012
+182,South Carolina,2012,December,185000.0,-0.6%,1.8%,"2,194",-0.4%,19.3%,December 2012
+183,South Carolina,2013,January,178000.0,-3.8%,0.8%,"1,817",-17.8%,25.6%,January 2013
+184,South Carolina,2013,February,180000.0,0.9%,3.8%,"1,871",6.7%,15.4%,February 2013
+185,South Carolina,2013,March,184000.0,3.4%,2.9%,"2,702",38.8%,21.7%,March 2013
+186,South Carolina,2013,April,187000.0,1.3%,4.7%,"2,853",5.9%,36.8%,April 2013
+187,South Carolina,2013,May,197000.0,4.6%,4.0%,"3,224",16.5%,31.2%,May 2013
+188,South Carolina,2013,June,196000.0,-0.3%,3.2%,"3,244",0.6%,23.1%,June 2013
+189,South Carolina,2013,July,199000.0,1.9%,6.3%,"3,348",0.5%,31.7%,July 2013
+190,South Carolina,2013,August,205000.0,2.6%,10.1%,"3,231",-1.0%,21.7%,August 2013
+191,South Carolina,2013,September,197000.0,-4.1%,9.5%,"2,805",-13.0%,27.5%,September 2013
+192,South Carolina,2013,October,191000.0,-2.0%,5.5%,"2,726",-5.8%,13.9%,October 2013
+193,South Carolina,2013,November,194000.0,0.8%,3.9%,"2,384",-10.4%,7.5%,November 2013
+194,South Carolina,2013,December,203000.0,5.5%,9.8%,"2,613",7.3%,18.1%,December 2013
+195,South Carolina,2014,January,193000.0,-4.7%,9.0%,"1,965",-25.9%,6.2%,January 2014
+196,South Carolina,2014,February,186000.0,-3.1%,4.5%,"2,363",6.6%,6.0%,February 2014
+197,South Carolina,2014,March,196000.0,5.3%,6.5%,"3,093",30.7%,0.7%,March 2014
+198,South Carolina,2014,April,197000.0,0.4%,5.9%,"3,409",10.4%,4.3%,April 2014
+199,South Carolina,2014,May,198000.0,0.8%,1.9%,"3,807",11.4%,1.7%,May 2014
+200,South Carolina,2014,June,211000.0,6.5%,8.0%,"4,102",7.8%,9.2%,June 2014
+201,South Carolina,2014,July,201000.0,-4.8%,1.8%,"4,046",-1.3%,5.4%,July 2014
+202,South Carolina,2014,August,205000.0,1.7%,1.5%,"3,971",-1.9%,3.0%,August 2014
+203,South Carolina,2014,September,197000.0,-4.0%,1.7%,"3,796",-4.4%,14.3%,September 2014
+204,South Carolina,2014,October,201000.0,2.3%,6.5%,"3,761",-1.0%,20.5%,October 2014
+205,South Carolina,2014,November,198000.0,-1.6%,3.4%,"3,001",-19.8%,8.9%,November 2014
+206,South Carolina,2014,December,201000.0,1.2%,-1.3%,"3,479",16.0%,16.4%,December 2014
+207,South Carolina,2015,January,192000.0,-4.2%,-0.1%,"2,587",-26.1%,16.5%,January 2015
+208,South Carolina,2015,February,203000.0,5.8%,9.2%,"2,853",10.2%,20.3%,February 2015
+209,South Carolina,2015,March,204000.0,0.5%,4.2%,"4,097",44.2%,32.5%,March 2015
+210,South Carolina,2015,April,207000.0,1.4%,5.1%,"4,005",-2.4%,17.2%,April 2015
+211,South Carolina,2015,May,213000.0,3.0%,7.3%,"4,466",11.1%,17.3%,May 2015
+212,South Carolina,2015,June,220000.0,3.5%,4.2%,"5,078",13.9%,23.8%,June 2015
+213,South Carolina,2015,July,217000.0,-1.7%,7.5%,"5,004",-1.6%,23.6%,July 2015
+214,South Carolina,2015,August,211000.0,-2.7%,2.8%,"4,458",-10.9%,12.2%,August 2015
+215,South Carolina,2015,September,210000.0,-0.3%,6.7%,"4,452",-0.7%,17.1%,September 2015
+216,South Carolina,2015,October,211000.0,0.4%,4.8%,"3,844",-13.3%,2.2%,October 2015
+217,South Carolina,2015,November,211000.0,0.5%,6.7%,"3,223",-16.5%,6.9%,November 2015
+218,South Carolina,2015,December,217000.0,3.0%,8.8%,"3,992",23.7%,13.6%,December 2015
+219,South Carolina,2016,January,205000.0,-5.5%,7.4%,"2,922",-26.6%,12.5%,January 2016
+220,South Carolina,2016,February,205000.0,0.1%,1.5%,"3,209",9.5%,12.2%,February 2016
+221,South Carolina,2016,March,212000.0,3.0%,4.1%,"4,426",38.2%,7.4%,March 2016
+222,South Carolina,2016,April,215000.0,1.3%,4.1%,"4,479",1.2%,10.9%,April 2016
+223,South Carolina,2016,May,219000.0,3.1%,4.3%,"5,440",16.9%,16.0%,May 2016
+224,South Carolina,2016,June,231000.0,5.4%,6.3%,"5,887",8.2%,9.8%,June 2016
+225,South Carolina,2016,July,219000.0,-5.1%,2.4%,"5,137",-12.7%,-2.3%,July 2016
+226,South Carolina,2016,August,223000.0,2.1%,7.5%,"5,227",1.7%,11.5%,August 2016
+227,South Carolina,2016,September,221000.0,-1.2%,6.8%,"5,155",-1.3%,10.7%,September 2016
+228,South Carolina,2016,October,218000.0,-1.3%,4.9%,"4,211",-18.3%,4.9%,October 2016
+229,South Carolina,2016,November,220000.0,1.0%,5.6%,"4,034",-4.2%,20.3%,November 2016
+230,South Carolina,2016,December,220000.0,-0.1%,2.1%,"4,475",10.8%,7.2%,December 2016
+231,South Carolina,2017,January,215000.0,-2.2%,5.9%,"3,211",-28.2%,4.2%,January 2017
+232,South Carolina,2017,February,217000.0,0.8%,6.4%,"3,675",14.5%,9.9%,February 2017
+233,South Carolina,2017,March,223000.0,2.7%,6.4%,"5,129",39.6%,10.6%,March 2017
+234,South Carolina,2017,April,230000.0,3.3%,8.3%,"4,672",-8.9%,0.4%,April 2017
+235,South Carolina,2017,May,234000.0,1.8%,7.0%,"5,672",21.3%,4.2%,May 2017
+236,South Carolina,2017,June,239000.0,2.1%,3.7%,"6,145",8.3%,4.4%,June 2017
+237,South Carolina,2017,July,229000.0,-4.3%,4.6%,"5,407",-12.0%,5.2%,July 2017
+238,South Carolina,2017,August,227000.0,-1.1%,1.4%,"5,692",5.2%,8.9%,August 2017
+239,South Carolina,2017,September,228000.0,0.8%,3.4%,"4,819",-15.3%,-6.6%,September 2017
+240,South Carolina,2017,October,228000.0,-0.3%,4.5%,"4,570",-5.1%,8.6%,October 2017
+241,South Carolina,2017,November,230000.0,0.9%,4.4%,"4,455",-2.6%,10.3%,November 2017
+242,South Carolina,2017,December,240000.0,4.4%,9.2%,"4,741",6.4%,5.9%,December 2017
+243,South Carolina,2018,January,231000.0,-3.7%,7.5%,"3,679",-22.4%,14.6%,January 2018
+244,South Carolina,2018,February,231000.0,-0.2%,6.4%,"3,837",4.3%,4.4%,February 2018
+245,South Carolina,2018,March,236000.0,2.3%,6.1%,"5,251",36.9%,2.4%,March 2018
+246,South Carolina,2018,April,243000.0,2.9%,5.6%,"5,103",-2.8%,9.1%,April 2018
+247,South Carolina,2018,May,246000.0,1.3%,5.1%,"6,026",18.1%,6.2%,May 2018
+248,South Carolina,2018,June,253000.0,2.8%,5.7%,"6,208",3.0%,1.0%,June 2018
+249,South Carolina,2018,July,240000.0,-4.9%,5.0%,"5,665",-8.7%,4.7%,July 2018
+250,South Carolina,2018,August,242000.0,0.6%,6.8%,"6,210",9.7%,9.2%,August 2018
+251,South Carolina,2018,September,241000.0,-0.5%,5.4%,"4,407",-29.0%,-8.5%,September 2018
+252,South Carolina,2018,October,240000.0,-0.2%,5.5%,"5,000",13.4%,9.4%,October 2018
+253,South Carolina,2018,November,239000.0,-0.5%,4.0%,"4,536",-9.3%,1.8%,November 2018
+254,South Carolina,2018,December,246000.0,2.8%,2.4%,"4,397",-3.1%,-7.3%,December 2018
+255,South Carolina,2019,January,236000.0,-3.8%,2.3%,"3,414",-22.4%,-7.2%,January 2019
+256,South Carolina,2019,February,235000.0,-0.5%,1.9%,"4,117",20.5%,7.3%,February 2019
+257,South Carolina,2019,March,246000.0,4.6%,4.3%,"5,314",29.2%,1.2%,March 2019
+258,South Carolina,2019,April,246000.0,-0.3%,1.0%,"5,517",3.9%,8.3%,April 2019
+259,South Carolina,2019,May,255000.0,4.0%,3.7%,"6,472",17.3%,7.6%,May 2019
+260,South Carolina,2019,June,260000.0,1.9%,2.8%,"6,193",-4.4%,-0.2%,June 2019
+261,South Carolina,2019,July,254000.0,-2.4%,5.6%,"6,066",-2.1%,7.1%,July 2019
+262,South Carolina,2019,August,254000.0,0.1%,5.0%,"6,241",2.9%,0.5%,August 2019
+263,South Carolina,2019,September,250000.0,-1.6%,3.9%,"5,354",-14.3%,21.4%,September 2019
+264,South Carolina,2019,October,251000.0,0.5%,4.6%,"5,207",-2.7%,4.1%,October 2019
+265,South Carolina,2019,November,249000.0,-0.7%,4.3%,"4,667",-10.4%,2.9%,November 2019
+266,South Carolina,2019,December,260000.0,4.4%,5.9%,"5,136",10.0%,16.8%,December 2019
+267,South Carolina,2020,January,255000.0,-2.2%,7.7%,"3,928",-23.5%,15.0%,January 2020
+268,South Carolina,2020,February,257000.0,0.9%,9.3%,"4,302",9.5%,4.5%,February 2020
+269,South Carolina,2020,March,262000.0,2.0%,6.6%,"5,655",31.6%,6.4%,March 2020
+270,South Carolina,2020,April,263000.0,0.2%,7.1%,"4,966",-12.1%,-10.0%,April 2020
+271,South Carolina,2020,May,262000.0,-0.3%,2.7%,"5,033",1.2%,-22.3%,May 2020
+272,South Carolina,2020,June,274000.0,4.6%,5.4%,"6,655",32.2%,7.5%,June 2020
+273,South Carolina,2020,July,287000.0,4.9%,13.3%,"7,324",10.1%,20.7%,July 2020
+274,South Carolina,2020,August,292000.0,1.7%,15.1%,"6,759",-7.7%,8.3%,August 2020
+275,South Carolina,2020,September,291000.0,-0.3%,16.5%,"6,876",1.7%,28.4%,September 2020
+276,South Carolina,2020,October,296000.0,1.8%,18.0%,"6,895",0.3%,32.4%,October 2020
+277,South Carolina,2020,November,295000.0,-0.4%,18.3%,"5,927",-14.1%,26.9%,November 2020
+278,South Carolina,2020,December,293000.0,-0.5%,12.7%,"6,624",11.8%,29.0%,December 2020
+279,South Carolina,2021,January,292000.0,-0.4%,14.7%,"4,936",-25.5%,25.8%,January 2021
+280,South Carolina,2021,February,293000.0,0.3%,14.0%,"5,010",1.5%,16.6%,February 2021
+281,South Carolina,2021,March,304000.0,3.8%,16.0%,"7,022",40.1%,24.1%,March 2021
+282,South Carolina,2021,April,314000.0,3.1%,19.3%,"6,937",-1.2%,39.4%,April 2021
+283,South Carolina,2021,May,321000.0,2.3%,22.4%,"6,795",-2.1%,35.0%,May 2021
+284,South Carolina,2021,June,325000.0,1.5%,18.8%,"7,856",15.6%,17.9%,June 2021
+285,South Carolina,2021,July,324000.0,-0.2%,12.8%,"6,848",-12.8%,-6.5%,July 2021
+286,South Carolina,2021,August,327000.0,0.8%,11.8%,"6,856",0.1%,1.4%,August 2021
+287,South Carolina,2021,September,318000.0,-2.7%,9.2%,"6,561",-4.3%,-4.6%,September 2021
+288,South Carolina,2021,October,335000.0,5.3%,13.1%,"6,221",-5.2%,-9.8%,October 2021
+289,South Carolina,2021,November,333000.0,-0.7%,12.7%,"6,199",-0.4%,4.6%,November 2021
+290,South Carolina,2021,December,340000.0,2.2%,15.8%,"6,709",8.2%,1.3%,December 2021
+291,South Carolina,2022,January,333000.0,-2.1%,13.7%,"4,780",-28.8%,-3.2%,January 2022
+292,South Carolina,2022,February,344000.0,3.4%,17.3%,"5,025",5.1%,0.3%,February 2022
+293,South Carolina,2022,March,356000.0,3.7%,17.2%,"6,884",37.0%,-2.0%,March 2022
+294,South Carolina,2022,April,366000.0,2.7%,16.9%,"6,224",-9.6%,-10.3%,April 2022
+295,South Carolina,2022,May,378000.0,3.2%,17.9%,"6,553",5.3%,-3.6%,May 2022
+296,South Carolina,2022,June,379000.0,0.3%,16.5%,"7,029",7.3%,-10.5%,June 2022
+297,South Carolina,2022,July,372000.0,-2.0%,14.6%,"5,809",-17.3%,-15.2%,July 2022
+298,South Carolina,2022,August,362000.0,-2.6%,10.8%,"6,162",6.0%,-10.1%,August 2022
+299,South Carolina,2022,September,371000.0,2.5%,16.7%,"5,745",-6.7%,-12.4%,September 2022
+300,South Carolina,2022,October,373000.0,0.6%,11.4%,"5,059",-11.9%,-18.7%,October 2022
+301,South Carolina,2022,November,368000.0,-1.4%,10.7%,"4,652",-8.0%,-25.0%,November 2022
+302,South Carolina,2022,December,376000.0,2.2%,10.8%,"4,587",-1.4%,-31.6%,December 2022
+303,South Carolina,2023,January,368000.0,-2.2%,10.6%,"3,400",-25.9%,-28.9%,January 2023
+304,South Carolina,2023,February,356000.0,-3.2%,3.5%,"3,961",16.5%,-21.2%,February 2023
+305,South Carolina,2023,March,371000.0,4.3%,4.1%,"5,647",42.6%,-18.0%,March 2023
+306,South Carolina,2023,April,374000.0,0.8%,2.2%,"4,938",-12.6%,-20.7%,April 2023
+307,South Carolina,2023,May,382000.0,1.9%,1.0%,"5,941",20.4%,-9.3%,May 2023
+308,South Carolina,2023,June,388000.0,1.7%,2.4%,"6,284",5.8%,-10.6%,June 2023
+309,South Carolina,2023,July,382000.0,-1.7%,2.7%,"5,133",-18.3%,-11.6%,July 2023
+310,South Carolina,2023,August,383000.0,0.3%,5.7%,"5,683",10.7%,-7.7%,August 2023
+311,South Carolina,2023,September,381000.0,-0.5%,2.6%,"5,104",-10.2%,-11.2%,September 2023
+312,South Carolina,2023,October,383000.0,0.5%,2.6%,"4,832",-5.3%,-4.5%,October 2023
+313,South Carolina,2023,November,374000.0,-2.4%,1.6%,"4,399",-9.0%,-5.4%,November 2023
+314,South Carolina,2023,December,375000.0,0.5%,-0.2%,"4,267",-3.1%,-7.1%,December 2023
+315,South Carolina,2024,January,381000.0,1.5%,3.6%,"3,490",-18.2%,2.6%,January 2024
+316,South Carolina,2024,February,375000.0,-1.6%,5.4%,"4,318",23.7%,9.0%,February 2024
+317,South Carolina,2024,March,386000.0,3.0%,4.1%,"5,220",20.9%,-7.6%,March 2024
+318,South Carolina,2024,April,400000.0,3.5%,6.9%,"5,461",4.6%,10.6%,April 2024
+319,South Carolina,2024,May,403000.0,0.7%,5.6%,"6,004",10.0%,1.1%,May 2024
+320,South Carolina,2024,June,404000.0,0.2%,4.1%,"5,777",-3.8%,-8.1%,June 2024
+321,South Carolina,2024,July,400000.0,-0.8%,5.0%,"5,725",-0.9%,11.4%,July 2024
+322,South Carolina,2024,August,399000.0,-0.5%,4.2%,"5,494",-4.0%,-3.3%,August 2024
+323,South Carolina,2024,September,387000.0,-2.9%,1.7%,"4,784",-13.0%,-6.3%,September 2024
+324,South Carolina,2024,October,397000.0,2.5%,3.7%,"4,990",4.3%,3.2%,October 2024
+325,South Carolina,2024,November,392000.0,-1.1%,5.0%,"4,664",-6.5%,6.0%,November 2024
+326,South Carolina,2024,December,379000.0,-3.3%,1.1%,"4,930",5.7%,15.5%,December 2024
+327,South Carolina,2025,January,398000.0,4.9%,4.4%,"3,705",-24.8%,6.2%,January 2025
+328,South Carolina,2025,February,399000.0,0.2%,6.3%,"4,218",13.9%,-2.2%,February 2025
+329,South Carolina,2025,March,402000.0,0.7%,3.9%,"5,450",29.2%,4.5%,March 2025
+330,South Carolina,2025,April,401000.0,-0.2%,0.2%,"5,433",-0.3%,-0.5%,April 2025
+331,South Carolina,2025,May,407000.0,1.5%,1.0%,"6,264",15.3%,4.3%,May 2025
+332,South Carolina,2025,June,407000.0,0.1%,0.9%,"6,166",-1.6%,6.7%,June 2025
+333,South Carolina,2025,July,412000.0,1.1%,2.9%,"5,998",-2.7%,4.8%,July 2025
+334,South Carolina,2025,August,418000.0,1.4%,4.8%,"5,540",-7.6%,0.8%,August 2025
+335,South Carolina,2025,September,403000.0,-3.6%,4.0%,"5,493",-0.8%,14.8%,September 2025
+336,South Carolina,2025,October,403000.0,0.2%,1.7%,"5,146",-6.3%,3.1%,October 2025
+337,South Carolina,2025,November,401000.0,-0.6%,2.2%,"4,453",-13.4%,-4.5%,November 2025
+338,South Carolina,2025,December,398000.0,-0.8%,4.8%,"5,452",22.4%,10.6%,December 2025
+339,South Carolina,2026,January,407000.0,2.4%,2.3%,"3,691",-32.3%,-0.4%,January 2026
+340,South Carolina,2026,February,403000.0,-1.1%,0.9%,"3,989",8.1%,-5.4%,February 2026
+341,South Carolina,2026,March,419000.0,4.0%,4.3%,"5,349",34.1%,-1.9%,March 2026
+342,Tennessee,2012,January,111000.0,-9.0%,-5.1%,"1,392",-15.5%,17.7%,January 2012
+343,Tennessee,2012,February,114000.0,2.6%,-8.0%,"1,656",18.6%,25.0%,February 2012
+344,Tennessee,2012,March,117000.0,3.5%,-4.4%,"2,171",28.0%,19.4%,March 2012
+345,Tennessee,2012,April,127000.0,8.3%,3.7%,"2,114",-4.6%,19.2%,April 2012
+346,Tennessee,2012,May,131000.0,3.2%,0.7%,"2,433",16.8%,28.9%,May 2012
+347,Tennessee,2012,June,133000.0,0.3%,-1.1%,"2,390",1.4%,17.0%,June 2012
+348,Tennessee,2012,July,132000.0,-0.2%,-3.0%,"2,288",-5.2%,17.3%,July 2012
+349,Tennessee,2012,August,129000.0,-2.1%,-0.7%,"2,549",9.7%,22.6%,August 2012
+350,Tennessee,2012,September,131000.0,2.5%,4.0%,"2,046",-20.0%,6.4%,September 2012
+351,Tennessee,2012,October,128000.0,-3.1%,5.0%,"2,255",11.7%,31.1%,October 2012
+352,Tennessee,2012,November,127000.0,-0.6%,4.9%,"2,019",-9.7%,25.2%,November 2012
+353,Tennessee,2012,December,127000.0,0.9%,4.1%,"2,050",-1.4%,23.6%,December 2012
+354,Tennessee,2013,January,115000.0,-8.2%,4.8%,"1,845",-15.9%,24.3%,January 2013
+355,Tennessee,2013,February,116000.0,1.0%,4.6%,"1,954",5.7%,6.2%,February 2013
+356,Tennessee,2013,March,122000.0,4.8%,5.0%,"2,471",26.7%,2.7%,March 2013
+357,Tennessee,2013,April,132000.0,7.8%,4.9%,"2,669",8.1%,17.0%,April 2013
+358,Tennessee,2013,May,137000.0,4.1%,6.2%,"3,061",14.4%,15.6%,May 2013
+359,Tennessee,2013,June,142000.0,3.8%,10.9%,"3,037",-0.6%,11.9%,June 2013
+360,Tennessee,2013,July,145000.0,0.8%,11.5%,"3,404",1.5%,19.6%,July 2013
+361,Tennessee,2013,August,142000.0,-2.5%,9.9%,"3,406",0.3%,12.4%,August 2013
+362,Tennessee,2013,September,135000.0,-5.0%,2.9%,"3,050",-10.8%,24.3%,September 2013
+363,Tennessee,2013,October,135000.0,0.0%,4.9%,"2,896",-5.2%,5.9%,October 2013
+364,Tennessee,2013,November,131000.0,-2.1%,3.6%,"2,697",-9.3%,10.0%,November 2013
+365,Tennessee,2013,December,132000.0,0.3%,3.5%,"2,508",-4.5%,2.6%,December 2013
+366,Tennessee,2014,January,122000.0,-7.3%,4.0%,"2,045",-17.3%,2.3%,January 2014
+367,Tennessee,2014,February,159000.0,-0.5%,8.9%,"3,884",7.4%,4.5%,February 2014
+368,Tennessee,2014,March,166000.0,4.6%,8.8%,"5,020",28.7%,2.7%,March 2014
+369,Tennessee,2014,April,171000.0,2.4%,5.2%,"5,455",8.4%,2.3%,April 2014
+370,Tennessee,2014,May,177000.0,3.9%,4.1%,"6,023",11.0%,-0.4%,May 2014
+371,Tennessee,2014,June,189000.0,7.3%,5.9%,"6,655",6.5%,10.7%,June 2014
+372,Tennessee,2014,July,186000.0,-1.8%,3.6%,"6,678",0.7%,8.4%,July 2014
+373,Tennessee,2014,August,180000.0,-1.8%,5.1%,"6,662",-3.7%,7.2%,August 2014
+374,Tennessee,2014,September,177000.0,-1.7%,7.3%,"6,081",-7.9%,11.2%,September 2014
+375,Tennessee,2014,October,172000.0,-2.6%,4.6%,"6,187",0.9%,19.5%,October 2014
+376,Tennessee,2014,November,174000.0,1.1%,5.8%,"4,969",-19.2%,2.9%,November 2014
+377,Tennessee,2014,December,180000.0,3.9%,8.3%,"5,743",13.3%,19.6%,December 2014
+378,Tennessee,2015,January,166000.0,-7.6%,6.3%,"4,154",-27.6%,5.2%,January 2015
+379,Tennessee,2015,February,170000.0,2.5%,9.1%,"4,503",8.3%,7.2%,February 2015
+380,Tennessee,2015,March,177000.0,4.0%,8.9%,"6,017",34.1%,11.2%,March 2015
+381,Tennessee,2015,April,179000.0,1.4%,7.5%,"6,368",5.8%,8.0%,April 2015
+382,Tennessee,2015,May,190000.0,6.6%,10.0%,"7,381",15.0%,12.8%,May 2015
+383,Tennessee,2015,June,194000.0,1.7%,4.5%,"8,193",11.0%,17.8%,June 2015
+384,Tennessee,2015,July,193000.0,-0.4%,5.9%,"8,167",-0.3%,16.4%,July 2015
+385,Tennessee,2015,August,192000.0,-0.6%,7.1%,"7,862",-3.6%,16.5%,August 2015
+386,Tennessee,2015,September,186000.0,-3.0%,5.7%,"7,193",-8.6%,16.0%,September 2015
+387,Tennessee,2015,October,185000.0,-0.4%,8.4%,"6,497",-9.5%,3.6%,October 2015
+388,Tennessee,2015,November,181000.0,-2.5%,4.5%,"5,354",-17.7%,5.5%,November 2015
+389,Tennessee,2015,December,187000.0,3.5%,4.1%,"6,394",19.5%,11.2%,December 2015
+390,Tennessee,2016,January,184000.0,-2.0%,10.7%,"4,665",-26.9%,12.1%,January 2016
+391,Tennessee,2016,February,181000.0,-1.4%,6.3%,"5,239",12.2%,16.5%,February 2016
+392,Tennessee,2016,March,189000.0,4.4%,6.9%,"6,782",29.2%,12.3%,March 2016
+393,Tennessee,2016,April,194000.0,2.8%,8.6%,"7,348",8.3%,14.5%,April 2016
+394,Tennessee,2016,May,199000.0,2.8%,4.8%,"8,204",11.7%,11.2%,May 2016
+395,Tennessee,2016,June,207000.0,3.7%,6.8%,"8,596",4.7%,4.9%,June 2016
+396,Tennessee,2016,July,208000.0,0.4%,7.7%,"8,177",-4.8%,0.1%,July 2016
+397,Tennessee,2016,August,200000.0,-3.5%,4.6%,"8,329",1.9%,5.9%,August 2016
+398,Tennessee,2016,September,199000.0,-0.5%,7.3%,"7,727",-7.3%,7.4%,September 2016
+399,Tennessee,2016,October,200000.0,0.4%,8.0%,"7,232",-6.4%,11.1%,October 2016
+400,Tennessee,2016,November,199000.0,-0.6%,10.2%,"6,728",-7.0%,25.6%,November 2016
+401,Tennessee,2016,December,204000.0,2.3%,9.0%,"6,927",3.0%,8.3%,December 2016
+402,Tennessee,2017,January,194000.0,-4.6%,6.1%,"5,358",-22.6%,14.4%,January 2017
+403,Tennessee,2017,February,199000.0,2.5%,10.3%,"5,486",2.4%,4.4%,February 2017
+404,Tennessee,2017,March,205000.0,2.9%,8.7%,"7,695",40.2%,13.4%,March 2017
+405,Tennessee,2017,April,207000.0,0.9%,6.7%,"7,398",-3.8%,0.7%,April 2017
+406,Tennessee,2017,May,212000.0,2.6%,6.5%,"8,783",18.8%,7.0%,May 2017
+407,Tennessee,2017,June,221000.0,4.0%,6.8%,"9,153",4.2%,6.5%,June 2017
+408,Tennessee,2017,July,224000.0,1.4%,7.9%,"8,483",-7.3%,3.7%,July 2017
+409,Tennessee,2017,August,216000.0,-3.5%,7.9%,"8,915",5.1%,6.9%,August 2017
+410,Tennessee,2017,September,216000.0,-0.2%,8.2%,"7,914",-11.2%,2.4%,September 2017
+411,Tennessee,2017,October,212000.0,-1.8%,5.9%,"7,568",-4.3%,4.7%,October 2017
+412,Tennessee,2017,November,217000.0,2.3%,9.0%,"7,226",-4.5%,7.5%,November 2017
+413,Tennessee,2017,December,219000.0,0.7%,7.3%,"7,142",-1.2%,3.1%,December 2017
+414,Tennessee,2018,January,210000.0,-4.1%,7.9%,"5,325",-25.4%,-0.7%,January 2018
+415,Tennessee,2018,February,214000.0,2.0%,7.3%,"5,690",6.9%,3.7%,February 2018
+416,Tennessee,2018,March,225000.0,5.0%,9.5%,"7,756",36.4%,0.9%,March 2018
+417,Tennessee,2018,April,221000.0,-1.6%,6.8%,"7,902",1.9%,6.8%,April 2018
+418,Tennessee,2018,May,230000.0,4.2%,8.5%,"8,915",12.8%,1.5%,May 2018
+419,Tennessee,2018,June,236000.0,2.4%,6.8%,"9,253",3.8%,1.1%,June 2018
+420,Tennessee,2018,July,232000.0,-1.6%,3.6%,"8,855",-4.3%,4.4%,July 2018
+421,Tennessee,2018,August,230000.0,-0.7%,6.6%,"9,217",4.1%,3.4%,August 2018
+422,Tennessee,2018,September,225000.0,-2.3%,4.4%,"7,512",-18.5%,-5.1%,September 2018
+423,Tennessee,2018,October,226000.0,0.2%,6.5%,"7,815",4.1%,3.3%,October 2018
+424,Tennessee,2018,November,228000.0,1.2%,5.2%,"6,959",-11.0%,-3.7%,November 2018
+425,Tennessee,2018,December,228000.0,-0.3%,4.1%,"6,513",-6.4%,-8.8%,December 2018
+426,Tennessee,2019,January,225000.0,-1.2%,7.3%,"5,146",-21.0%,-3.3%,January 2019
+427,Tennessee,2019,February,223000.0,-1.0%,4.0%,"5,968",16.1%,5.1%,February 2019
+428,Tennessee,2019,March,232000.0,4.3%,3.4%,"7,423",24.4%,-4.2%,March 2019
+429,Tennessee,2019,April,234000.0,0.9%,6.0%,"8,111",9.1%,2.5%,April 2019
+430,Tennessee,2019,May,246000.0,5.0%,6.8%,"9,515",17.4%,6.8%,May 2019
+431,Tennessee,2019,June,254000.0,3.1%,7.5%,"9,120",-4.2%,-1.4%,June 2019
+432,Tennessee,2019,July,250000.0,-1.4%,7.8%,"9,386",3.0%,6.0%,July 2019
+433,Tennessee,2019,August,248000.0,-1.0%,7.5%,"9,369",-0.2%,1.7%,August 2019
+434,Tennessee,2019,September,243000.0,-2.0%,7.7%,"8,287",-11.6%,10.3%,September 2019
+435,Tennessee,2019,October,244000.0,0.5%,8.1%,"8,245",-0.5%,5.4%,October 2019
+436,Tennessee,2019,November,246000.0,0.8%,7.7%,"7,309",-11.3%,5.0%,November 2019
+437,Tennessee,2019,December,250000.0,1.8%,10.0%,"7,578",3.7%,16.3%,December 2019
+438,Tennessee,2020,January,239000.0,-4.4%,6.3%,"6,036",-20.3%,17.3%,January 2020
+439,Tennessee,2020,February,245000.0,2.5%,10.2%,"6,381",5.8%,6.9%,February 2020
+440,Tennessee,2020,March,256000.0,4.4%,10.2%,"7,882",23.4%,6.0%,March 2020
+441,Tennessee,2020,April,258000.0,0.8%,10.1%,"7,158",-9.2%,-11.7%,April 2020
+442,Tennessee,2020,May,257000.0,-0.5%,4.4%,"7,514",5.0%,-21.0%,May 2020
+443,Tennessee,2020,June,264000.0,3.0%,4.2%,"9,619",27.9%,5.5%,June 2020
+444,Tennessee,2020,July,275000.0,4.2%,10.0%,"10,766",12.0%,14.7%,July 2020
+445,Tennessee,2020,August,278000.0,1.1%,12.4%,"9,794",-9.1%,4.5%,August 2020
+446,Tennessee,2020,September,276000.0,-0.7%,13.9%,"9,867",0.7%,19.1%,September 2020
+447,Tennessee,2020,October,286000.0,3.6%,17.4%,"9,693",-1.8%,17.6%,October 2020
+448,Tennessee,2020,November,278000.0,-3.0%,13.0%,"8,419",-13.1%,15.2%,November 2020
+449,Tennessee,2020,December,280000.0,0.8%,11.9%,"9,365",11.2%,23.6%,December 2020
+450,Tennessee,2021,January,272000.0,-2.7%,14.0%,"6,597",-29.5%,9.3%,January 2021
+451,Tennessee,2021,February,280000.0,2.6%,14.0%,"6,612",0.2%,3.6%,February 2021
+452,Tennessee,2021,March,287000.0,2.6%,12.1%,"8,654",30.8%,9.8%,March 2021
+453,Tennessee,2021,April,304000.0,6.1%,18.1%,"8,806",1.7%,23.0%,April 2021
+454,Tennessee,2021,May,308000.0,1.3%,20.1%,"8,958",1.7%,19.1%,May 2021
+455,Tennessee,2021,June,325000.0,5.4%,23.0%,"10,364",15.7%,7.7%,June 2021
+456,Tennessee,2021,July,324000.0,-0.4%,17.6%,"10,013",-3.4%,-7.0%,July 2021
+457,Tennessee,2021,August,326000.0,0.8%,17.3%,"10,316",3.1%,5.4%,August 2021
+458,Tennessee,2021,September,325000.0,-0.2%,17.8%,"9,638",-6.6%,-2.3%,September 2021
+459,Tennessee,2021,October,334000.0,2.7%,16.7%,"9,248",-4.1%,-4.6%,October 2021
+460,Tennessee,2021,November,336000.0,0.4%,20.8%,"9,118",-1.4%,8.3%,November 2021
+461,Tennessee,2021,December,342000.0,2.0%,22.3%,"9,347",2.5%,-0.2%,December 2021
+462,Tennessee,2022,January,329000.0,-3.9%,20.8%,"6,610",-29.2%,0.2%,January 2022
+463,Tennessee,2022,February,345000.0,4.9%,23.6%,"6,832",3.3%,3.3%,February 2022
+464,Tennessee,2022,March,357000.0,3.4%,24.5%,"8,724",27.7%,0.8%,March 2022
+465,Tennessee,2022,April,374000.0,4.8%,22.9%,"8,675",-0.6%,-1.5%,April 2022
+466,Tennessee,2022,May,388000.0,3.7%,25.8%,"9,328",7.5%,4.1%,May 2022
+467,Tennessee,2022,June,385000.0,-0.6%,18.6%,"9,776",4.8%,-5.7%,June 2022
+468,Tennessee,2022,July,371000.0,-3.7%,14.7%,"8,494",-13.1%,-15.2%,July 2022
+469,Tennessee,2022,August,363000.0,-2.1%,11.4%,"8,750",3.1%,-15.2%,August 2022
+470,Tennessee,2022,September,368000.0,1.2%,12.9%,"8,386",-4.2%,-13.0%,September 2022
+471,Tennessee,2022,October,363000.0,-1.4%,8.5%,"6,898",-17.7%,-25.4%,October 2022
+472,Tennessee,2022,November,358000.0,-1.3%,6.6%,"6,051",-12.3%,-33.6%,November 2022
+473,Tennessee,2022,December,362000.0,1.3%,5.8%,"6,036",-0.2%,-35.4%,December 2022
+474,Tennessee,2023,January,350000.0,-3.3%,6.4%,"4,487",-25.7%,-32.2%,January 2023
+475,Tennessee,2023,February,354000.0,1.0%,2.4%,"5,254",17.1%,-23.1%,February 2023
+476,Tennessee,2023,March,366000.0,3.4%,2.5%,"7,263",38.2%,-16.7%,March 2023
+477,Tennessee,2023,April,366000.0,0.1%,-2.1%,"6,400",-11.9%,-26.2%,April 2023
+478,Tennessee,2023,May,381000.0,4.0%,-1.8%,"7,950",24.2%,-14.8%,May 2023
+479,Tennessee,2023,June,388000.0,1.9%,0.7%,"8,209",3.3%,-16.0%,June 2023
+480,Tennessee,2023,July,387000.0,-0.2%,4.2%,"7,002",-14.7%,-17.6%,July 2023
+481,Tennessee,2023,August,385000.0,-0.4%,6.1%,"7,636",9.1%,-12.8%,August 2023
+482,Tennessee,2023,September,370000.0,-3.9%,0.8%,"6,573",-13.9%,-21.5%,September 2023
+483,Tennessee,2023,October,373000.0,0.8%,3.0%,"6,500",-1.1%,-5.7%,October 2023
+484,Tennessee,2023,November,372000.0,-0.4%,4.0%,"5,779",-11.2%,-4.5%,November 2023
+485,Tennessee,2023,December,378000.0,1.6%,4.3%,"5,647",-2.2%,-6.4%,December 2023
+486,Tennessee,2024,January,370000.0,-2.2%,5.4%,"4,522",-19.9%,0.8%,January 2024
+487,Tennessee,2024,February,374000.0,1.3%,5.8%,"5,323",17.8%,1.3%,February 2024
+488,Tennessee,2024,March,387000.0,3.4%,5.7%,"6,652",25.0%,-8.4%,March 2024
+489,Tennessee,2024,April,396000.0,2.3%,8.1%,"7,211",8.4%,12.8%,April 2024
+490,Tennessee,2024,May,401000.0,1.3%,5.3%,"8,221",14.0%,3.4%,May 2024
+491,Tennessee,2024,June,407000.0,1.4%,4.9%,"7,069",-14.0%,-13.9%,June 2024
+492,Tennessee,2024,July,398000.0,-2.0%,3.0%,"7,508",6.2%,7.2%,July 2024
+493,Tennessee,2024,August,397000.0,-0.4%,2.9%,"7,357",-2.0%,-3.7%,August 2024
+494,Tennessee,2024,September,390000.0,-1.6%,5.4%,"6,455",-12.2%,-1.8%,September 2024
+495,Tennessee,2024,October,396000.0,1.4%,6.0%,"6,694",3.6%,2.9%,October 2024
+496,Tennessee,2024,November,397000.0,0.4%,6.8%,"5,996",-10.4%,3.8%,November 2024
+497,Tennessee,2024,December,406000.0,2.2%,7.4%,"6,233",4.0%,10.4%,December 2024
+498,Tennessee,2025,January,395000.0,-2.8%,6.8%,"4,665",-25.1%,3.2%,January 2025
+499,Tennessee,2025,February,387000.0,-2.1%,3.2%,"5,140",10.1%,-3.4%,February 2025
+500,Tennessee,2025,March,398000.0,3.0%,2.8%,"6,376",24.1%,-4.1%,March 2025
+501,Tennessee,2025,April,404000.0,1.5%,2.0%,"6,877",7.8%,-4.6%,April 2025
+502,Tennessee,2025,May,412000.0,2.0%,2.7%,"7,609",10.6%,-7.4%,May 2025
+503,Tennessee,2025,June,420000.0,2.0%,3.3%,"7,738",1.7%,9.5%,June 2025
+504,Tennessee,2025,July,407000.0,-3.2%,2.1%,"7,681",-0.7%,2.3%,July 2025
+505,Tennessee,2025,August,404000.0,-0.6%,1.9%,"7,501",-2.3%,2.0%,August 2025
+506,Tennessee,2025,September,402000.0,-0.5%,3.1%,"7,012",-6.5%,8.6%,September 2025
+507,Tennessee,2025,October,416000.0,3.5%,5.2%,"6,788",-3.2%,1.4%,October 2025
+508,Tennessee,2025,November,402000.0,-3.5%,1.1%,"5,737",-15.5%,-4.3%,November 2025
+509,Tennessee,2025,December,411000.0,2.4%,1.3%,"6,986",21.8%,12.1%,December 2025
+510,Tennessee,2026,January,393000.0,-4.6%,-0.5%,"4,634",-33.6%,-0.7%,January 2026
+511,Tennessee,2026,February,397000.0,1.0%,2.6%,"5,306",14.6%,3.4%,February 2026
+512,Tennessee,2026,March,403000.0,1.5%,1.2%,"6,413",20.7%,0.5%,March 2026
+513,Virginia,2012,January,258000.0,-6.7%,-2.9%,"2,623",-23.4%,9.6%,January 2012
+514,Virginia,2012,February,255000.0,-0.9%,-1.6%,"3,035",14.8%,16.5%,February 2012
+515,Virginia,2012,March,277000.0,9.1%,0.6%,"3,878",26.9%,11.5%,March 2012
+516,Virginia,2012,April,301000.0,8.8%,3.9%,"4,209",8.5%,15.2%,April 2012
+517,Virginia,2012,May,312000.0,3.1%,5.3%,"5,015",19.8%,19.6%,May 2012
+518,Virginia,2012,June,334000.0,7.6%,6.5%,"5,305",5.0%,4.2%,June 2012
+519,Virginia,2012,July,327000.0,-2.4%,5.4%,"4,520",-14.3%,6.3%,July 2012
+520,Virginia,2012,August,310000.0,-4.8%,2.2%,"4,730",4.3%,11.0%,August 2012
+521,Virginia,2012,September,298000.0,-4.4%,3.9%,"3,689",-21.5%,2.0%,September 2012
+522,Virginia,2012,October,286000.0,-4.0%,9.3%,"3,797",2.9%,18.5%,October 2012
+523,Virginia,2012,November,304000.0,6.5%,11.3%,"3,913",3.1%,24.7%,November 2012
+524,Virginia,2012,December,301000.0,-0.9%,9.0%,"3,638",-7.1%,6.2%,December 2012
+525,Virginia,2013,January,271000.0,-10.3%,5.9%,"3,004",-17.4%,12.9%,January 2013
+526,Virginia,2013,February,284000.0,5.0%,12.2%,"3,169",5.5%,3.6%,February 2013
+527,Virginia,2013,March,302000.0,6.4%,9.1%,"3,918",23.3%,0.9%,March 2013
+528,Virginia,2013,April,315000.0,4.4%,4.8%,"4,728",20.9%,12.3%,April 2013
+529,Virginia,2013,May,338000.0,7.2%,9.0%,"5,775",21.8%,14.2%,May 2013
+530,Virginia,2013,June,353000.0,4.7%,6.0%,"6,016",4.2%,13.3%,June 2013
+531,Virginia,2013,July,334000.0,-5.6%,2.6%,"5,695",-5.3%,25.1%,July 2013
+532,Virginia,2013,August,326000.0,-2.2%,5.5%,"5,486",-3.9%,15.5%,August 2013
+533,Virginia,2013,September,311000.0,-4.7%,5.2%,"4,325",-21.0%,16.2%,September 2013
+534,Virginia,2013,October,305000.0,-2.1%,7.2%,"4,133",-4.1%,8.3%,October 2013
+535,Virginia,2013,November,293000.0,-3.9%,-3.3%,"3,865",-6.7%,-1.8%,November 2013
+536,Virginia,2013,December,307000.0,5.0%,2.0%,"4,199",8.4%,15.0%,December 2013
+537,Virginia,2014,January,274000.0,-10.7%,1.3%,"3,041",-27.6%,1.0%,January 2014
+538,Virginia,2014,February,288000.0,4.4%,1.5%,"2,941",-1.1%,-7.5%,February 2014
+539,Virginia,2014,March,299000.0,5.5%,-0.9%,"3,838",26.7%,-2.4%,March 2014
+540,Virginia,2014,April,318000.0,6.2%,1.2%,"4,634",22.1%,-2.4%,April 2014
+541,Virginia,2014,May,330000.0,4.1%,-2.3%,"5,375",14.6%,-7.1%,May 2014
+542,Virginia,2014,June,345000.0,4.4%,-2.4%,"6,115",14.1%,1.5%,June 2014
+543,Virginia,2014,July,325000.0,-5.5%,-2.7%,"5,804",-5.6%,1.7%,July 2014
+544,Virginia,2014,August,322000.0,-0.8%,-1.2%,"5,381",-7.4%,-2.1%,August 2014
+545,Virginia,2014,September,294000.0,-8.6%,-5.6%,"4,637",-14.1%,6.7%,September 2014
+546,Virginia,2014,October,293000.0,-0.4%,-3.9%,"4,766",2.6%,14.2%,October 2014
+547,Virginia,2014,November,302000.0,3.1%,3.8%,"3,800",-20.1%,-3.1%,November 2014
+548,Virginia,2014,December,313000.0,3.8%,2.5%,"4,685",23.2%,10.5%,December 2014
+549,Virginia,2015,January,292000.0,-6.3%,8.3%,"3,216",-31.7%,3.0%,January 2015
+550,Virginia,2015,February,275000.0,0.9%,5.0%,"4,439",5.8%,7.2%,February 2015
+551,Virginia,2015,March,286000.0,4.1%,3.3%,"6,183",39.3%,20.0%,March 2015
+552,Virginia,2015,April,297000.0,4.0%,1.4%,"6,482",4.7%,4.9%,April 2015
+553,Virginia,2015,May,314000.0,5.7%,3.6%,"7,620",17.4%,7.7%,May 2015
+554,Virginia,2015,June,321000.0,2.2%,-0.4%,"9,405",23.6%,19.6%,June 2015
+555,Virginia,2015,July,312000.0,-2.8%,3.2%,"8,657",-7.9%,14.0%,July 2015
+556,Virginia,2015,August,303000.0,-3.0%,0.9%,"7,439",-14.1%,6.1%,August 2015
+557,Virginia,2015,September,286000.0,-5.6%,2.9%,"7,110",-4.4%,16.8%,September 2015
+558,Virginia,2015,October,284000.0,-0.8%,2.7%,"6,498",-8.6%,4.8%,October 2015
+559,Virginia,2015,November,291000.0,2.2%,2.5%,"5,150",-20.4%,4.4%,November 2015
+560,Virginia,2015,December,293000.0,0.8%,-0.1%,"6,494",25.9%,6.5%,December 2015
+561,Virginia,2016,January,280000.0,-4.4%,2.8%,"4,459",-31.3%,6.3%,January 2016
+562,Virginia,2016,February,271000.0,-3.1%,-1.3%,"4,810",7.7%,8.0%,February 2016
+563,Virginia,2016,March,284000.0,4.8%,-0.7%,"6,400",33.3%,3.4%,March 2016
+564,Virginia,2016,April,302000.0,6.4%,1.6%,"7,541",17.7%,16.3%,April 2016
+565,Virginia,2016,May,312000.0,3.4%,-0.6%,"8,843",17.2%,16.1%,May 2016
+566,Virginia,2016,June,325000.0,4.3%,1.4%,"10,108",14.3%,7.3%,June 2016
+567,Virginia,2016,July,315000.0,-3.2%,1.0%,"8,614",-14.7%,-0.7%,July 2016
+568,Virginia,2016,August,309000.0,-1.9%,2.2%,"8,842",2.6%,18.7%,August 2016
+569,Virginia,2016,September,289000.0,-6.5%,1.1%,"7,543",-14.6%,6.0%,September 2016
+570,Virginia,2016,October,293000.0,1.6%,3.3%,"6,744",-10.7%,3.8%,October 2016
+571,Virginia,2016,November,293000.0,-0.5%,0.9%,"6,440",-4.2%,24.5%,November 2016
+572,Virginia,2016,December,300000.0,2.9%,2.7%,"6,858",6.1%,5.4%,December 2016
+573,Virginia,2017,January,288000.0,-4.3%,3.0%,"4,865",-28.8%,8.8%,January 2017
+574,Virginia,2017,February,291000.0,0.8%,7.3%,"4,906",1.2%,2.2%,February 2017
+575,Virginia,2017,March,298000.0,2.7%,4.9%,"7,428",50.8%,16.1%,March 2017
+576,Virginia,2017,April,315000.0,5.8%,4.3%,"7,784",4.7%,3.3%,April 2017
+577,Virginia,2017,May,329000.0,4.6%,5.4%,"9,580",22.7%,8.3%,May 2017
+578,Virginia,2017,June,337000.0,2.6%,3.7%,"10,619",10.8%,5.0%,June 2017
+579,Virginia,2017,July,327000.0,-3.0%,3.8%,"8,723",-17.9%,1.2%,July 2017
+580,Virginia,2017,August,315000.0,-3.5%,2.1%,"9,069",4.0%,2.5%,August 2017
+581,Virginia,2017,September,295000.0,-6.2%,2.5%,"7,509",-17.3%,-0.8%,September 2017
+582,Virginia,2017,October,295000.0,-0.1%,0.9%,"7,429",-0.9%,9.8%,October 2017
+583,Virginia,2017,November,303000.0,2.9%,4.0%,"6,950",-6.9%,7.1%,November 2017
+584,Virginia,2017,December,302000.0,-0.3%,0.8%,"6,972",0.4%,1.5%,December 2017
+585,Virginia,2018,January,291000.0,-4.1%,1.4%,"5,076",-26.9%,3.8%,January 2018
+586,Virginia,2018,February,292000.0,0.4%,0.9%,"5,304",4.1%,6.9%,February 2018
+587,Virginia,2018,March,311000.0,6.7%,4.8%,"7,404",39.2%,-1.2%,March 2018
+588,Virginia,2018,April,325000.0,4.7%,3.7%,"8,128",9.7%,3.5%,April 2018
+589,Virginia,2018,May,332000.0,2.2%,1.3%,"9,376",15.2%,-2.8%,May 2018
+590,Virginia,2018,June,344000.0,3.6%,2.2%,"10,568",12.8%,-1.1%,June 2018
+591,Virginia,2018,July,329000.0,-4.3%,1.0%,"9,438",-10.7%,7.4%,July 2018
+592,Virginia,2018,August,324000.0,-1.3%,3.3%,"9,037",-4.3%,-1.1%,August 2018
+593,Virginia,2018,September,302000.0,-6.9%,2.6%,"6,862",-24.1%,-9.3%,September 2018
+594,Virginia,2018,October,306000.0,1.4%,4.1%,"7,352",7.2%,-1.7%,October 2018
+595,Virginia,2018,November,311000.0,1.7%,2.8%,"6,862",-6.6%,-1.5%,November 2018
+596,Virginia,2018,December,311000.0,-0.3%,2.8%,"6,303",-8.0%,-9.8%,December 2018
+597,Virginia,2019,January,304000.0,-2.1%,4.8%,"5,009",-20.5%,-1.8%,January 2019
+598,Virginia,2019,February,296000.0,-2.9%,1.4%,"5,449",8.9%,2.7%,February 2019
+599,Virginia,2019,March,315000.0,6.8%,1.5%,"7,315",34.0%,-1.2%,March 2019
+600,Virginia,2019,April,337000.0,7.1%,3.9%,"8,314",13.5%,2.2%,April 2019
+601,Virginia,2019,May,340000.0,0.9%,2.6%,"10,185",22.4%,8.5%,May 2019
+602,Virginia,2019,June,345000.0,1.4%,0.3%,"10,399",2.1%,-1.7%,June 2019
+603,Virginia,2019,July,339000.0,-1.6%,3.2%,"10,163",-2.3%,7.6%,July 2019
+604,Virginia,2019,August,330000.0,-2.8%,1.7%,"9,603",-5.5%,6.2%,August 2019
+605,Virginia,2019,September,319000.0,-3.2%,5.8%,"7,871",-18.0%,14.8%,September 2019
+606,Virginia,2019,October,315000.0,-1.4%,2.8%,"8,181",3.9%,11.3%,October 2019
+607,Virginia,2019,November,315000.0,-0.1%,1.1%,"7,061",-13.7%,2.8%,November 2019
+608,Virginia,2019,December,328000.0,4.2%,5.5%,"7,428",5.3%,17.7%,December 2019
+609,Virginia,2020,January,301000.0,-8.1%,-0.9%,"5,524",-25.6%,10.1%,January 2020
+610,Virginia,2020,February,318000.0,5.2%,7.6%,"5,971",8.1%,9.2%,February 2020
+611,Virginia,2020,March,341000.0,7.2%,8.2%,"8,263",38.5%,12.8%,March 2020
+612,Virginia,2020,April,352000.0,3.3%,4.4%,"8,011",-3.0%,-3.7%,April 2020
+613,Virginia,2020,May,341000.0,-3.0%,0.4%,"8,458",5.5%,-16.9%,May 2020
+614,Virginia,2020,June,347000.0,1.8%,0.8%,"10,544",24.6%,1.5%,June 2020
+615,Virginia,2020,July,373000.0,7.5%,10.1%,"11,488",8.9%,13.1%,July 2020
+616,Virginia,2020,August,368000.0,-1.4%,11.7%,"10,634",-7.5%,10.7%,August 2020
+617,Virginia,2020,September,368000.0,-0.2%,15.2%,"10,137",-4.6%,28.7%,September 2020
+618,Virginia,2020,October,369000.0,0.4%,17.2%,"10,321",1.8%,26.1%,October 2020
+619,Virginia,2020,November,368000.0,-0.2%,17.0%,"8,931",-13.5%,26.5%,November 2020
+620,Virginia,2020,December,356000.0,-3.3%,8.6%,"9,574",7.2%,28.9%,December 2020
+621,Virginia,2021,January,346000.0,-2.7%,14.8%,"6,828",-28.7%,23.4%,January 2021
+622,Virginia,2021,February,360000.0,3.8%,13.2%,"6,607",-3.1%,10.7%,February 2021
+623,Virginia,2021,March,382000.0,6.3%,12.2%,"8,953",35.5%,8.4%,March 2021
+624,Virginia,2021,April,406000.0,6.4%,15.4%,"10,097",12.5%,25.9%,April 2021
+625,Virginia,2021,May,420000.0,3.5%,23.1%,"10,825",7.2%,28.0%,May 2021
+626,Virginia,2021,June,424000.0,1.0%,22.2%,"12,618",16.4%,19.6%,June 2021
+627,Virginia,2021,July,408000.0,-3.9%,9.2%,"11,642",-7.7%,1.4%,July 2021
+628,Virginia,2021,August,396000.0,-3.0%,7.4%,"11,056",-5.0%,4.0%,August 2021
+629,Virginia,2021,September,389000.0,-1.6%,5.8%,"10,021",-9.3%,-1.0%,September 2021
+630,Virginia,2021,October,395000.0,1.4%,6.9%,"9,594",-4.1%,-6.9%,October 2021
+631,Virginia,2021,November,393000.0,-0.4%,6.7%,"9,080",-5.6%,1.8%,November 2021
+632,Virginia,2021,December,387000.0,-1.5%,8.8%,"9,188",1.2%,-4.0%,December 2021
+633,Virginia,2022,January,368000.0,-5.1%,6.1%,"6,251",-32.0%,-8.4%,January 2022
+634,Virginia,2022,February,394000.0,7.0%,9.4%,"6,164",-1.2%,-6.6%,February 2022
+635,Virginia,2022,March,430000.0,9.1%,12.5%,"8,565",38.7%,-4.6%,March 2022
+636,Virginia,2022,April,443000.0,3.1%,9.1%,"9,173",7.1%,-9.3%,April 2022
+637,Virginia,2022,May,460000.0,3.9%,9.5%,"10,077",9.8%,-7.0%,May 2022
+638,Virginia,2022,June,453000.0,-1.5%,6.7%,"10,395",3.2%,-17.6%,June 2022
+639,Virginia,2022,July,433000.0,-4.5%,6.1%,"8,894",-14.4%,-23.6%,July 2022
+640,Virginia,2022,August,414000.0,-4.3%,4.6%,"9,133",2.7%,-17.3%,August 2022
+641,Virginia,2022,September,403000.0,-2.8%,3.4%,"7,876",-13.7%,-21.4%,September 2022
+642,Virginia,2022,October,406000.0,0.9%,2.9%,"6,979",-11.5%,-27.5%,October 2022
+643,Virginia,2022,November,396000.0,-2.3%,0.9%,"6,055",-13.3%,-33.3%,November 2022
+644,Virginia,2022,December,396000.0,0.0%,2.4%,"5,874",-3.1%,-36.1%,December 2022
+645,Virginia,2023,January,384000.0,-3.2%,4.4%,"4,344",-25.9%,-30.5%,January 2023
+646,Virginia,2023,February,397000.0,3.3%,0.9%,"5,119",18.0%,-17.0%,February 2023
+647,Virginia,2023,March,418000.0,5.3%,-2.6%,"6,724",31.4%,-21.4%,March 2023
+648,Virginia,2023,April,439000.0,4.9%,-0.9%,"6,489",-3.5%,-29.2%,April 2023
+649,Virginia,2023,May,457000.0,4.1%,-0.7%,"8,133",25.3%,-19.2%,May 2023
+650,Virginia,2023,June,461000.0,1.0%,1.8%,"8,697",6.8%,-16.3%,June 2023
+651,Virginia,2023,July,453000.0,-1.8%,4.6%,"7,068",-18.6%,-20.5%,July 2023
+652,Virginia,2023,August,452000.0,-0.3%,9.0%,"7,450",5.4%,-18.4%,August 2023
+653,Virginia,2023,September,428000.0,-5.0%,6.5%,"6,173",-17.4%,-21.7%,September 2023
+654,Virginia,2023,October,433000.0,1.1%,6.7%,"6,024",-2.4%,-13.8%,October 2023
+655,Virginia,2023,November,428000.0,-1.2%,8.0%,"5,466",-9.3%,-9.8%,November 2023
+656,Virginia,2023,December,416000.0,-2.9%,4.8%,"5,495",0.7%,-6.3%,December 2023
+657,Virginia,2024,January,411000.0,-1.3%,6.8%,"4,343",-20.8%,0.1%,January 2024
+658,Virginia,2024,February,429000.0,4.6%,8.2%,"5,074",16.8%,-0.9%,February 2024
+659,Virginia,2024,March,444000.0,3.4%,6.2%,"6,403",26.0%,-4.9%,March 2024
+660,Virginia,2024,April,477000.0,7.5%,8.7%,"7,118",11.4%,9.7%,April 2024
+661,Virginia,2024,May,492000.0,3.2%,7.8%,"8,321",16.6%,2.1%,May 2024
+662,Virginia,2024,June,491000.0,-0.1%,6.6%,"7,799",-6.2%,-10.3%,June 2024
+663,Virginia,2024,July,482000.0,-1.8%,6.5%,"7,657",-1.8%,8.3%,July 2024
+664,Virginia,2024,August,465000.0,-3.6%,3.1%,"7,267",-5.2%,-2.7%,August 2024
+665,Virginia,2024,September,468000.0,0.6%,9.1%,"6,250",-14.0%,1.3%,September 2024
+666,Virginia,2024,October,461000.0,-1.5%,6.3%,"6,715",7.4%,11.5%,October 2024
+667,Virginia,2024,November,465000.0,0.9%,8.6%,"6,058",-9.8%,10.9%,November 2024
+668,Virginia,2024,December,465000.0,0.0%,12.0%,"5,984",-1.1%,8.9%,December 2024
+669,Virginia,2025,January,440000.0,-5.3%,7.3%,"4,522",-24.5%,4.0%,January 2025
+670,Virginia,2025,February,456000.0,3.6%,6.2%,"4,715",4.4%,-7.1%,February 2025
+671,Virginia,2025,March,484000.0,6.1%,8.9%,"5,956",26.2%,-6.8%,March 2025
+672,Virginia,2025,April,492000.0,1.8%,3.2%,"7,235",21.4%,1.6%,April 2025
+673,Virginia,2025,May,501000.0,1.8%,1.9%,"8,367",15.5%,0.6%,May 2025
+674,Virginia,2025,June,514000.0,2.7%,4.7%,"8,285",-1.0%,6.1%,June 2025
+675,Virginia,2025,July,495000.0,-3.9%,2.6%,"7,856",-5.1%,2.5%,July 2025
+676,Virginia,2025,August,484000.0,-2.2%,4.2%,"7,291",-7.1%,0.3%,August 2025
+677,Virginia,2025,September,472000.0,-2.5%,0.9%,"6,914",-5.1%,10.6%,September 2025
+678,Virginia,2025,October,489000.0,3.8%,6.3%,"6,953",0.4%,3.5%,October 2025
+679,Virginia,2025,November,477000.0,-2.6%,2.5%,"5,855",-15.6%,-3.3%,November 2025
+680,Virginia,2025,December,467000.0,-2.0%,0.4%,"6,556",11.9%,9.5%,December 2025
+681,Virginia,2026,January,440000.0,-5.6%,0.1%,"4,548",-30.7%,0.6%,January 2026
+682,Virginia,2026,February,466000.0,5.8%,2.2%,"5,008",10.1%,6.1%,February 2026
+683,Virginia,2026,March,488000.0,4.7%,0.9%,"6,363",27.2%,6.8%,March 2026
+684,West Virginia,2012,January,108000.0,-15.2%,-11.3%,271,-25.1%,-4.6%,January 2012
+685,West Virginia,2012,February,116000.0,7.7%,6.1%,303,10.6%,11.0%,February 2012
+686,West Virginia,2012,March,124000.0,6.5%,1.9%,382,26.1%,13.7%,March 2012
+687,West Virginia,2012,April,127000.0,2.3%,6.3%,391,2.9%,-1.3%,April 2012
+688,West Virginia,2012,May,119000.0,-4.8%,-1.7%,443,16.0%,11.6%,May 2012
+689,West Virginia,2012,June,126000.0,5.7%,-2.6%,434,-3.8%,7.2%,June 2012
+690,West Virginia,2012,July,132000.0,4.1%,7.0%,437,1.9%,10.4%,July 2012
+691,West Virginia,2012,August,128000.0,-2.4%,6.1%,443,-0.2%,1.6%,August 2012
+692,West Virginia,2012,September,133000.0,4.3%,8.4%,428,-3.2%,11.7%,September 2012
+693,West Virginia,2012,October,128000.0,-3.9%,14.5%,440,3.5%,15.5%,October 2012
+694,West Virginia,2012,November,131000.0,2.8%,12.6%,397,-10.2%,26.8%,November 2012
+695,West Virginia,2012,December,121000.0,-8.5%,-5.3%,366,-6.6%,0.8%,December 2012
+696,West Virginia,2013,January,126000.0,3.9%,16.2%,302,-17.7%,12.3%,January 2013
+697,West Virginia,2013,February,128000.0,3.6%,10.6%,310,-1.0%,1.6%,February 2013
+698,West Virginia,2013,March,131000.0,1.9%,5.4%,418,36.6%,11.5%,March 2013
+699,West Virginia,2013,April,129000.0,-1.5%,0.9%,431,2.6%,11.4%,April 2013
+700,West Virginia,2013,May,136000.0,5.0%,14.1%,467,7.9%,3.5%,May 2013
+701,West Virginia,2013,June,150000.0,9.3%,18.6%,474,2.2%,9.5%,June 2013
+702,West Virginia,2013,July,154000.0,3.0%,16.4%,497,4.4%,12.7%,July 2013
+703,West Virginia,2013,August,144000.0,-5.2%,12.8%,529,4.8%,18.6%,August 2013
+704,West Virginia,2013,September,136000.0,-6.0%,2.3%,467,-11.0%,8.9%,September 2013
+705,West Virginia,2013,October,134000.0,-2.0%,5.2%,471,0.4%,5.6%,October 2013
+706,West Virginia,2013,November,135000.0,1.3%,2.4%,422,-11.5%,6.3%,November 2013
+707,West Virginia,2013,December,144000.0,7.2%,19.5%,388,-7.6%,3.7%,December 2013
+708,West Virginia,2014,January,134000.0,-7.0%,6.8%,288,-24.4%,-5.9%,January 2014
+709,West Virginia,2014,February,129000.0,-4.6%,0.5%,273,-3.9%,-9.9%,February 2014
+710,West Virginia,2014,March,127000.0,1.2%,-1.8%,426,27.5%,2.7%,March 2014
+711,West Virginia,2014,April,133000.0,7.3%,3.1%,447,23.1%,2.8%,April 2014
+712,West Virginia,2014,May,146000.0,9.7%,7.9%,510,14.1%,8.7%,May 2014
+713,West Virginia,2014,June,149000.0,1.4%,0.4%,503,2.2%,7.5%,June 2014
+714,West Virginia,2014,July,157000.0,4.2%,3.4%,629,11.3%,25.0%,July 2014
+715,West Virginia,2014,August,146000.0,-4.2%,2.6%,689,-5.7%,12.4%,August 2014
+716,West Virginia,2014,September,139000.0,-5.3%,-5.7%,603,-5.6%,-2.4%,September 2014
+717,West Virginia,2014,October,147000.0,2.7%,10.9%,766,7.7%,22.4%,October 2014
+718,West Virginia,2014,November,141000.0,-2.5%,5.6%,646,-19.7%,14.1%,November 2014
+719,West Virginia,2014,December,133000.0,1.4%,-6.3%,671,9.3%,30.8%,December 2014
+720,West Virginia,2015,January,131000.0,-0.5%,-0.5%,466,-32.1%,21.0%,January 2015
+721,West Virginia,2015,February,141000.0,8.3%,9.7%,437,3.3%,18.4%,February 2015
+722,West Virginia,2015,March,138000.0,-0.7%,3.8%,667,31.8%,37.2%,March 2015
+723,West Virginia,2015,April,152000.0,6.4%,12.9%,627,-2.2%,7.4%,April 2015
+724,West Virginia,2015,May,160000.0,7.3%,10.3%,888,22.7%,22.8%,May 2015
+725,West Virginia,2015,June,165000.0,3.1%,8.2%,"1,041",17.8%,12.3%,June 2015
+726,West Virginia,2015,July,155000.0,-6.0%,-0.6%,"1,020",-3.0%,7.3%,July 2015
+727,West Virginia,2015,August,147000.0,-5.3%,-4.1%,943,-7.5%,5.6%,August 2015
+728,West Virginia,2015,September,150000.0,2.6%,7.1%,944,0.0%,8.5%,September 2015
+729,West Virginia,2015,October,144000.0,-4.0%,1.9%,914,-2.6%,-0.4%,October 2015
+730,West Virginia,2015,November,150000.0,4.3%,9.0%,651,-28.3%,-9.6%,November 2015
+731,West Virginia,2015,December,148000.0,-1.3%,8.4%,765,17.9%,-2.5%,December 2015
+732,West Virginia,2016,January,143000.0,-2.9%,7.3%,591,-23.9%,6.9%,January 2016
+733,West Virginia,2016,February,147000.0,1.8%,7.3%,598,2.0%,7.4%,February 2016
+734,West Virginia,2016,March,146000.0,-0.6%,4.4%,682,13.9%,-8.2%,March 2016
+735,West Virginia,2016,April,152000.0,4.3%,2.2%,800,17.1%,9.4%,April 2016
+736,West Virginia,2016,May,151000.0,-0.2%,-5.0%,889,10.7%,-1.0%,May 2016
+737,West Virginia,2016,June,166000.0,9.5%,0.4%,957,8.6%,-8.4%,June 2016
+738,West Virginia,2016,July,169000.0,1.9%,9.0%,861,-11.1%,-15.4%,July 2016
+739,West Virginia,2016,August,158000.0,-6.4%,7.8%,972,12.4%,3.2%,August 2016
+740,West Virginia,2016,September,159000.0,0.4%,6.5%,927,-4.8%,-2.9%,September 2016
+741,West Virginia,2016,October,155000.0,-2.9%,7.3%,873,-4.7%,-4.4%,October 2016
+742,West Virginia,2016,November,151000.0,-2.5%,0.1%,836,-3.2%,28.8%,November 2016
+743,West Virginia,2016,December,154000.0,1.3%,3.9%,756,-9.2%,-1.0%,December 2016
+744,West Virginia,2017,January,146000.0,-4.8%,1.9%,580,-23.8%,-1.4%,January 2017
+745,West Virginia,2017,February,146000.0,0.6%,-0.9%,532,-8.4%,-10.7%,February 2017
+746,West Virginia,2017,March,148000.0,2.0%,1.7%,789,46.4%,15.0%,March 2017
+747,West Virginia,2017,April,158000.0,6.7%,1.3%,828,5.7%,9.4%,April 2017
+748,West Virginia,2017,May,163000.0,3.0%,6.5%,980,18.5%,13.6%,May 2017
+749,West Virginia,2017,June,172000.0,5.8%,4.0%,"1,056",6.5%,8.4%,June 2017
+750,West Virginia,2017,July,165000.0,-4.2%,-2.1%,905,-13.8%,5.0%,July 2017
+751,West Virginia,2017,August,162000.0,-1.9%,2.2%,"1,037",14.0%,6.7%,August 2017
+752,West Virginia,2017,September,161000.0,-0.6%,1.1%,941,-9.0%,2.0%,September 2017
+753,West Virginia,2017,October,154000.0,-4.6%,-0.6%,897,-4.4%,2.9%,October 2017
+754,West Virginia,2017,November,152000.0,-1.3%,0.5%,819,-8.4%,-2.4%,November 2017
+755,West Virginia,2017,December,167000.0,9.4%,9.4%,859,6.0%,13.0%,December 2017
+756,West Virginia,2018,January,151000.0,-9.4%,5.2%,660,-23.8%,11.7%,January 2018
+757,West Virginia,2018,February,155000.0,1.7%,6.8%,622,-5.8%,15.8%,February 2018
+758,West Virginia,2018,March,152000.0,-1.9%,3.3%,797,29.0%,1.0%,March 2018
+759,West Virginia,2018,April,155000.0,1.5%,-1.7%,820,3.1%,-1.2%,April 2018
+760,West Virginia,2018,May,167000.0,8.9%,3.1%,"1,021",23.2%,3.1%,May 2018
+761,West Virginia,2018,June,172000.0,2.9%,0.2%,"1,079",5.5%,2.0%,June 2018
+762,West Virginia,2018,July,176000.0,2.7%,6.6%,993,-8.2%,9.1%,July 2018
+763,West Virginia,2018,August,163000.0,-8.1%,0.4%,"1,053",6.7%,1.8%,August 2018
+764,West Virginia,2018,September,171000.0,5.0%,5.8%,836,-20.5%,-10.9%,September 2018
+765,West Virginia,2018,October,162000.0,-4.9%,5.5%,973,15.8%,8.1%,October 2018
+766,West Virginia,2018,November,159000.0,-1.9%,5.2%,850,-12.3%,3.8%,November 2018
+767,West Virginia,2018,December,160000.0,0.3%,-4.3%,718,-15.6%,-16.5%,December 2018
+768,West Virginia,2019,January,155000.0,-2.9%,1.9%,585,-18.8%,-11.0%,January 2019
+769,West Virginia,2019,February,146000.0,-5.5%,-5.7%,645,11.6%,5.0%,February 2019
+770,West Virginia,2019,March,160000.0,10.2%,4.8%,802,23.0%,2.2%,March 2019
+771,West Virginia,2019,April,164000.0,2.1%,6.5%,"1,027",25.9%,23.9%,April 2019
+772,West Virginia,2019,May,175000.0,6.8%,4.5%,"1,105",7.5%,8.1%,May 2019
+773,West Virginia,2019,June,178000.0,2.2%,3.8%,"1,199",8.9%,10.9%,June 2019
+774,West Virginia,2019,July,179000.0,0.5%,1.8%,"1,155",-3.8%,16.4%,July 2019
+775,West Virginia,2019,August,172000.0,-4.4%,5.5%,"1,160",0.5%,9.7%,August 2019
+776,West Virginia,2019,September,176000.0,1.9%,3.4%,"1,011",-11.3%,20.5%,September 2019
+777,West Virginia,2019,October,164000.0,-5.4%,1.2%,"1,123",7.7%,14.1%,October 2019
+778,West Virginia,2019,November,166000.0,0.4%,4.8%,929,-14.7%,8.4%,November 2019
+779,West Virginia,2019,December,171000.0,3.6%,7.6%,986,4.1%,35.6%,December 2019
+780,West Virginia,2020,January,163000.0,-5.0%,5.3%,766,-21.8%,30.3%,January 2020
+781,West Virginia,2020,February,165000.0,2.2%,13.2%,754,-1.7%,14.8%,February 2020
+782,West Virginia,2020,March,174000.0,5.6%,8.7%,"1,008",33.0%,23.5%,March 2020
+783,West Virginia,2020,April,179000.0,2.5%,9.3%,951,-5.7%,-7.5%,April 2020
+784,West Virginia,2020,May,173000.0,-3.2%,-1.4%,925,-2.8%,-16.1%,May 2020
+785,West Virginia,2020,June,179000.0,3.9%,0.7%,"1,222",32.7%,1.7%,June 2020
+786,West Virginia,2020,July,189000.0,4.8%,5.2%,"1,422",16.6%,22.9%,July 2020
+787,West Virginia,2020,August,189000.0,-0.2%,9.8%,"1,330",-6.5%,14.6%,August 2020
+788,West Virginia,2020,September,185000.0,-1.7%,6.9%,"1,423",6.2%,36.3%,September 2020
+789,West Virginia,2020,October,184000.0,-1.1%,12.0%,"1,428",0.8%,27.8%,October 2020
+790,West Virginia,2020,November,188000.0,2.1%,13.4%,"1,187",-16.5%,25.9%,November 2020
+791,West Virginia,2020,December,193000.0,2.8%,12.5%,"1,167",-1.9%,18.8%,December 2020
+792,West Virginia,2021,January,192000.0,-0.5%,18.4%,963,-17.9%,24.7%,January 2021
+793,West Virginia,2021,February,183000.0,-4.7%,10.7%,869,-9.9%,14.3%,February 2021
+794,West Virginia,2021,March,193000.0,5.5%,10.4%,"1,086",25.5%,8.1%,March 2021
+795,West Virginia,2021,April,194000.0,0.4%,8.4%,"1,243",14.4%,30.6%,April 2021
+796,West Virginia,2021,May,209000.0,8.3%,20.7%,"1,211",-3.4%,30.5%,May 2021
+797,West Virginia,2021,June,213000.0,2.0%,18.4%,"1,486",22.7%,21.1%,June 2021
+798,West Virginia,2021,July,219000.0,2.7%,15.8%,"1,399",-5.7%,-1.8%,July 2021
+799,West Virginia,2021,August,211000.0,-3.7%,11.7%,"1,314",-6.0%,-1.5%,August 2021
+800,West Virginia,2021,September,212000.0,0.7%,14.3%,"1,280",-2.8%,-9.7%,September 2021
+801,West Virginia,2021,October,213000.0,0.5%,16.1%,"1,334",4.7%,-6.3%,October 2021
+802,West Virginia,2021,November,214000.0,-0.2%,13.1%,"1,201",-9.2%,1.8%,November 2021
+803,West Virginia,2021,December,207000.0,-3.4%,6.8%,"1,187",-1.5%,1.5%,December 2021
+804,West Virginia,2022,January,208000.0,0.5%,7.9%,945,-20.6%,-1.5%,January 2022
+805,West Virginia,2022,February,208000.0,0.3%,13.8%,916,-3.2%,5.4%,February 2022
+806,West Virginia,2022,March,206000.0,-0.7%,6.8%,"1,050",14.6%,-3.3%,March 2022
+807,West Virginia,2022,April,226000.0,9.7%,16.8%,"1,142",8.1%,-8.7%,April 2022
+808,West Virginia,2022,May,226000.0,0.3%,8.4%,"1,258",10.2%,4.0%,May 2022
+809,West Virginia,2022,June,227000.0,0.4%,6.8%,"1,285",1.8%,-13.6%,June 2022
+810,West Virginia,2022,July,215000.0,-5.2%,-1.6%,"1,159",-9.5%,-17.2%,July 2022
+811,West Virginia,2022,August,223000.0,3.5%,5.8%,"1,262",8.9%,-4.0%,August 2022
+812,West Virginia,2022,September,228000.0,2.6%,7.5%,"1,136",-10.3%,-11.0%,September 2022
+813,West Virginia,2022,October,222000.0,-2.8%,4.0%,"1,076",-4.7%,-19.2%,October 2022
+814,West Virginia,2022,November,212000.0,-4.6%,-0.9%,932,-13.3%,-22.7%,November 2022
+815,West Virginia,2022,December,204000.0,-3.0%,-0.9%,874,-7.0%,-26.7%,December 2022
+816,West Virginia,2023,January,205000.0,0.0%,-1.2%,684,-21.0%,-27.5%,January 2023
+817,West Virginia,2023,February,203000.0,-1.4%,-3.0%,722,5.4%,-20.8%,February 2023
+818,West Virginia,2023,March,212000.0,5.1%,3.3%,944,29.8%,-10.8%,March 2023
+819,West Virginia,2023,April,223000.0,4.5%,-1.3%,916,-2.4%,-19.8%,April 2023
+820,West Virginia,2023,May,221000.0,-0.5%,-2.3%,"1,035",13.0%,-17.7%,May 2023
+821,West Virginia,2023,June,228000.0,3.4%,0.6%,"1,141",10.3%,-10.9%,June 2023
+822,West Virginia,2023,July,231000.0,1.0%,7.5%,"1,006",-11.8%,-13.4%,July 2023
+823,West Virginia,2023,August,233000.0,0.8%,4.6%,"1,148",13.9%,-9.3%,August 2023
+824,West Virginia,2023,September,225000.0,-3.7%,-1.6%,"1,006",-11.9%,-11.2%,September 2023
+825,West Virginia,2023,October,216000.0,-4.2%,-2.7%,"1,011",0.9%,-6.2%,October 2023
+826,West Virginia,2023,November,223000.0,3.4%,5.8%,905,-10.7%,-3.9%,November 2023
+827,West Virginia,2023,December,228000.0,2.3%,11.8%,859,-4.9%,-1.7%,December 2023
+828,West Virginia,2024,January,226000.0,-1.6%,9.9%,648,-23.9%,-5.3%,January 2024
+829,West Virginia,2024,February,233000.0,3.9%,15.0%,749,14.9%,4.0%,February 2024
+830,West Virginia,2024,March,236000.0,2.2%,11.0%,902,18.8%,-3.9%,March 2024
+831,West Virginia,2024,April,238000.0,0.8%,6.8%,953,6.1%,4.6%,April 2024
+832,West Virginia,2024,May,243000.0,2.2%,9.8%,"1,235",29.7%,20.1%,May 2024
+833,West Virginia,2024,June,239000.0,-1.0%,4.9%,"1,182",-5.8%,3.0%,June 2024
+834,West Virginia,2024,July,237000.0,-0.7%,2.8%,"1,184",0.6%,17.3%,July 2024
+835,West Virginia,2024,August,236000.0,-0.6%,1.5%,"1,212",2.3%,5.2%,August 2024
+836,West Virginia,2024,September,242000.0,2.8%,7.6%,"1,057",-13.2%,4.4%,September 2024
+837,West Virginia,2024,October,243000.0,0.2%,12.7%,"1,177",11.2%,16.3%,October 2024
+838,West Virginia,2024,November,249000.0,2.3%,11.6%,"1,027",-12.7%,13.6%,November 2024
+839,West Virginia,2024,December,239000.0,-4.0%,4.6%,"1,054",2.8%,22.7%,December 2024
+840,West Virginia,2025,January,235000.0,-2.0%,4.6%,778,-24.6%,19.9%,January 2025
+841,West Virginia,2025,February,241000.0,2.8%,3.7%,713,-8.8%,-4.9%,February 2025
+842,West Virginia,2025,March,242000.0,0.9%,2.2%,954,32.3%,6.2%,March 2025
+843,West Virginia,2025,April,246000.0,1.5%,3.4%,"1,033",9.2%,8.5%,April 2025
+844,West Virginia,2025,May,253000.0,3.5%,4.6%,"1,217",16.0%,-2.9%,May 2025
+845,West Virginia,2025,June,256000.0,0.9%,7.3%,"1,171",-3.4%,-0.8%,June 2025
+846,West Virginia,2025,July,251000.0,-2.1%,5.4%,"1,205",3.2%,1.9%,July 2025
+847,West Virginia,2025,August,257000.0,2.7%,9.1%,"1,155",-4.4%,-5.7%,August 2025
+848,West Virginia,2025,September,244000.0,-4.7%,0.8%,"1,144",-1.0%,7.5%,September 2025
+849,West Virginia,2025,October,251000.0,2.7%,3.3%,"1,177",3.0%,-0.4%,October 2025
+850,West Virginia,2025,November,258000.0,2.5%,3.5%,910,-22.4%,-11.3%,November 2025
+851,West Virginia,2025,December,248000.0,-4.0%,3.4%,"1,145",26.5%,9.3%,December 2025
+852,West Virginia,2026,January,243000.0,-1.9%,3.5%,732,-35.9%,-6.6%,January 2026
+853,West Virginia,2026,February,245000.0,1.7%,1.7%,868,16.8%,19.2%,February 2026
+854,West Virginia,2026,March,255000.0,3.9%,5.3%,942,9.0%,-1.5%,March 2026

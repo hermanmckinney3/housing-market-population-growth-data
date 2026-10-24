@@ -1,0 +1,1191 @@
+,Region,Year,Month,Median Sale Price,Median Sale Price MoM,Median Sale Price YoY,Homes Sold,Homes Sold MoM,Homes Sold YoY,Month of Period End
+0, National,2012,January,164000.0,-6.3%,-5.2%,"213,367",-23.5%,9.7%,January 2012
+1, National,2012,February,166000.0,1.0%,-1.8%,"235,203",10.2%,14.9%,February 2012
+2, National,2012,March,176000.0,5.8%,3.2%,"304,935",29.6%,7.8%,March 2012
+3, National,2012,April,184000.0,4.9%,6.7%,"313,375",2.8%,9.0%,April 2012
+4, National,2012,May,192000.0,4.2%,8.3%,"361,661",15.4%,17.5%,May 2012
+5, National,2012,June,200000.0,4.2%,7.2%,"383,071",5.9%,10.3%,June 2012
+6, National,2012,July,198000.0,-1.0%,7.2%,"354,636",-7.4%,14.4%,July 2012
+7, National,2012,August,197000.0,-0.4%,8.4%,"379,688",7.1%,14.4%,August 2012
+8, National,2012,September,194000.0,-1.8%,8.9%,"304,910",-19.7%,3.6%,September 2012
+9, National,2012,October,191000.0,-1.4%,10.4%,"329,520",8.1%,22.7%,October 2012
+10, National,2012,November,195000.0,2.4%,11.5%,"309,001",-6.2%,20.1%,November 2012
+11, National,2012,December,199000.0,2.0%,13.8%,"302,291",-2.2%,8.3%,December 2012
+12, National,2013,January,185000.0,-7.0%,12.9%,"241,385",-20.1%,13.1%,January 2013
+13, National,2013,February,187000.0,0.7%,12.5%,"248,894",3.1%,5.8%,February 2013
+14, National,2013,March,198000.0,6.2%,12.8%,"324,248",30.3%,6.3%,March 2013
+15, National,2013,April,206000.0,4.0%,11.9%,"356,338",9.9%,13.7%,April 2013
+16, National,2013,May,216000.0,4.7%,12.4%,"413,350",16.0%,14.3%,May 2013
+17, National,2013,June,225000.0,4.5%,12.8%,"410,264",-0.7%,7.1%,June 2013
+18, National,2013,July,227000.0,0.6%,14.5%,"427,197",4.1%,20.5%,July 2013
+19, National,2013,August,223000.0,-1.7%,13.1%,"417,632",-2.2%,10.0%,August 2013
+20, National,2013,September,216000.0,-3.2%,11.4%,"346,364",-17.1%,13.6%,September 2013
+21, National,2013,October,215000.0,-0.2%,12.8%,"345,546",-0.2%,4.9%,October 2013
+22, National,2013,November,212000.0,-1.3%,8.7%,"296,814",-14.1%,-3.9%,November 2013
+23, National,2013,December,217000.0,2.0%,8.6%,"315,515",6.3%,4.4%,December 2013
+24, National,2014,January,206000.0,-5.2%,10.8%,"232,846",-26.2%,-3.5%,January 2014
+25, National,2014,February,206000.0,0.4%,10.5%,"238,824",2.6%,-4.0%,February 2014
+26, National,2014,March,214000.0,3.9%,8.1%,"301,943",26.4%,-6.9%,March 2014
+27, National,2014,April,219000.0,2.4%,6.5%,"339,458",12.4%,-4.7%,April 2014
+28, National,2014,May,227000.0,3.4%,5.1%,"392,142",15.5%,-5.1%,May 2014
+29, National,2014,June,236000.0,4.0%,4.6%,"423,112",7.9%,3.1%,June 2014
+30, National,2014,July,235000.0,-0.3%,3.6%,"417,884",-1.2%,-2.2%,July 2014
+31, National,2014,August,232000.0,-1.1%,4.2%,"403,597",-3.4%,-3.4%,August 2014
+32, National,2014,September,225000.0,-3.3%,4.2%,"365,176",-9.5%,5.4%,September 2014
+33, National,2014,October,225000.0,0.0%,4.4%,"372,204",1.9%,7.7%,October 2014
+34, National,2014,November,224000.0,-0.2%,5.6%,"295,554",-20.6%,-0.4%,November 2014
+35, National,2014,December,227000.0,1.1%,4.7%,"345,141",16.8%,9.4%,December 2014
+36, National,2015,January,217000.0,-4.4%,5.5%,"238,493",-30.9%,2.4%,January 2015
+37, National,2015,February,219000.0,1.1%,6.3%,"259,203",8.7%,8.5%,February 2015
+38, National,2015,March,230000.0,4.9%,7.3%,"354,855",36.9%,17.5%,March 2015
+39, National,2015,April,238000.0,3.6%,8.5%,"382,378",7.8%,12.6%,April 2015
+40, National,2015,May,246000.0,3.1%,8.3%,"420,684",10.0%,7.3%,May 2015
+41, National,2015,June,251000.0,2.4%,6.6%,"492,495",17.1%,16.4%,June 2015
+42, National,2015,July,249000.0,-1.0%,5.8%,"485,930",-1.3%,16.3%,July 2015
+43, National,2015,August,246000.0,-1.3%,5.7%,"440,251",-9.4%,9.1%,August 2015
+44, National,2015,September,239000.0,-2.5%,6.5%,"408,333",-7.2%,11.8%,September 2015
+45, National,2015,October,239000.0,-0.4%,6.1%,"385,724",-5.5%,3.6%,October 2015
+46, National,2015,November,240000.0,0.4%,6.7%,"304,737",-21.0%,3.1%,November 2015
+47, National,2015,December,243000.0,1.5%,7.1%,"380,811",25.0%,10.3%,December 2015
+48, National,2016,January,234000.0,-3.9%,7.8%,"264,934",-30.4%,11.1%,January 2016
+49, National,2016,February,231000.0,-1.3%,5.2%,"282,283",6.5%,8.9%,February 2016
+50, National,2016,March,243000.0,5.2%,5.5%,"377,459",33.7%,6.4%,March 2016
+51, National,2016,April,250000.0,3.0%,4.9%,"407,485",8.0%,6.6%,April 2016
+52, National,2016,May,258000.0,3.4%,5.2%,"460,029",12.9%,9.4%,May 2016
+53, National,2016,June,267000.0,3.3%,6.1%,"514,924",11.9%,4.6%,June 2016
+54, National,2016,July,264000.0,-1.2%,6.0%,"457,882",-11.1%,-5.8%,July 2016
+55, National,2016,August,263000.0,-0.4%,6.9%,"479,115",4.6%,8.8%,August 2016
+56, National,2016,September,258000.0,-1.8%,7.7%,"428,863",-10.5%,5.0%,September 2016
+57, National,2016,October,257000.0,-0.5%,7.5%,"391,515",-8.7%,1.5%,October 2016
+58, National,2016,November,259000.0,1.0%,8.2%,"369,971",-5.5%,21.4%,November 2016
+59, National,2016,December,259000.0,-0.2%,6.4%,"387,521",4.7%,1.8%,December 2016
+60, National,2017,January,253000.0,-2.3%,8.1%,"278,141",-28.2%,5.0%,January 2017
+61, National,2017,February,251000.0,-0.5%,9.0%,"283,579",2.0%,0.5%,February 2017
+62, National,2017,March,262000.0,4.3%,8.0%,"410,844",44.9%,8.8%,March 2017
+63, National,2017,April,268000.0,2.3%,7.4%,"398,873",-2.9%,-2.1%,April 2017
+64, National,2017,May,276000.0,3.1%,7.0%,"489,118",22.6%,6.3%,May 2017
+65, National,2017,June,286000.0,3.4%,7.1%,"538,905",10.2%,4.7%,June 2017
+66, National,2017,July,281000.0,-1.8%,6.5%,"460,706",-14.5%,0.6%,July 2017
+67, National,2017,August,279000.0,-0.7%,6.1%,"488,878",6.1%,2.0%,August 2017
+68, National,2017,September,275000.0,-1.1%,6.8%,"413,929",-15.3%,-3.5%,September 2017
+69, National,2017,October,274000.0,-0.4%,6.9%,"406,148",-1.9%,3.7%,October 2017
+70, National,2017,November,276000.0,0.8%,6.6%,"381,834",-6.0%,3.2%,November 2017
+71, National,2017,December,276000.0,-0.1%,6.8%,"386,478",1.2%,-0.3%,December 2017
+72, National,2018,January,269000.0,-2.5%,6.6%,"279,199",-27.8%,0.4%,January 2018
+73, National,2018,February,274000.0,1.7%,9.1%,"288,851",3.5%,1.9%,February 2018
+74, National,2018,March,283000.0,3.5%,8.2%,"396,713",37.3%,-3.4%,March 2018
+75, National,2018,April,288000.0,1.6%,7.4%,"413,956",4.3%,3.8%,April 2018
+76, National,2018,May,296000.0,2.7%,7.0%,"484,550",17.1%,-0.9%,May 2018
+77, National,2018,June,302000.0,1.9%,5.5%,"515,234",6.3%,-4.4%,June 2018
+78, National,2018,July,296000.0,-1.9%,5.4%,"479,682",-6.9%,4.1%,July 2018
+79, National,2018,August,293000.0,-0.9%,5.2%,"493,523",2.9%,1.0%,August 2018
+80, National,2018,September,286000.0,-2.6%,3.7%,"384,831",-22.0%,-7.0%,September 2018
+81, National,2018,October,285000.0,-0.2%,3.9%,"407,612",5.9%,0.4%,October 2018
+82, National,2018,November,286000.0,0.2%,3.4%,"371,170",-8.9%,-2.8%,November 2018
+83, National,2018,December,284000.0,-0.7%,2.8%,"345,641",-6.9%,-10.6%,December 2018
+84, National,2019,January,279000.0,-1.7%,3.5%,"258,827",-25.1%,-7.3%,January 2019
+85, National,2019,February,281000.0,1.0%,2.7%,"289,256",11.8%,0.1%,February 2019
+86, National,2019,March,290000.0,2.9%,2.2%,"381,144",31.8%,-3.9%,March 2019
+87, National,2019,April,296000.0,2.3%,2.9%,"426,196",11.8%,3.0%,April 2019
+88, National,2019,May,306000.0,3.4%,3.6%,"502,778",18.0%,3.8%,May 2019
+89, National,2019,June,312000.0,1.7%,3.3%,"490,137",-2.5%,-4.9%,June 2019
+90, National,2019,July,308000.0,-1.1%,4.2%,"501,333",2.3%,4.5%,July 2019
+91, National,2019,August,305000.0,-1.1%,4.0%,"493,519",-1.6%,0.0%,August 2019
+92, National,2019,September,300000.0,-1.5%,5.1%,"417,040",-15.5%,8.4%,September 2019
+93, National,2019,October,301000.0,0.2%,5.5%,"426,113",2.2%,4.5%,October 2019
+94, National,2019,November,301000.0,0.1%,5.3%,"376,679",-11.6%,1.5%,November 2019
+95, National,2019,December,303000.0,0.5%,6.6%,"400,115",6.2%,15.8%,December 2019
+96, National,2020,January,295000.0,-2.4%,5.9%,"292,876",-26.8%,13.2%,January 2020
+97, National,2020,February,300000.0,1.5%,6.5%,"313,876",7.2%,8.5%,February 2020
+98, National,2020,March,309000.0,3.0%,6.6%,"395,616",26.0%,3.8%,March 2020
+99, National,2020,April,311000.0,0.7%,4.9%,"347,857",-12.1%,-18.4%,April 2020
+100, National,2020,May,307000.0,-1.4%,0.1%,"341,961",-1.7%,-32.0%,May 2020
+101, National,2020,June,319000.0,4.1%,2.4%,"474,618",38.8%,-3.2%,June 2020
+102, National,2020,July,335000.0,4.9%,8.6%,"561,107",18.2%,11.9%,July 2020
+103, National,2020,August,342000.0,2.1%,12.2%,"526,360",-6.2%,6.7%,August 2020
+104, National,2020,September,344000.0,0.8%,14.8%,"520,906",-1.0%,24.9%,September 2020
+105, National,2020,October,347000.0,0.6%,15.3%,"530,273",1.8%,24.4%,October 2020
+106, National,2020,November,347000.0,0.2%,15.4%,"455,863",-14.0%,21.0%,November 2020
+107, National,2020,December,346000.0,-0.3%,14.4%,"487,097",6.9%,21.7%,December 2020
+108, National,2021,January,344000.0,-0.6%,16.5%,"329,304",-32.4%,12.4%,January 2021
+109, National,2021,February,352000.0,2.3%,17.3%,"327,589",-0.5%,4.4%,February 2021
+110, National,2021,March,370000.0,5.0%,19.7%,"438,898",34.0%,10.9%,March 2021
+111, National,2021,April,388000.0,5.1%,24.9%,"463,733",5.7%,33.3%,April 2021
+112, National,2021,May,396000.0,2.0%,29.2%,"474,204",2.3%,38.7%,May 2021
+113, National,2021,June,405000.0,2.4%,27.0%,"553,002",16.6%,16.5%,June 2021
+114, National,2021,July,402000.0,-0.7%,20.2%,"518,653",-6.2%,-7.6%,July 2021
+115, National,2021,August,398000.0,-1.0%,16.5%,"515,371",-0.6%,-2.1%,August 2021
+116, National,2021,September,395000.0,-0.8%,14.7%,"488,755",-5.2%,-6.2%,September 2021
+117, National,2021,October,396000.0,0.2%,14.2%,"469,426",-4.0%,-11.5%,October 2021
+118, National,2021,November,400000.0,1.1%,15.2%,"451,828",-3.7%,-0.9%,November 2021
+119, National,2021,December,399000.0,-0.3%,15.2%,"456,505",1.0%,-6.3%,December 2021
+120, National,2022,January,394000.0,-1.1%,14.6%,"312,320",-31.6%,-5.2%,January 2022
+121, National,2022,February,407000.0,3.3%,15.7%,"315,688",1.1%,-3.6%,February 2022
+122, National,2022,March,433000.0,6.3%,17.1%,"413,209",30.9%,-5.9%,March 2022
+123, National,2022,April,448000.0,3.6%,15.4%,"417,400",1.0%,-10.0%,April 2022
+124, National,2022,May,454000.0,1.2%,14.6%,"450,286",7.9%,-5.0%,May 2022
+125, National,2022,June,450000.0,-0.9%,11.0%,"475,188",5.5%,-14.1%,June 2022
+126, National,2022,July,434000.0,-3.5%,7.8%,"409,139",-13.9%,-21.1%,July 2022
+127, National,2022,August,428000.0,-1.5%,7.4%,"431,914",5.6%,-16.2%,August 2022
+128, National,2022,September,422000.0,-1.4%,6.7%,"388,564",-10.0%,-20.5%,September 2022
+129, National,2022,October,415000.0,-1.5%,4.9%,"340,704",-12.3%,-27.4%,October 2022
+130, National,2022,November,411000.0,-1.0%,2.8%,"298,860",-12.3%,-33.9%,November 2022
+131, National,2022,December,403000.0,-2.0%,1.0%,"300,213",0.5%,-34.2%,December 2022
+132, National,2023,January,398000.0,-1.2%,1.0%,"214,988",-28.4%,-31.2%,January 2023
+133, National,2023,February,401000.0,0.6%,-1.6%,"255,074",18.6%,-19.2%,February 2023
+134, National,2023,March,417000.0,4.0%,-3.7%,"345,701",35.5%,-16.3%,March 2023
+135, National,2023,April,427000.0,2.4%,-4.8%,"317,380",-8.2%,-24.0%,April 2023
+136, National,2023,May,439000.0,3.0%,-3.2%,"381,665",20.3%,-15.2%,May 2023
+137, National,2023,June,444000.0,1.0%,-1.3%,"405,781",6.3%,-14.6%,June 2023
+138, National,2023,July,441000.0,-0.7%,1.6%,"348,990",-14.0%,-14.7%,July 2023
+139, National,2023,August,439000.0,-0.4%,2.7%,"375,197",7.5%,-13.1%,August 2023
+140, National,2023,September,430000.0,-2.0%,2.1%,"325,657",-13.2%,-16.2%,September 2023
+141, National,2023,October,431000.0,0.1%,3.7%,"310,506",-4.7%,-8.9%,October 2023
+142, National,2023,November,426000.0,-1.2%,3.5%,"280,758",-9.6%,-6.1%,November 2023
+143, National,2023,December,418000.0,-1.8%,3.7%,"276,976",-1.3%,-7.7%,December 2023
+144, National,2024,January,417000.0,-0.2%,4.7%,"222,872",-19.5%,3.7%,January 2024
+145, National,2024,February,428000.0,2.6%,6.8%,"262,428",17.7%,2.9%,February 2024
+146, National,2024,March,437000.0,2.0%,4.8%,"316,200",20.5%,-8.5%,March 2024
+147, National,2024,April,451000.0,3.2%,5.6%,"346,772",9.7%,9.3%,April 2024
+148, National,2024,May,460000.0,2.0%,4.6%,"387,062",11.6%,1.4%,May 2024
+149, National,2024,June,464000.0,1.0%,4.6%,"364,844",-5.7%,-10.1%,June 2024
+150, National,2024,July,460000.0,-0.9%,4.3%,"375,388",2.9%,7.6%,July 2024
+151, National,2024,August,453000.0,-1.5%,3.1%,"364,411",-2.9%,-2.9%,August 2024
+152, National,2024,September,447000.0,-1.3%,3.8%,"318,865",-12.5%,-2.1%,September 2024
+153, National,2024,October,453000.0,1.3%,5.1%,"335,110",5.1%,7.9%,October 2024
+154, National,2024,November,449000.0,-0.9%,5.4%,"301,099",-10.1%,7.2%,November 2024
+155, National,2024,December,443000.0,-1.2%,6.0%,"313,492",4.1%,13.2%,December 2024
+156, National,2025,January,434000.0,-1.9%,4.2%,"231,908",-26.0%,4.1%,January 2025
+157, National,2025,February,441000.0,1.4%,3.0%,"251,248",8.3%,-4.3%,February 2025
+158, National,2025,March,449000.0,2.0%,3.0%,"310,725",23.7%,-1.7%,March 2025
+159, National,2025,April,456000.0,1.5%,1.2%,"341,013",9.7%,-1.7%,April 2025
+160, National,2025,May,462000.0,1.2%,0.5%,"376,225",10.3%,-2.8%,May 2025
+161, National,2025,June,470000.0,1.8%,1.3%,"383,758",2.0%,5.2%,June 2025
+162, National,2025,July,466000.0,-1.0%,1.3%,"376,337",-1.9%,0.3%,July 2025
+163, National,2025,August,460000.0,-1.3%,1.5%,"361,537",-3.9%,-0.8%,August 2025
+164, National,2025,September,454000.0,-1.2%,1.7%,"345,432",-4.5%,8.3%,September 2025
+165, National,2025,October,459000.0,1.1%,1.4%,"348,537",0.9%,4.0%,October 2025
+166, National,2025,November,453000.0,-1.3%,1.0%,"284,201",-18.5%,-5.6%,November 2025
+167, National,2025,December,445000.0,-1.7%,0.5%,"325,902",14.7%,4.0%,December 2025
+168, National,2026,January,438000.0,-1.6%,0.8%,"216,264",-33.6%,-6.7%,January 2026
+169, National,2026,February,447000.0,2.0%,1.4%,"242,473",12.1%,-3.5%,February 2026
+170,"Boston, MA metro area",2012,January,323000.0,-1.4%,-3.7%,"1,249",-32.2%,1.9%,January 2012
+171,"Boston, MA metro area",2012,February,302000.0,-6.4%,-2.5%,"1,288",3.1%,37.5%,February 2012
+172,"Boston, MA metro area",2012,March,323000.0,6.9%,-0.7%,"1,690",31.2%,20.6%,March 2012
+173,"Boston, MA metro area",2012,April,335000.0,3.7%,1.5%,"1,903",12.6%,19.5%,April 2012
+174,"Boston, MA metro area",2012,May,352000.0,4.9%,0.4%,"2,521",32.5%,28.3%,May 2012
+175,"Boston, MA metro area",2012,June,395000.0,12.4%,2.6%,"3,231",28.2%,18.6%,June 2012
+176,"Boston, MA metro area",2012,July,379000.0,-4.1%,-2.8%,"2,937",-9.1%,30.0%,July 2012
+177,"Boston, MA metro area",2012,August,378000.0,-0.3%,0.8%,"3,063",4.3%,24.6%,August 2012
+178,"Boston, MA metro area",2012,September,345000.0,-8.7%,-1.4%,"2,002",-34.6%,4.0%,September 2012
+179,"Boston, MA metro area",2012,October,338000.0,-2.1%,5.9%,"2,060",2.9%,23.7%,October 2012
+180,"Boston, MA metro area",2012,November,348000.0,3.0%,2.4%,"2,318",12.5%,32.5%,November 2012
+181,"Boston, MA metro area",2012,December,350000.0,0.6%,6.9%,"2,123",-8.4%,15.2%,December 2012
+182,"Boston, MA metro area",2013,January,340000.0,-2.9%,5.3%,"1,504",-29.2%,20.4%,January 2013
+183,"Boston, MA metro area",2013,February,331000.0,-2.6%,9.6%,"1,224",-18.6%,-5.0%,February 2013
+184,"Boston, MA metro area",2013,March,334000.0,0.8%,3.4%,"1,663",35.9%,-1.6%,March 2013
+185,"Boston, MA metro area",2013,April,365000.0,9.3%,9.0%,"1,968",18.3%,3.4%,April 2013
+186,"Boston, MA metro area",2013,May,380000.0,4.1%,8.1%,"2,713",37.9%,7.6%,May 2013
+187,"Boston, MA metro area",2013,June,411000.0,8.2%,4.1%,"3,478",28.2%,7.6%,June 2013
+188,"Boston, MA metro area",2013,July,415000.0,1.0%,9.5%,"3,626",4.3%,23.5%,July 2013
+189,"Boston, MA metro area",2013,August,407000.0,-2.0%,7.5%,"3,437",-5.2%,12.2%,August 2013
+190,"Boston, MA metro area",2013,September,385000.0,-5.3%,11.6%,"2,456",-28.5%,22.7%,September 2013
+191,"Boston, MA metro area",2013,October,370000.0,-3.9%,9.5%,"2,356",-4.1%,14.4%,October 2013
+192,"Boston, MA metro area",2013,November,375000.0,1.4%,7.8%,"2,157",-8.4%,-6.9%,November 2013
+193,"Boston, MA metro area",2013,December,386000.0,3.0%,10.4%,"2,228",3.3%,4.9%,December 2013
+194,"Boston, MA metro area",2014,January,380000.0,-1.6%,11.8%,"1,545",-30.7%,2.7%,January 2014
+195,"Boston, MA metro area",2014,February,350000.0,-7.9%,5.7%,"1,139",-26.3%,-6.9%,February 2014
+196,"Boston, MA metro area",2014,March,375000.0,7.1%,12.3%,"1,513",32.8%,-9.0%,March 2014
+197,"Boston, MA metro area",2014,April,385000.0,2.7%,5.5%,"1,825",20.6%,-7.3%,April 2014
+198,"Boston, MA metro area",2014,May,406000.0,5.4%,6.8%,"2,552",39.8%,-5.9%,May 2014
+199,"Boston, MA metro area",2014,June,433000.0,6.7%,5.4%,"3,433",34.5%,-1.3%,June 2014
+200,"Boston, MA metro area",2014,July,427000.0,-1.4%,2.9%,"3,437",0.1%,-5.2%,July 2014
+201,"Boston, MA metro area",2014,August,417000.0,-2.4%,2.5%,"3,203",-6.8%,-6.8%,August 2014
+202,"Boston, MA metro area",2014,September,389000.0,-6.7%,1.0%,"2,416",-24.6%,-1.6%,September 2014
+203,"Boston, MA metro area",2014,October,390000.0,0.2%,5.4%,"2,345",-2.9%,-0.5%,October 2014
+204,"Boston, MA metro area",2014,November,394000.0,1.0%,5.0%,"2,061",-12.1%,-4.5%,November 2014
+205,"Boston, MA metro area",2014,December,400000.0,1.6%,3.6%,"2,389",15.9%,7.2%,December 2014
+206,"Boston, MA metro area",2015,January,393000.0,-1.8%,3.4%,"1,508",-36.9%,-2.4%,January 2015
+207,"Boston, MA metro area",2015,February,379000.0,-3.6%,8.3%,"1,149",-23.8%,0.9%,February 2015
+208,"Boston, MA metro area",2015,March,383000.0,1.1%,2.1%,"1,517",32.0%,0.3%,March 2015
+209,"Boston, MA metro area",2015,April,400000.0,4.4%,3.9%,"1,723",13.6%,-5.6%,April 2015
+210,"Boston, MA metro area",2015,May,415000.0,3.8%,2.3%,"2,300",33.5%,-9.9%,May 2015
+211,"Boston, MA metro area",2015,June,442000.0,6.5%,2.1%,"3,786",64.6%,10.3%,June 2015
+212,"Boston, MA metro area",2015,July,440000.0,-0.5%,3.0%,"3,989",5.4%,16.1%,July 2015
+213,"Boston, MA metro area",2015,August,435000.0,-1.2%,4.4%,"3,564",-10.7%,11.3%,August 2015
+214,"Boston, MA metro area",2015,September,405000.0,-6.9%,4.1%,"2,834",-20.5%,17.3%,September 2015
+215,"Boston, MA metro area",2015,October,399000.0,-1.5%,2.3%,"2,631",-7.2%,12.2%,October 2015
+216,"Boston, MA metro area",2015,November,410000.0,2.8%,4.1%,"2,219",-15.7%,7.7%,November 2015
+217,"Boston, MA metro area",2015,December,410000.0,0.1%,2.5%,"2,714",22.3%,13.6%,December 2015
+218,"Boston, MA metro area",2016,January,399000.0,-2.7%,1.5%,"1,862",-31.4%,23.5%,January 2016
+219,"Boston, MA metro area",2016,February,380000.0,-4.8%,0.3%,"1,378",-26.0%,19.9%,February 2016
+220,"Boston, MA metro area",2016,March,390000.0,2.6%,1.8%,"1,839",33.5%,21.2%,March 2016
+221,"Boston, MA metro area",2016,April,425000.0,9.0%,6.3%,"2,168",17.9%,25.8%,April 2016
+222,"Boston, MA metro area",2016,May,435000.0,2.3%,4.8%,"2,708",24.9%,17.7%,May 2016
+223,"Boston, MA metro area",2016,June,469000.0,7.7%,6.0%,"3,947",45.8%,4.3%,June 2016
+224,"Boston, MA metro area",2016,July,455000.0,-2.9%,3.4%,"3,402",-13.8%,-14.7%,July 2016
+225,"Boston, MA metro area",2016,August,450000.0,-1.0%,3.5%,"3,710",9.1%,4.1%,August 2016
+226,"Boston, MA metro area",2016,September,420000.0,-6.7%,3.7%,"2,755",-25.7%,-2.8%,September 2016
+227,"Boston, MA metro area",2016,October,420000.0,0.0%,5.3%,"2,453",-11.0%,-6.8%,October 2016
+228,"Boston, MA metro area",2016,November,439000.0,4.5%,7.1%,"2,679",9.2%,20.7%,November 2016
+229,"Boston, MA metro area",2016,December,431000.0,-1.9%,4.9%,"2,609",-2.6%,-3.9%,December 2016
+230,"Boston, MA metro area",2017,January,430000.0,-0.1%,7.8%,"1,896",-27.3%,1.8%,January 2017
+231,"Boston, MA metro area",2017,February,410000.0,-4.7%,7.9%,"1,299",-31.5%,-5.7%,February 2017
+232,"Boston, MA metro area",2017,March,440000.0,7.3%,12.8%,"1,930",48.6%,4.9%,March 2017
+233,"Boston, MA metro area",2017,April,452000.0,2.8%,6.4%,"1,910",-1.0%,-11.9%,April 2017
+234,"Boston, MA metro area",2017,May,475000.0,5.0%,9.2%,"2,730",42.9%,0.8%,May 2017
+235,"Boston, MA metro area",2017,June,496000.0,4.5%,5.9%,"3,994",46.3%,1.2%,June 2017
+236,"Boston, MA metro area",2017,July,484000.0,-2.4%,6.5%,"3,369",-15.6%,-1.0%,July 2017
+237,"Boston, MA metro area",2017,August,480000.0,-0.9%,6.6%,"3,631",7.8%,-2.1%,August 2017
+238,"Boston, MA metro area",2017,September,463000.0,-3.6%,10.1%,"2,691",-25.9%,-2.3%,September 2017
+239,"Boston, MA metro area",2017,October,455000.0,-1.6%,8.3%,"2,661",-1.1%,8.5%,October 2017
+240,"Boston, MA metro area",2017,November,460000.0,1.1%,4.8%,"2,669",0.3%,-0.4%,November 2017
+241,"Boston, MA metro area",2017,December,460000.0,0.0%,6.9%,"2,369",-11.2%,-9.2%,December 2017
+242,"Boston, MA metro area",2018,January,460000.0,0.0%,7.0%,"1,821",-23.1%,-4.0%,January 2018
+243,"Boston, MA metro area",2018,February,440000.0,-4.3%,7.3%,"1,217",-33.2%,-6.3%,February 2018
+244,"Boston, MA metro area",2018,March,460000.0,4.5%,4.5%,"1,773",45.7%,-8.1%,March 2018
+245,"Boston, MA metro area",2018,April,490000.0,6.5%,8.3%,"2,015",13.6%,5.5%,April 2018
+246,"Boston, MA metro area",2018,May,506000.0,3.3%,6.5%,"2,663",32.2%,-2.5%,May 2018
+247,"Boston, MA metro area",2018,June,530000.0,4.7%,6.8%,"3,855",44.8%,-3.5%,June 2018
+248,"Boston, MA metro area",2018,July,525000.0,-0.9%,8.4%,"3,546",-8.0%,5.3%,July 2018
+249,"Boston, MA metro area",2018,August,514000.0,-2.0%,7.1%,"3,716",4.8%,2.3%,August 2018
+250,"Boston, MA metro area",2018,September,475000.0,-7.6%,2.7%,"2,422",-34.8%,-10.0%,September 2018
+251,"Boston, MA metro area",2018,October,477000.0,0.5%,4.9%,"2,574",6.3%,-3.3%,October 2018
+252,"Boston, MA metro area",2018,November,479000.0,0.4%,4.1%,"2,795",8.6%,4.7%,November 2018
+253,"Boston, MA metro area",2018,December,460000.0,-4.0%,0.0%,"2,248",-19.6%,-5.1%,December 2018
+254,"Boston, MA metro area",2019,January,478000.0,3.9%,3.9%,"1,635",-27.3%,-10.2%,January 2019
+255,"Boston, MA metro area",2019,February,460000.0,-3.8%,4.5%,"1,416",-13.4%,16.4%,February 2019
+256,"Boston, MA metro area",2019,March,475000.0,3.3%,3.3%,"1,875",32.4%,5.8%,March 2019
+257,"Boston, MA metro area",2019,April,500000.0,5.2%,2.0%,"2,130",13.6%,5.7%,April 2019
+258,"Boston, MA metro area",2019,May,530000.0,6.0%,4.7%,"2,916",36.9%,9.5%,May 2019
+259,"Boston, MA metro area",2019,June,535000.0,0.9%,0.9%,"3,532",21.1%,-8.4%,June 2019
+260,"Boston, MA metro area",2019,July,540000.0,0.9%,2.9%,"3,614",2.3%,1.9%,July 2019
+261,"Boston, MA metro area",2019,August,523000.0,-3.2%,1.6%,"3,580",-0.9%,-3.7%,August 2019
+262,"Boston, MA metro area",2019,September,498000.0,-4.8%,4.7%,"2,551",-28.7%,5.3%,September 2019
+263,"Boston, MA metro area",2019,October,491000.0,-1.3%,2.9%,"2,591",1.6%,0.7%,October 2019
+264,"Boston, MA metro area",2019,November,495000.0,0.8%,3.3%,"2,474",-4.5%,-11.5%,November 2019
+265,"Boston, MA metro area",2019,December,500000.0,1.0%,8.7%,"2,670",7.9%,18.8%,December 2019
+266,"Boston, MA metro area",2020,January,500000.0,0.0%,4.6%,"1,740",-34.8%,6.4%,January 2020
+267,"Boston, MA metro area",2020,February,500000.0,0.0%,8.7%,"1,334",-23.3%,-5.8%,February 2020
+268,"Boston, MA metro area",2020,March,520000.0,4.0%,9.5%,"1,807",35.5%,-3.6%,March 2020
+269,"Boston, MA metro area",2020,April,550000.0,5.8%,10.0%,"1,882",4.2%,-11.6%,April 2020
+270,"Boston, MA metro area",2020,May,540000.0,-1.8%,1.9%,"2,019",7.3%,-30.8%,May 2020
+271,"Boston, MA metro area",2020,June,556000.0,2.9%,3.8%,"2,623",29.9%,-25.7%,June 2020
+272,"Boston, MA metro area",2020,July,580000.0,4.4%,7.4%,"3,460",31.9%,-4.3%,July 2020
+273,"Boston, MA metro area",2020,August,595000.0,2.6%,13.9%,"3,533",2.1%,-1.3%,August 2020
+274,"Boston, MA metro area",2020,September,585000.0,-1.7%,17.6%,"3,252",-8.0%,27.5%,September 2020
+275,"Boston, MA metro area",2020,October,575000.0,-1.7%,17.1%,"3,264",0.4%,26.0%,October 2020
+276,"Boston, MA metro area",2020,November,575000.0,0.0%,16.2%,"2,875",-11.9%,16.2%,November 2020
+277,"Boston, MA metro area",2020,December,573000.0,-0.4%,14.5%,"3,178",10.5%,19.0%,December 2020
+278,"Boston, MA metro area",2021,January,575000.0,0.4%,15.0%,"1,889",-40.6%,8.6%,January 2021
+279,"Boston, MA metro area",2021,February,554000.0,-3.7%,10.8%,"1,401",-25.8%,5.0%,February 2021
+280,"Boston, MA metro area",2021,March,600000.0,8.3%,15.4%,"1,785",27.4%,-1.2%,March 2021
+281,"Boston, MA metro area",2021,April,630000.0,5.0%,14.5%,"2,212",23.9%,17.5%,April 2021
+282,"Boston, MA metro area",2021,May,650000.0,3.2%,20.4%,"2,584",16.8%,28.0%,May 2021
+283,"Boston, MA metro area",2021,June,690000.0,6.2%,24.2%,"3,715",43.8%,41.6%,June 2021
+284,"Boston, MA metro area",2021,July,664000.0,-3.8%,14.5%,"3,412",-8.2%,-1.4%,July 2021
+285,"Boston, MA metro area",2021,August,654000.0,-1.6%,9.8%,"3,328",-2.5%,-5.8%,August 2021
+286,"Boston, MA metro area",2021,September,625000.0,-4.4%,6.8%,"2,904",-12.7%,-10.7%,September 2021
+287,"Boston, MA metro area",2021,October,610000.0,-2.4%,6.1%,"2,604",-10.3%,-20.2%,October 2021
+288,"Boston, MA metro area",2021,November,630000.0,3.3%,9.6%,"2,790",7.1%,-3.0%,November 2021
+289,"Boston, MA metro area",2021,December,630000.0,0.0%,10.0%,"2,816",0.9%,-11.4%,December 2021
+290,"Boston, MA metro area",2022,January,610000.0,-3.2%,6.1%,"1,713",-39.2%,-9.3%,January 2022
+291,"Boston, MA metro area",2022,February,607000.0,-0.5%,9.6%,"1,153",-32.7%,-17.7%,February 2022
+292,"Boston, MA metro area",2022,March,655000.0,7.9%,9.2%,"1,626",41.0%,-8.9%,March 2022
+293,"Boston, MA metro area",2022,April,710000.0,8.4%,12.7%,"1,852",13.9%,-16.3%,April 2022
+294,"Boston, MA metro area",2022,May,725000.0,2.1%,11.5%,"2,487",34.3%,-3.8%,May 2022
+295,"Boston, MA metro area",2022,June,740000.0,2.1%,7.2%,"3,392",36.4%,-8.7%,June 2022
+296,"Boston, MA metro area",2022,July,720000.0,-2.7%,8.4%,"2,824",-16.7%,-17.2%,July 2022
+297,"Boston, MA metro area",2022,August,710000.0,-1.4%,8.7%,"3,042",7.7%,-8.6%,August 2022
+298,"Boston, MA metro area",2022,September,675000.0,-4.9%,8.0%,"2,477",-18.6%,-14.7%,September 2022
+299,"Boston, MA metro area",2022,October,650000.0,-3.7%,6.6%,"2,055",-17.0%,-21.1%,October 2022
+300,"Boston, MA metro area",2022,November,655000.0,0.8%,4.0%,"1,965",-4.4%,-29.6%,November 2022
+301,"Boston, MA metro area",2022,December,625000.0,-4.6%,-0.8%,"1,989",1.2%,-29.4%,December 2022
+302,"Boston, MA metro area",2023,January,615000.0,-1.6%,0.8%,"1,163",-41.5%,-32.1%,January 2023
+303,"Boston, MA metro area",2023,February,610000.0,-0.8%,0.5%,984,-15.4%,-14.7%,February 2023
+304,"Boston, MA metro area",2023,March,670000.0,9.8%,2.3%,"1,373",39.5%,-15.6%,March 2023
+305,"Boston, MA metro area",2023,April,689000.0,2.8%,-3.0%,"1,412",2.8%,-23.8%,April 2023
+306,"Boston, MA metro area",2023,May,745000.0,8.1%,2.8%,"1,898",34.4%,-23.7%,May 2023
+307,"Boston, MA metro area",2023,June,765000.0,2.7%,3.4%,"2,637",38.9%,-22.3%,June 2023
+308,"Boston, MA metro area",2023,July,775000.0,1.3%,7.6%,"2,171",-17.7%,-23.1%,July 2023
+309,"Boston, MA metro area",2023,August,760000.0,-1.9%,7.0%,"2,269",4.5%,-25.4%,August 2023
+310,"Boston, MA metro area",2023,September,710000.0,-6.5%,5.2%,"1,718",-24.3%,-30.6%,September 2023
+311,"Boston, MA metro area",2023,October,720000.0,1.4%,10.8%,"1,736",1.0%,-15.5%,October 2023
+312,"Boston, MA metro area",2023,November,701000.0,-2.6%,7.0%,"1,787",2.9%,-9.1%,November 2023
+313,"Boston, MA metro area",2023,December,685000.0,-2.3%,9.6%,"1,548",-13.4%,-22.2%,December 2023
+314,"Boston, MA metro area",2024,January,685000.0,0.0%,11.4%,"1,204",-22.2%,3.5%,January 2024
+315,"Boston, MA metro area",2024,February,700000.0,2.2%,14.7%,961,-20.2%,-2.3%,February 2024
+316,"Boston, MA metro area",2024,March,740000.0,5.7%,10.4%,"1,301",35.4%,-5.2%,March 2024
+317,"Boston, MA metro area",2024,April,755000.0,2.0%,9.6%,"1,580",21.4%,11.9%,April 2024
+318,"Boston, MA metro area",2024,May,792000.0,4.8%,6.2%,"2,072",31.1%,9.2%,May 2024
+319,"Boston, MA metro area",2024,June,821000.0,3.7%,7.3%,"2,435",17.5%,-7.7%,June 2024
+320,"Boston, MA metro area",2024,July,780000.0,-5.0%,0.6%,"2,519",3.4%,16.0%,July 2024
+321,"Boston, MA metro area",2024,August,775000.0,-0.6%,2.0%,"2,373",-5.8%,4.6%,August 2024
+322,"Boston, MA metro area",2024,September,725000.0,-6.5%,2.1%,"1,825",-23.1%,6.2%,September 2024
+323,"Boston, MA metro area",2024,October,741000.0,2.2%,3.0%,"2,037",11.6%,17.3%,October 2024
+324,"Boston, MA metro area",2024,November,735000.0,-0.8%,4.9%,"1,855",-8.9%,3.8%,November 2024
+325,"Boston, MA metro area",2024,December,749000.0,1.9%,9.3%,"1,861",0.3%,20.2%,December 2024
+326,"Boston, MA metro area",2025,January,745000.0,-0.5%,8.8%,"1,271",-31.7%,5.6%,January 2025
+327,"Boston, MA metro area",2025,February,730000.0,-2.0%,4.3%,993,-21.9%,3.3%,February 2025
+328,"Boston, MA metro area",2025,March,756000.0,3.6%,2.2%,"1,205",21.3%,-7.4%,March 2025
+329,"Boston, MA metro area",2025,April,800000.0,5.8%,6.0%,"1,580",31.1%,0.0%,April 2025
+330,"Boston, MA metro area",2025,May,830000.0,3.8%,4.9%,"2,151",36.1%,3.8%,May 2025
+331,"Boston, MA metro area",2025,June,850000.0,2.4%,3.5%,"2,612",21.4%,7.3%,June 2025
+332,"Boston, MA metro area",2025,July,830000.0,-2.4%,6.3%,"2,622",0.4%,4.1%,July 2025
+333,"Boston, MA metro area",2025,August,810000.0,-2.4%,4.5%,"2,351",-10.3%,-0.9%,August 2025
+334,"Boston, MA metro area",2025,September,760000.0,-6.2%,4.8%,"1,913",-18.6%,4.8%,September 2025
+335,"Boston, MA metro area",2025,October,775000.0,2.0%,4.6%,"2,093",9.4%,2.7%,October 2025
+336,"Boston, MA metro area",2025,November,760000.0,-1.9%,3.4%,"1,793",-14.3%,-3.3%,November 2025
+337,"Boston, MA metro area",2025,December,752000.0,-1.1%,0.4%,"1,937",8.0%,4.1%,December 2025
+338,"Boston, MA metro area",2026,January,750000.0,-0.3%,0.7%,"1,167",-39.8%,-8.2%,January 2026
+339,"Boston, MA metro area",2026,February,732000.0,-2.4%,0.3%,895,-23.3%,-9.9%,February 2026
+340,"Chicago, IL metro area",2012,January,152000.0,-5.0%,-10.6%,"2,266",-26.4%,9.7%,January 2012
+341,"Chicago, IL metro area",2012,February,150000.0,-1.3%,-9.1%,"2,396",5.7%,20.8%,February 2012
+342,"Chicago, IL metro area",2012,March,165000.0,10.0%,-2.9%,"3,299",37.7%,20.1%,March 2012
+343,"Chicago, IL metro area",2012,April,174000.0,5.5%,-0.6%,"3,410",3.4%,17.8%,April 2012
+344,"Chicago, IL metro area",2012,May,185000.0,6.3%,2.8%,"4,166",22.2%,26.7%,May 2012
+345,"Chicago, IL metro area",2012,June,205000.0,10.8%,3.5%,"4,623",11.0%,19.6%,June 2012
+346,"Chicago, IL metro area",2012,July,195000.0,-4.9%,-2.5%,"4,303",-6.9%,29.4%,July 2012
+347,"Chicago, IL metro area",2012,August,186000.0,-4.8%,-3.6%,"4,578",6.4%,25.9%,August 2012
+348,"Chicago, IL metro area",2012,September,178000.0,-4.1%,1.7%,"3,656",-20.1%,16.1%,September 2012
+349,"Chicago, IL metro area",2012,October,167000.0,-6.2%,-1.7%,"4,054",10.9%,41.2%,October 2012
+350,"Chicago, IL metro area",2012,November,172000.0,3.0%,5.5%,"3,792",-6.5%,34.6%,November 2012
+351,"Chicago, IL metro area",2012,December,167000.0,-2.9%,4.4%,"3,650",-3.7%,18.6%,December 2012
+352,"Chicago, IL metro area",2013,January,156000.0,-6.6%,2.6%,"3,133",-14.2%,38.3%,January 2013
+353,"Chicago, IL metro area",2013,February,153000.0,-1.9%,2.0%,"2,937",-6.3%,22.6%,February 2013
+354,"Chicago, IL metro area",2013,March,170000.0,11.1%,3.0%,"3,881",32.1%,17.6%,March 2013
+355,"Chicago, IL metro area",2013,April,187000.0,10.0%,7.5%,"4,476",15.3%,31.3%,April 2013
+356,"Chicago, IL metro area",2013,May,200000.0,7.0%,8.1%,"5,270",17.7%,26.5%,May 2013
+357,"Chicago, IL metro area",2013,June,225000.0,12.5%,9.8%,"5,522",4.8%,19.4%,June 2013
+358,"Chicago, IL metro area",2013,July,224000.0,-0.4%,14.9%,"5,832",5.6%,35.5%,July 2013
+359,"Chicago, IL metro area",2013,August,217000.0,-3.3%,16.6%,"5,762",-1.2%,25.9%,August 2013
+360,"Chicago, IL metro area",2013,September,200000.0,-7.6%,12.4%,"4,719",-18.1%,29.1%,September 2013
+361,"Chicago, IL metro area",2013,October,195000.0,-2.6%,16.7%,"4,603",-2.5%,13.5%,October 2013
+362,"Chicago, IL metro area",2013,November,186000.0,-4.4%,8.3%,"3,852",-16.3%,1.6%,November 2013
+363,"Chicago, IL metro area",2013,December,190000.0,2.0%,13.7%,"4,073",5.7%,11.6%,December 2013
+364,"Chicago, IL metro area",2014,January,180000.0,-5.2%,15.4%,"2,909",-28.6%,-7.1%,January 2014
+365,"Chicago, IL metro area",2014,February,175000.0,-2.8%,14.4%,"2,733",-6.1%,-6.9%,February 2014
+366,"Chicago, IL metro area",2014,March,189000.0,8.0%,11.2%,"3,370",23.3%,-13.2%,March 2014
+367,"Chicago, IL metro area",2014,April,201000.0,6.3%,7.5%,"3,998",18.6%,-10.7%,April 2014
+368,"Chicago, IL metro area",2014,May,225000.0,11.9%,12.5%,"4,719",18.0%,-10.5%,May 2014
+369,"Chicago, IL metro area",2014,June,235000.0,4.4%,4.4%,"5,538",17.4%,0.3%,June 2014
+370,"Chicago, IL metro area",2014,July,235000.0,0.0%,4.9%,"5,531",-0.1%,-5.2%,July 2014
+371,"Chicago, IL metro area",2014,August,234000.0,-0.4%,8.1%,"5,260",-4.9%,-8.7%,August 2014
+372,"Chicago, IL metro area",2014,September,215000.0,-8.1%,7.5%,"4,442",-15.6%,-5.9%,September 2014
+373,"Chicago, IL metro area",2014,October,204000.0,-5.1%,4.7%,"4,477",0.8%,-2.7%,October 2014
+374,"Chicago, IL metro area",2014,November,196000.0,-3.9%,5.2%,"3,597",-19.7%,-6.6%,November 2014
+375,"Chicago, IL metro area",2014,December,195000.0,-0.7%,2.5%,"4,077",13.3%,0.1%,December 2014
+376,"Chicago, IL metro area",2015,January,185000.0,-5.0%,2.8%,"2,844",-30.2%,-2.2%,January 2015
+377,"Chicago, IL metro area",2015,February,181000.0,-2.2%,3.4%,"2,908",2.3%,6.4%,February 2015
+378,"Chicago, IL metro area",2015,March,212000.0,16.9%,11.9%,"4,095",40.8%,21.5%,March 2015
+379,"Chicago, IL metro area",2015,April,220000.0,4.0%,9.5%,"4,588",12.0%,14.8%,April 2015
+380,"Chicago, IL metro area",2015,May,235000.0,6.8%,4.4%,"5,252",14.5%,11.3%,May 2015
+381,"Chicago, IL metro area",2015,June,246000.0,4.7%,4.7%,"6,554",24.8%,18.3%,June 2015
+382,"Chicago, IL metro area",2015,July,242000.0,-1.8%,2.8%,"6,187",-5.6%,11.9%,July 2015
+383,"Chicago, IL metro area",2015,August,235000.0,-2.7%,0.4%,"5,425",-12.3%,3.1%,August 2015
+384,"Chicago, IL metro area",2015,September,223000.0,-5.3%,3.5%,"4,934",-9.1%,11.1%,September 2015
+385,"Chicago, IL metro area",2015,October,215000.0,-3.4%,5.4%,"4,727",-4.2%,5.6%,October 2015
+386,"Chicago, IL metro area",2015,November,213000.0,-1.2%,8.4%,"3,570",-24.5%,-0.8%,November 2015
+387,"Chicago, IL metro area",2015,December,215000.0,1.2%,10.4%,"4,239",18.7%,4.0%,December 2015
+388,"Chicago, IL metro area",2016,January,207000.0,-3.8%,11.8%,"3,190",-24.7%,12.2%,January 2016
+389,"Chicago, IL metro area",2016,February,205000.0,-0.8%,13.3%,"3,137",-1.7%,7.9%,February 2016
+390,"Chicago, IL metro area",2016,March,220000.0,7.3%,4.0%,"4,133",31.8%,0.9%,March 2016
+391,"Chicago, IL metro area",2016,April,241000.0,9.5%,9.5%,"5,046",22.1%,10.0%,April 2016
+392,"Chicago, IL metro area",2016,May,248000.0,2.9%,5.5%,"5,807",15.1%,10.6%,May 2016
+393,"Chicago, IL metro area",2016,June,265000.0,6.9%,7.7%,"6,760",16.4%,3.1%,June 2016
+394,"Chicago, IL metro area",2016,July,259000.0,-2.3%,7.2%,"5,941",-12.1%,-4.0%,July 2016
+395,"Chicago, IL metro area",2016,August,250000.0,-3.5%,6.4%,"6,018",1.3%,10.9%,August 2016
+396,"Chicago, IL metro area",2016,September,235000.0,-6.0%,5.6%,"4,914",-18.3%,-0.4%,September 2016
+397,"Chicago, IL metro area",2016,October,232000.0,-1.3%,7.9%,"4,532",-7.8%,-4.1%,October 2016
+398,"Chicago, IL metro area",2016,November,229000.0,-1.3%,7.8%,"4,174",-7.9%,16.9%,November 2016
+399,"Chicago, IL metro area",2016,December,227000.0,-0.9%,5.6%,"4,123",-1.2%,-2.7%,December 2016
+400,"Chicago, IL metro area",2017,January,219000.0,-3.5%,5.9%,"3,171",-23.1%,-0.6%,January 2017
+401,"Chicago, IL metro area",2017,February,220000.0,0.5%,7.3%,"2,969",-6.4%,-5.4%,February 2017
+402,"Chicago, IL metro area",2017,March,247000.0,12.0%,12.0%,"4,871",64.1%,17.9%,March 2017
+403,"Chicago, IL metro area",2017,April,260000.0,5.5%,7.9%,"5,050",3.7%,0.1%,April 2017
+404,"Chicago, IL metro area",2017,May,263000.0,1.2%,6.0%,"6,184",22.5%,6.5%,May 2017
+405,"Chicago, IL metro area",2017,June,272000.0,3.2%,2.5%,"7,057",14.1%,4.4%,June 2017
+406,"Chicago, IL metro area",2017,July,267000.0,-1.7%,3.1%,"5,637",-20.1%,-5.1%,July 2017
+407,"Chicago, IL metro area",2017,August,255000.0,-4.5%,2.0%,"5,870",4.1%,-2.5%,August 2017
+408,"Chicago, IL metro area",2017,September,250000.0,-2.0%,6.4%,"4,769",-18.8%,-3.0%,September 2017
+409,"Chicago, IL metro area",2017,October,238000.0,-4.8%,2.6%,"4,623",-3.1%,2.0%,October 2017
+410,"Chicago, IL metro area",2017,November,240000.0,0.9%,4.8%,"4,200",-9.1%,0.6%,November 2017
+411,"Chicago, IL metro area",2017,December,238000.0,-1.0%,4.6%,"4,230",0.7%,2.6%,December 2017
+412,"Chicago, IL metro area",2018,January,235000.0,-1.1%,7.3%,"3,068",-27.5%,-3.2%,January 2018
+413,"Chicago, IL metro area",2018,February,240000.0,2.1%,9.1%,"2,857",-6.9%,-3.8%,February 2018
+414,"Chicago, IL metro area",2018,March,255000.0,6.3%,3.4%,"4,334",51.7%,-11.0%,March 2018
+415,"Chicago, IL metro area",2018,April,271000.0,6.1%,4.1%,"5,197",19.9%,2.9%,April 2018
+416,"Chicago, IL metro area",2018,May,275000.0,1.6%,4.6%,"6,083",17.0%,-1.6%,May 2018
+417,"Chicago, IL metro area",2018,June,285000.0,3.6%,5.0%,"6,649",9.3%,-5.8%,June 2018
+418,"Chicago, IL metro area",2018,July,270000.0,-5.3%,1.1%,"5,772",-13.2%,2.4%,July 2018
+419,"Chicago, IL metro area",2018,August,263000.0,-2.6%,3.1%,"5,917",2.5%,0.8%,August 2018
+420,"Chicago, IL metro area",2018,September,260000.0,-1.1%,4.0%,"4,380",-26.0%,-8.2%,September 2018
+421,"Chicago, IL metro area",2018,October,245000.0,-5.8%,3.0%,"4,605",5.1%,-0.4%,October 2018
+422,"Chicago, IL metro area",2018,November,249000.0,1.5%,3.6%,"4,169",-9.5%,-0.7%,November 2018
+423,"Chicago, IL metro area",2018,December,240000.0,-3.5%,1.1%,"3,583",-14.1%,-15.3%,December 2018
+424,"Chicago, IL metro area",2019,January,236000.0,-1.7%,0.4%,"2,719",-24.1%,-11.4%,January 2019
+425,"Chicago, IL metro area",2019,February,242000.0,2.5%,0.8%,"2,781",2.3%,-2.7%,February 2019
+426,"Chicago, IL metro area",2019,March,257000.0,6.2%,0.8%,"4,020",44.6%,-7.2%,March 2019
+427,"Chicago, IL metro area",2019,April,270000.0,5.1%,-0.2%,"4,940",22.9%,-4.9%,April 2019
+428,"Chicago, IL metro area",2019,May,280000.0,3.7%,1.8%,"5,967",20.8%,-1.9%,May 2019
+429,"Chicago, IL metro area",2019,June,285000.0,1.8%,0.0%,"5,919",-0.8%,-11.0%,June 2019
+430,"Chicago, IL metro area",2019,July,280000.0,-1.8%,3.7%,"5,980",1.0%,3.6%,July 2019
+431,"Chicago, IL metro area",2019,August,269000.0,-3.9%,2.3%,"5,458",-8.7%,-7.8%,August 2019
+432,"Chicago, IL metro area",2019,September,258000.0,-4.3%,-1.0%,"4,494",-17.7%,2.6%,September 2019
+433,"Chicago, IL metro area",2019,October,255000.0,-1.0%,4.1%,"4,623",2.9%,0.4%,October 2019
+434,"Chicago, IL metro area",2019,November,260000.0,2.0%,4.5%,"3,974",-14.0%,-4.7%,November 2019
+435,"Chicago, IL metro area",2019,December,255000.0,-1.9%,6.3%,"4,057",2.1%,13.2%,December 2019
+436,"Chicago, IL metro area",2020,January,245000.0,-3.9%,3.8%,"2,998",-26.1%,10.3%,January 2020
+437,"Chicago, IL metro area",2020,February,260000.0,6.1%,7.4%,"3,022",0.8%,8.7%,February 2020
+438,"Chicago, IL metro area",2020,March,279000.0,7.3%,8.6%,"4,177",38.2%,3.9%,March 2020
+439,"Chicago, IL metro area",2020,April,289000.0,3.6%,7.0%,"4,366",4.5%,-11.6%,April 2020
+440,"Chicago, IL metro area",2020,May,280000.0,-3.1%,0.0%,"4,036",-7.6%,-32.4%,May 2020
+441,"Chicago, IL metro area",2020,June,285000.0,1.8%,0.0%,"5,128",27.1%,-13.4%,June 2020
+442,"Chicago, IL metro area",2020,July,300000.0,5.3%,7.1%,"6,770",32.0%,13.2%,July 2020
+443,"Chicago, IL metro area",2020,August,308000.0,2.7%,14.5%,"6,862",1.4%,25.7%,August 2020
+444,"Chicago, IL metro area",2020,September,300000.0,-2.6%,16.5%,"6,328",-7.8%,40.8%,September 2020
+445,"Chicago, IL metro area",2020,October,299000.0,-0.3%,17.3%,"6,419",1.4%,38.8%,October 2020
+446,"Chicago, IL metro area",2020,November,292000.0,-2.3%,12.3%,"5,207",-18.9%,31.0%,November 2020
+447,"Chicago, IL metro area",2020,December,286000.0,-2.1%,12.2%,"5,610",7.7%,38.3%,December 2020
+448,"Chicago, IL metro area",2021,January,290000.0,1.4%,18.4%,"3,613",-35.6%,20.5%,January 2021
+449,"Chicago, IL metro area",2021,February,295000.0,1.7%,13.5%,"3,404",-5.8%,12.6%,February 2021
+450,"Chicago, IL metro area",2021,March,323000.0,9.5%,15.8%,"5,085",49.4%,21.7%,March 2021
+451,"Chicago, IL metro area",2021,April,340000.0,5.2%,17.6%,"5,576",9.7%,27.7%,April 2021
+452,"Chicago, IL metro area",2021,May,348000.0,2.3%,24.2%,"5,937",6.5%,47.1%,May 2021
+453,"Chicago, IL metro area",2021,June,350000.0,0.6%,22.8%,"7,368",24.1%,43.7%,June 2021
+454,"Chicago, IL metro area",2021,July,348000.0,-0.6%,16.0%,"6,483",-12.0%,-4.2%,July 2021
+455,"Chicago, IL metro area",2021,August,340000.0,-2.3%,10.4%,"6,445",-0.6%,-6.1%,August 2021
+456,"Chicago, IL metro area",2021,September,320000.0,-5.9%,6.7%,"5,608",-13.0%,-11.4%,September 2021
+457,"Chicago, IL metro area",2021,October,315000.0,-1.6%,5.4%,"5,549",-1.1%,-13.6%,October 2021
+458,"Chicago, IL metro area",2021,November,321000.0,1.8%,9.8%,"5,068",-8.7%,-2.7%,November 2021
+459,"Chicago, IL metro area",2021,December,315000.0,-1.8%,10.1%,"5,324",5.1%,-5.1%,December 2021
+460,"Chicago, IL metro area",2022,January,313000.0,-0.8%,7.8%,"3,492",-34.4%,-3.3%,January 2022
+461,"Chicago, IL metro area",2022,February,318000.0,1.8%,7.8%,"3,311",-5.2%,-2.7%,February 2022
+462,"Chicago, IL metro area",2022,March,340000.0,6.9%,5.3%,"4,541",37.1%,-10.7%,March 2022
+463,"Chicago, IL metro area",2022,April,360000.0,5.9%,5.9%,"4,902",7.9%,-12.1%,April 2022
+464,"Chicago, IL metro area",2022,May,367000.0,1.9%,5.4%,"5,358",9.3%,-9.8%,May 2022
+465,"Chicago, IL metro area",2022,June,380000.0,3.6%,8.6%,"6,047",12.9%,-17.9%,June 2022
+466,"Chicago, IL metro area",2022,July,355000.0,-6.6%,2.0%,"5,007",-17.2%,-22.8%,July 2022
+467,"Chicago, IL metro area",2022,August,350000.0,-1.4%,2.9%,"5,133",2.5%,-20.4%,August 2022
+468,"Chicago, IL metro area",2022,September,335000.0,-4.3%,4.7%,"4,442",-13.5%,-20.8%,September 2022
+469,"Chicago, IL metro area",2022,October,329000.0,-1.8%,4.4%,"3,696",-16.8%,-33.4%,October 2022
+470,"Chicago, IL metro area",2022,November,325000.0,-1.2%,1.3%,"3,415",-7.6%,-32.6%,November 2022
+471,"Chicago, IL metro area",2022,December,315000.0,-3.1%,0.0%,"3,246",-4.9%,-39.0%,December 2022
+472,"Chicago, IL metro area",2023,January,305000.0,-3.2%,-2.4%,"2,163",-33.4%,-38.1%,January 2023
+473,"Chicago, IL metro area",2023,February,315000.0,3.3%,-0.9%,"2,374",9.8%,-28.3%,February 2023
+474,"Chicago, IL metro area",2023,March,332000.0,5.4%,-2.4%,"3,707",56.1%,-18.4%,March 2023
+475,"Chicago, IL metro area",2023,April,340000.0,2.4%,-5.6%,"3,666",-1.1%,-25.2%,April 2023
+476,"Chicago, IL metro area",2023,May,360000.0,5.9%,-1.8%,"4,280",16.7%,-20.1%,May 2023
+477,"Chicago, IL metro area",2023,June,376000.0,4.4%,-1.1%,"4,973",16.2%,-17.8%,June 2023
+478,"Chicago, IL metro area",2023,July,365000.0,-2.9%,2.8%,"4,086",-17.8%,-18.4%,July 2023
+479,"Chicago, IL metro area",2023,August,365000.0,0.0%,4.3%,"4,355",6.6%,-15.2%,August 2023
+480,"Chicago, IL metro area",2023,September,350000.0,-4.1%,4.5%,"3,652",-16.1%,-17.8%,September 2023
+481,"Chicago, IL metro area",2023,October,345000.0,-1.4%,4.9%,"3,575",-2.1%,-3.3%,October 2023
+482,"Chicago, IL metro area",2023,November,348000.0,0.7%,6.9%,"3,026",-15.4%,-11.4%,November 2023
+483,"Chicago, IL metro area",2023,December,330000.0,-5.0%,4.8%,"2,976",-1.7%,-8.3%,December 2023
+484,"Chicago, IL metro area",2024,January,335000.0,1.5%,9.8%,"2,253",-24.3%,4.2%,January 2024
+485,"Chicago, IL metro area",2024,February,342000.0,1.9%,8.4%,"2,415",7.2%,1.7%,February 2024
+486,"Chicago, IL metro area",2024,March,368000.0,7.8%,10.8%,"3,187",32.0%,-14.0%,March 2024
+487,"Chicago, IL metro area",2024,April,380000.0,3.3%,11.8%,"3,749",17.6%,2.3%,April 2024
+488,"Chicago, IL metro area",2024,May,386000.0,1.6%,7.2%,"4,241",13.1%,-0.9%,May 2024
+489,"Chicago, IL metro area",2024,June,413000.0,7.0%,9.8%,"4,178",-1.5%,-16.0%,June 2024
+490,"Chicago, IL metro area",2024,July,400000.0,-3.1%,9.6%,"4,433",6.1%,8.5%,July 2024
+491,"Chicago, IL metro area",2024,August,390000.0,-2.5%,6.8%,"4,083",-7.9%,-6.2%,August 2024
+492,"Chicago, IL metro area",2024,September,380000.0,-2.6%,8.6%,"3,438",-15.8%,-5.9%,September 2024
+493,"Chicago, IL metro area",2024,October,371000.0,-2.5%,7.4%,"3,582",4.2%,0.2%,October 2024
+494,"Chicago, IL metro area",2024,November,375000.0,1.2%,7.9%,"3,210",-10.4%,6.1%,November 2024
+495,"Chicago, IL metro area",2024,December,375000.0,0.0%,13.6%,"3,179",-1.0%,6.8%,December 2024
+496,"Chicago, IL metro area",2025,January,360000.0,-4.0%,7.5%,"2,397",-24.6%,6.4%,January 2025
+497,"Chicago, IL metro area",2025,February,375000.0,4.2%,9.8%,"2,422",1.0%,0.3%,February 2025
+498,"Chicago, IL metro area",2025,March,388000.0,3.5%,5.4%,"2,995",23.7%,-6.0%,March 2025
+499,"Chicago, IL metro area",2025,April,401000.0,3.4%,5.5%,"3,688",23.1%,-1.6%,April 2025
+500,"Chicago, IL metro area",2025,May,410000.0,2.2%,6.2%,"4,090",10.9%,-3.6%,May 2025
+501,"Chicago, IL metro area",2025,June,425000.0,3.7%,2.9%,"4,486",9.7%,7.4%,June 2025
+502,"Chicago, IL metro area",2025,July,410000.0,-3.5%,2.5%,"4,363",-2.7%,-1.6%,July 2025
+503,"Chicago, IL metro area",2025,August,413000.0,0.7%,5.8%,"4,042",-7.4%,-1.0%,August 2025
+504,"Chicago, IL metro area",2025,September,390000.0,-5.5%,2.6%,"3,580",-11.4%,4.1%,September 2025
+505,"Chicago, IL metro area",2025,October,400000.0,2.6%,8.0%,"3,766",5.2%,5.1%,October 2025
+506,"Chicago, IL metro area",2025,November,390000.0,-2.4%,4.1%,"2,874",-23.7%,-10.5%,November 2025
+507,"Chicago, IL metro area",2025,December,382000.0,-2.1%,1.9%,"3,259",13.4%,2.5%,December 2025
+508,"Chicago, IL metro area",2026,January,366000.0,-4.3%,1.5%,"2,044",-37.3%,-14.7%,January 2026
+509,"Chicago, IL metro area",2026,February,389000.0,6.4%,3.7%,"2,195",7.4%,-9.4%,February 2026
+510,"Los Angeles, CA metro area",2012,January,305000.0,-6.2%,-4.7%,"3,553",-22.5%,-2.9%,January 2012
+511,"Los Angeles, CA metro area",2012,February,310000.0,1.6%,-6.1%,"3,740",5.3%,14.8%,February 2012
+512,"Los Angeles, CA metro area",2012,March,320000.0,3.2%,-3.6%,"4,840",29.4%,3.8%,March 2012
+513,"Los Angeles, CA metro area",2012,April,333000.0,4.1%,-3.5%,"4,762",-1.6%,6.6%,April 2012
+514,"Los Angeles, CA metro area",2012,May,330000.0,-0.9%,-0.9%,"5,328",11.9%,21.0%,May 2012
+515,"Los Angeles, CA metro area",2012,June,344000.0,4.2%,1.9%,"5,538",3.9%,13.0%,June 2012
+516,"Los Angeles, CA metro area",2012,July,350000.0,1.7%,2.9%,"5,154",-6.9%,13.3%,July 2012
+517,"Los Angeles, CA metro area",2012,August,350000.0,0.0%,6.1%,"5,645",9.5%,19.6%,August 2012
+518,"Los Angeles, CA metro area",2012,September,360000.0,2.9%,9.1%,"4,527",-19.8%,-2.1%,September 2012
+519,"Los Angeles, CA metro area",2012,October,359000.0,-0.3%,14.0%,"5,212",15.1%,22.9%,October 2012
+520,"Los Angeles, CA metro area",2012,November,369000.0,2.8%,15.3%,"4,808",-7.8%,13.5%,November 2012
+521,"Los Angeles, CA metro area",2012,December,370000.0,0.3%,13.8%,"5,282",9.9%,15.2%,December 2012
+522,"Los Angeles, CA metro area",2013,January,350000.0,-5.4%,14.8%,"3,856",-27.0%,8.5%,January 2013
+523,"Los Angeles, CA metro area",2013,February,375000.0,7.1%,21.0%,"3,688",-4.4%,-1.4%,February 2013
+524,"Los Angeles, CA metro area",2013,March,405000.0,8.0%,26.6%,"4,668",26.6%,-3.6%,March 2013
+525,"Los Angeles, CA metro area",2013,April,425000.0,4.8%,27.5%,"4,864",4.2%,2.1%,April 2013
+526,"Los Angeles, CA metro area",2013,May,435000.0,2.5%,31.8%,"5,316",9.3%,-0.2%,May 2013
+527,"Los Angeles, CA metro area",2013,June,460000.0,5.7%,33.7%,"4,933",-7.2%,-10.9%,June 2013
+528,"Los Angeles, CA metro area",2013,July,455000.0,-1.1%,30.0%,"5,159",4.6%,0.1%,July 2013
+529,"Los Angeles, CA metro area",2013,August,465000.0,2.2%,32.9%,"5,305",2.8%,-6.0%,August 2013
+530,"Los Angeles, CA metro area",2013,September,455000.0,-2.2%,26.4%,"4,355",-17.9%,-3.8%,September 2013
+531,"Los Angeles, CA metro area",2013,October,457000.0,0.4%,27.3%,"4,762",9.3%,-8.6%,October 2013
+532,"Los Angeles, CA metro area",2013,November,450000.0,-1.5%,22.0%,"3,954",-17.0%,-17.8%,November 2013
+533,"Los Angeles, CA metro area",2013,December,460000.0,2.2%,24.3%,"4,188",5.9%,-20.7%,December 2013
+534,"Los Angeles, CA metro area",2014,January,439000.0,-4.6%,25.4%,"3,367",-19.6%,-12.7%,January 2014
+535,"Los Angeles, CA metro area",2014,February,450000.0,2.5%,20.0%,"3,079",-8.6%,-16.5%,February 2014
+536,"Los Angeles, CA metro area",2014,March,470000.0,4.4%,16.0%,"3,842",24.8%,-17.7%,March 2014
+537,"Los Angeles, CA metro area",2014,April,479000.0,1.9%,12.8%,"4,416",14.9%,-9.2%,April 2014
+538,"Los Angeles, CA metro area",2014,May,490000.0,2.3%,12.6%,"4,564",3.4%,-14.1%,May 2014
+539,"Los Angeles, CA metro area",2014,June,495000.0,1.0%,7.6%,"4,487",-1.7%,-9.0%,June 2014
+540,"Los Angeles, CA metro area",2014,July,505000.0,2.0%,11.0%,"4,758",6.0%,-7.8%,July 2014
+541,"Los Angeles, CA metro area",2014,August,505000.0,0.0%,8.6%,"4,503",-5.4%,-15.1%,August 2014
+542,"Los Angeles, CA metro area",2014,September,500000.0,-1.0%,9.9%,"4,204",-6.6%,-3.5%,September 2014
+543,"Los Angeles, CA metro area",2014,October,500000.0,0.0%,9.4%,"4,458",6.0%,-6.4%,October 2014
+544,"Los Angeles, CA metro area",2014,November,490000.0,-2.0%,8.9%,"3,596",-19.3%,-9.1%,November 2014
+545,"Los Angeles, CA metro area",2014,December,486000.0,-0.8%,5.7%,"4,210",17.1%,0.5%,December 2014
+546,"Los Angeles, CA metro area",2015,January,480000.0,-1.2%,9.3%,"3,005",-28.6%,-10.8%,January 2015
+547,"Los Angeles, CA metro area",2015,February,495000.0,3.1%,10.0%,"2,935",-2.3%,-4.7%,February 2015
+548,"Los Angeles, CA metro area",2015,March,500000.0,1.0%,6.4%,"4,216",43.6%,9.7%,March 2015
+549,"Los Angeles, CA metro area",2015,April,525000.0,5.0%,9.6%,"4,664",10.6%,5.6%,April 2015
+550,"Los Angeles, CA metro area",2015,May,520000.0,-1.0%,6.1%,"4,689",0.5%,2.7%,May 2015
+551,"Los Angeles, CA metro area",2015,June,531000.0,2.0%,7.2%,"5,251",12.0%,17.0%,June 2015
+552,"Los Angeles, CA metro area",2015,July,537000.0,1.2%,6.3%,"5,283",0.6%,11.0%,July 2015
+553,"Los Angeles, CA metro area",2015,August,535000.0,-0.4%,5.9%,"4,794",-9.3%,6.5%,August 2015
+554,"Los Angeles, CA metro area",2015,September,525000.0,-1.9%,5.0%,"4,598",-4.1%,9.4%,September 2015
+555,"Los Angeles, CA metro area",2015,October,520000.0,-1.0%,4.0%,"4,455",-3.1%,-0.1%,October 2015
+556,"Los Angeles, CA metro area",2015,November,515000.0,-1.0%,5.1%,"3,393",-23.8%,-5.6%,November 2015
+557,"Los Angeles, CA metro area",2015,December,530000.0,2.9%,9.1%,"4,642",36.8%,10.3%,December 2015
+558,"Los Angeles, CA metro area",2016,January,520000.0,-1.9%,8.3%,"3,244",-30.1%,8.0%,January 2016
+559,"Los Angeles, CA metro area",2016,February,520000.0,0.0%,5.1%,"3,082",-5.0%,5.0%,February 2016
+560,"Los Angeles, CA metro area",2016,March,545000.0,4.8%,9.0%,"4,233",37.3%,0.4%,March 2016
+561,"Los Angeles, CA metro area",2016,April,555000.0,1.8%,5.7%,"4,483",5.9%,-3.9%,April 2016
+562,"Los Angeles, CA metro area",2016,May,570000.0,2.7%,9.6%,"4,644",3.6%,-1.0%,May 2016
+563,"Los Angeles, CA metro area",2016,June,577000.0,1.3%,8.8%,"5,193",11.8%,-1.1%,June 2016
+564,"Los Angeles, CA metro area",2016,July,570000.0,-1.3%,6.1%,"4,752",-8.5%,-10.1%,July 2016
+565,"Los Angeles, CA metro area",2016,August,575000.0,0.9%,7.5%,"4,971",4.6%,3.7%,August 2016
+566,"Los Angeles, CA metro area",2016,September,565000.0,-1.7%,7.6%,"4,744",-4.6%,3.2%,September 2016
+567,"Los Angeles, CA metro area",2016,October,565000.0,0.0%,8.7%,"4,243",-10.6%,-4.8%,October 2016
+568,"Los Angeles, CA metro area",2016,November,570000.0,0.9%,10.7%,"4,170",-1.7%,22.9%,November 2016
+569,"Los Angeles, CA metro area",2016,December,560000.0,-1.8%,5.7%,"4,458",6.9%,-4.0%,December 2016
+570,"Los Angeles, CA metro area",2017,January,565000.0,0.9%,8.7%,"3,314",-25.7%,2.2%,January 2017
+571,"Los Angeles, CA metro area",2017,February,563000.0,-0.4%,8.3%,"3,056",-7.8%,-0.8%,February 2017
+572,"Los Angeles, CA metro area",2017,March,585000.0,3.9%,7.3%,"4,522",48.0%,6.8%,March 2017
+573,"Los Angeles, CA metro area",2017,April,589000.0,0.6%,6.0%,"4,074",-9.9%,-9.1%,April 2017
+574,"Los Angeles, CA metro area",2017,May,600000.0,2.0%,5.3%,"4,950",21.5%,6.6%,May 2017
+575,"Los Angeles, CA metro area",2017,June,615000.0,2.5%,6.5%,"5,615",13.4%,8.1%,June 2017
+576,"Los Angeles, CA metro area",2017,July,630000.0,2.4%,10.5%,"4,462",-20.5%,-6.1%,July 2017
+577,"Los Angeles, CA metro area",2017,August,625000.0,-0.8%,8.7%,"5,236",17.3%,5.3%,August 2017
+578,"Los Angeles, CA metro area",2017,September,615000.0,-1.6%,8.8%,"4,606",-12.0%,-2.9%,September 2017
+579,"Los Angeles, CA metro area",2017,October,602000.0,-2.1%,6.6%,"4,400",-4.5%,3.7%,October 2017
+580,"Los Angeles, CA metro area",2017,November,610000.0,1.3%,7.0%,"4,090",-7.0%,-1.9%,November 2017
+581,"Los Angeles, CA metro area",2017,December,605000.0,-0.8%,8.0%,"4,095",0.1%,-8.1%,December 2017
+582,"Los Angeles, CA metro area",2018,January,590000.0,-2.5%,4.4%,"3,106",-24.2%,-6.3%,January 2018
+583,"Los Angeles, CA metro area",2018,February,627000.0,6.3%,11.4%,"2,990",-3.7%,-2.2%,February 2018
+584,"Los Angeles, CA metro area",2018,March,630000.0,0.4%,7.7%,"4,337",45.1%,-4.1%,March 2018
+585,"Los Angeles, CA metro area",2018,April,638000.0,1.2%,8.3%,"4,168",-3.9%,2.3%,April 2018
+586,"Los Angeles, CA metro area",2018,May,650000.0,2.0%,8.3%,"4,694",12.6%,-5.2%,May 2018
+587,"Los Angeles, CA metro area",2018,June,657000.0,1.0%,6.7%,"4,963",5.7%,-11.6%,June 2018
+588,"Los Angeles, CA metro area",2018,July,655000.0,-0.2%,4.0%,"4,519",-8.9%,1.3%,July 2018
+589,"Los Angeles, CA metro area",2018,August,659000.0,0.6%,5.4%,"4,859",7.5%,-7.2%,August 2018
+590,"Los Angeles, CA metro area",2018,September,640000.0,-3.0%,4.0%,"3,641",-25.1%,-21.0%,September 2018
+591,"Los Angeles, CA metro area",2018,October,636000.0,-0.5%,5.6%,"4,093",12.4%,-7.0%,October 2018
+592,"Los Angeles, CA metro area",2018,November,640000.0,0.6%,4.9%,"3,636",-11.2%,-11.1%,November 2018
+593,"Los Angeles, CA metro area",2018,December,620000.0,-3.1%,2.5%,"3,455",-5.0%,-15.6%,December 2018
+594,"Los Angeles, CA metro area",2019,January,610000.0,-1.6%,3.4%,"2,647",-23.4%,-14.8%,January 2019
+595,"Los Angeles, CA metro area",2019,February,629000.0,3.1%,0.3%,"2,665",0.7%,-10.9%,February 2019
+596,"Los Angeles, CA metro area",2019,March,645000.0,2.5%,2.4%,"3,699",38.8%,-14.7%,March 2019
+597,"Los Angeles, CA metro area",2019,April,650000.0,0.8%,2.0%,"4,227",14.3%,1.4%,April 2019
+598,"Los Angeles, CA metro area",2019,May,650000.0,0.0%,0.0%,"4,684",10.8%,-0.2%,May 2019
+599,"Los Angeles, CA metro area",2019,June,660000.0,1.5%,0.5%,"4,571",-2.4%,-7.9%,June 2019
+600,"Los Angeles, CA metro area",2019,July,680000.0,3.0%,3.8%,"4,719",3.2%,4.4%,July 2019
+601,"Los Angeles, CA metro area",2019,August,669000.0,-1.6%,1.5%,"4,722",0.1%,-2.8%,August 2019
+602,"Los Angeles, CA metro area",2019,September,670000.0,0.1%,4.8%,"4,020",-14.9%,10.4%,September 2019
+603,"Los Angeles, CA metro area",2019,October,665000.0,-0.7%,4.6%,"4,439",10.4%,8.5%,October 2019
+604,"Los Angeles, CA metro area",2019,November,665000.0,0.0%,3.9%,"3,910",-11.9%,7.5%,November 2019
+605,"Los Angeles, CA metro area",2019,December,675000.0,1.4%,8.8%,"4,042",3.4%,17.0%,December 2019
+606,"Los Angeles, CA metro area",2020,January,660000.0,-2.1%,8.2%,"3,144",-22.2%,18.8%,January 2020
+607,"Los Angeles, CA metro area",2020,February,679000.0,2.9%,7.9%,"2,976",-5.3%,11.7%,February 2020
+608,"Los Angeles, CA metro area",2020,March,700000.0,3.1%,8.5%,"3,560",19.6%,-3.8%,March 2020
+609,"Los Angeles, CA metro area",2020,April,675000.0,-3.6%,3.8%,"2,725",-23.5%,-35.5%,April 2020
+610,"Los Angeles, CA metro area",2020,May,665000.0,-1.5%,2.3%,"2,333",-14.4%,-50.2%,May 2020
+611,"Los Angeles, CA metro area",2020,June,700000.0,5.3%,6.1%,"3,393",45.4%,-25.8%,June 2020
+612,"Los Angeles, CA metro area",2020,July,749000.0,7.0%,10.1%,"4,514",33.0%,-4.3%,July 2020
+613,"Los Angeles, CA metro area",2020,August,755000.0,0.8%,12.9%,"4,534",0.4%,-4.0%,August 2020
+614,"Los Angeles, CA metro area",2020,September,793000.0,5.0%,18.3%,"4,671",3.0%,16.2%,September 2020
+615,"Los Angeles, CA metro area",2020,October,800000.0,0.9%,20.3%,"4,911",5.1%,10.6%,October 2020
+616,"Los Angeles, CA metro area",2020,November,780000.0,-2.5%,17.3%,"4,294",-12.6%,9.8%,November 2020
+617,"Los Angeles, CA metro area",2020,December,777000.0,-0.4%,15.2%,"5,029",17.1%,24.4%,December 2020
+618,"Los Angeles, CA metro area",2021,January,775000.0,-0.3%,17.4%,"3,582",-28.8%,13.9%,January 2021
+619,"Los Angeles, CA metro area",2021,February,810000.0,4.5%,19.3%,"3,388",-5.4%,13.8%,February 2021
+620,"Los Angeles, CA metro area",2021,March,851000.0,5.1%,21.6%,"4,753",40.3%,33.5%,March 2021
+621,"Los Angeles, CA metro area",2021,April,870000.0,2.2%,28.9%,"4,998",5.2%,83.4%,April 2021
+622,"Los Angeles, CA metro area",2021,May,880000.0,1.1%,32.3%,"4,793",-4.1%,105.4%,May 2021
+623,"Los Angeles, CA metro area",2021,June,900000.0,2.3%,28.6%,"5,341",11.4%,57.4%,June 2021
+624,"Los Angeles, CA metro area",2021,July,885000.0,-1.7%,18.2%,"4,990",-6.6%,10.5%,July 2021
+625,"Los Angeles, CA metro area",2021,August,885000.0,0.0%,17.2%,"4,855",-2.7%,7.1%,August 2021
+626,"Los Angeles, CA metro area",2021,September,875000.0,-1.1%,10.4%,"4,804",-1.1%,2.8%,September 2021
+627,"Los Angeles, CA metro area",2021,October,870000.0,-0.6%,8.7%,"4,633",-3.6%,-5.7%,October 2021
+628,"Los Angeles, CA metro area",2021,November,867000.0,-0.3%,11.2%,"4,491",-3.1%,4.6%,November 2021
+629,"Los Angeles, CA metro area",2021,December,895000.0,3.2%,15.2%,"4,733",5.4%,-5.9%,December 2021
+630,"Los Angeles, CA metro area",2022,January,876000.0,-2.1%,13.0%,"3,248",-31.4%,-9.3%,January 2022
+631,"Los Angeles, CA metro area",2022,February,899000.0,2.6%,11.0%,"3,122",-3.9%,-7.9%,February 2022
+632,"Los Angeles, CA metro area",2022,March,941000.0,4.7%,10.6%,"4,470",43.2%,-6.0%,March 2022
+633,"Los Angeles, CA metro area",2022,April,977000.0,3.8%,12.3%,"4,349",-2.7%,-13.0%,April 2022
+634,"Los Angeles, CA metro area",2022,May,976000.0,-0.1%,10.9%,"4,088",-6.0%,-14.7%,May 2022
+635,"Los Angeles, CA metro area",2022,June,975000.0,-0.1%,8.3%,"4,215",3.1%,-21.1%,June 2022
+636,"Los Angeles, CA metro area",2022,July,920000.0,-5.6%,4.0%,"3,428",-18.7%,-31.3%,July 2022
+637,"Los Angeles, CA metro area",2022,August,896000.0,-2.7%,1.2%,"3,547",3.5%,-26.9%,August 2022
+638,"Los Angeles, CA metro area",2022,September,900000.0,0.5%,2.9%,"3,412",-3.8%,-29.0%,September 2022
+639,"Los Angeles, CA metro area",2022,October,870000.0,-3.3%,0.0%,"2,943",-13.7%,-36.5%,October 2022
+640,"Los Angeles, CA metro area",2022,November,860000.0,-1.2%,-0.9%,"2,631",-10.6%,-41.4%,November 2022
+641,"Los Angeles, CA metro area",2022,December,852000.0,-0.9%,-4.8%,"2,533",-3.7%,-46.5%,December 2022
+642,"Los Angeles, CA metro area",2023,January,830000.0,-2.6%,-5.3%,"2,050",-19.1%,-36.9%,January 2023
+643,"Los Angeles, CA metro area",2023,February,850000.0,2.4%,-5.5%,"2,130",3.9%,-31.8%,February 2023
+644,"Los Angeles, CA metro area",2023,March,870000.0,2.4%,-7.5%,"3,180",49.3%,-28.9%,March 2023
+645,"Los Angeles, CA metro area",2023,April,870000.0,0.0%,-11.0%,"2,785",-12.4%,-36.0%,April 2023
+646,"Los Angeles, CA metro area",2023,May,899000.0,3.3%,-7.9%,"3,215",15.4%,-21.4%,May 2023
+647,"Los Angeles, CA metro area",2023,June,930000.0,3.4%,-4.6%,"3,417",6.3%,-18.9%,June 2023
+648,"Los Angeles, CA metro area",2023,July,930000.0,0.0%,1.1%,"2,856",-16.4%,-16.7%,July 2023
+649,"Los Angeles, CA metro area",2023,August,929000.0,-0.1%,3.7%,"3,202",12.1%,-9.7%,August 2023
+650,"Los Angeles, CA metro area",2023,September,925000.0,-0.4%,2.8%,"2,737",-14.5%,-19.8%,September 2023
+651,"Los Angeles, CA metro area",2023,October,925000.0,0.0%,6.3%,"2,770",1.2%,-5.9%,October 2023
+652,"Los Angeles, CA metro area",2023,November,926000.0,0.1%,7.7%,"2,437",-12.0%,-7.4%,November 2023
+653,"Los Angeles, CA metro area",2023,December,906000.0,-2.2%,6.3%,"2,519",3.4%,-0.6%,December 2023
+654,"Los Angeles, CA metro area",2024,January,894000.0,-1.4%,7.7%,"2,110",-16.2%,2.9%,January 2024
+655,"Los Angeles, CA metro area",2024,February,945000.0,5.7%,11.2%,"2,296",8.8%,7.8%,February 2024
+656,"Los Angeles, CA metro area",2024,March,948000.0,0.3%,9.0%,"2,796",21.8%,-12.1%,March 2024
+657,"Los Angeles, CA metro area",2024,April,965000.0,1.8%,10.9%,"3,038",8.7%,9.1%,April 2024
+658,"Los Angeles, CA metro area",2024,May,999000.0,3.5%,11.1%,"3,311",9.0%,3.0%,May 2024
+659,"Los Angeles, CA metro area",2024,June,1000000.0,0.1%,7.5%,"3,029",-8.5%,-11.4%,June 2024
+660,"Los Angeles, CA metro area",2024,July,1000000.0,0.0%,7.5%,"3,236",6.8%,13.3%,July 2024
+661,"Los Angeles, CA metro area",2024,August,989000.0,-1.1%,6.5%,"3,120",-3.6%,-2.6%,August 2024
+662,"Los Angeles, CA metro area",2024,September,956000.0,-3.3%,3.4%,"2,767",-11.3%,1.1%,September 2024
+663,"Los Angeles, CA metro area",2024,October,985000.0,3.0%,6.5%,"3,134",13.3%,13.1%,October 2024
+664,"Los Angeles, CA metro area",2024,November,966000.0,-1.9%,4.3%,"2,725",-13.1%,11.8%,November 2024
+665,"Los Angeles, CA metro area",2024,December,975000.0,0.9%,7.6%,"2,833",4.0%,12.5%,December 2024
+666,"Los Angeles, CA metro area",2025,January,960000.0,-1.5%,7.4%,"2,081",-26.5%,-1.4%,January 2025
+667,"Los Angeles, CA metro area",2025,February,1000000.0,4.2%,5.8%,"2,404",15.5%,4.7%,February 2025
+668,"Los Angeles, CA metro area",2025,March,1025000.0,2.5%,8.1%,"2,805",16.7%,0.3%,March 2025
+669,"Los Angeles, CA metro area",2025,April,1000000.0,-2.4%,3.6%,"3,216",14.7%,5.9%,April 2025
+670,"Los Angeles, CA metro area",2025,May,1015000.0,1.5%,1.6%,"3,182",-1.1%,-3.9%,May 2025
+671,"Los Angeles, CA metro area",2025,June,1065000.0,4.9%,6.5%,"3,086",-3.0%,1.9%,June 2025
+672,"Los Angeles, CA metro area",2025,July,1025000.0,-3.8%,2.5%,"3,363",9.0%,3.9%,July 2025
+673,"Los Angeles, CA metro area",2025,August,1000000.0,-2.4%,1.1%,"2,977",-11.5%,-4.6%,August 2025
+674,"Los Angeles, CA metro area",2025,September,1000000.0,0.0%,4.6%,"3,215",8.0%,16.2%,September 2025
+675,"Los Angeles, CA metro area",2025,October,990000.0,-1.0%,0.5%,"3,271",1.7%,4.4%,October 2025
+676,"Los Angeles, CA metro area",2025,November,975000.0,-1.5%,0.9%,"2,599",-20.5%,-4.6%,November 2025
+677,"Los Angeles, CA metro area",2025,December,948000.0,-2.8%,-2.8%,"2,943",13.2%,3.9%,December 2025
+678,"Los Angeles, CA metro area",2026,January,950000.0,0.3%,-1.0%,"2,012",-31.6%,-3.3%,January 2026
+679,"Los Angeles, CA metro area",2026,February,1000000.0,5.3%,0.0%,"2,252",11.9%,-6.3%,February 2026
+680,"Philadelphia, PA metro area",2012,January,183000.0,-6.4%,-4.9%,314,-25.9%,2.3%,January 2012
+681,"Philadelphia, PA metro area",2012,February,185000.0,1.4%,-1.5%,325,3.5%,18.6%,February 2012
+682,"Philadelphia, PA metro area",2012,March,184000.0,-0.5%,-3.1%,466,43.4%,14.5%,March 2012
+683,"Philadelphia, PA metro area",2012,April,198000.0,7.4%,1.4%,506,8.6%,28.1%,April 2012
+684,"Philadelphia, PA metro area",2012,May,206000.0,4.2%,-1.6%,646,27.7%,32.9%,May 2012
+685,"Philadelphia, PA metro area",2012,June,225000.0,9.2%,-3.6%,652,0.9%,12.4%,June 2012
+686,"Philadelphia, PA metro area",2012,July,215000.0,-4.4%,-2.2%,629,-3.5%,26.6%,July 2012
+687,"Philadelphia, PA metro area",2012,August,215000.0,0.0%,2.4%,647,2.9%,19.4%,August 2012
+688,"Philadelphia, PA metro area",2012,September,195000.0,-9.3%,-2.5%,487,-24.7%,4.1%,September 2012
+689,"Philadelphia, PA metro area",2012,October,193000.0,-1.0%,1.6%,457,-6.2%,15.7%,October 2012
+690,"Philadelphia, PA metro area",2012,November,190000.0,-1.6%,0.0%,549,20.1%,35.9%,November 2012
+691,"Philadelphia, PA metro area",2012,December,194000.0,2.1%,-0.5%,509,-7.3%,20.0%,December 2012
+692,"Philadelphia, PA metro area",2013,January,185000.0,-4.6%,1.4%,417,-18.1%,32.8%,January 2013
+693,"Philadelphia, PA metro area",2013,February,174000.0,-5.7%,-5.7%,388,-7.0%,19.4%,February 2013
+694,"Philadelphia, PA metro area",2013,March,200000.0,14.6%,8.7%,491,26.5%,5.4%,March 2013
+695,"Philadelphia, PA metro area",2013,April,200000.0,0.0%,1.1%,568,15.7%,12.3%,April 2013
+696,"Philadelphia, PA metro area",2013,May,219000.0,9.3%,6.1%,718,26.4%,11.1%,May 2013
+697,"Philadelphia, PA metro area",2013,June,230000.0,5.3%,2.2%,797,11.0%,22.2%,June 2013
+698,"Philadelphia, PA metro area",2013,July,225000.0,-2.2%,4.7%,701,-12.0%,11.4%,July 2013
+699,"Philadelphia, PA metro area",2013,August,221000.0,-1.8%,2.8%,692,-1.3%,7.0%,August 2013
+700,"Philadelphia, PA metro area",2013,September,200000.0,-9.5%,2.6%,592,-14.5%,21.6%,September 2013
+701,"Philadelphia, PA metro area",2013,October,196000.0,-2.3%,1.3%,576,-2.7%,26.0%,October 2013
+702,"Philadelphia, PA metro area",2013,November,196000.0,0.3%,3.2%,510,-11.5%,-7.1%,November 2013
+703,"Philadelphia, PA metro area",2013,December,192000.0,-2.0%,-1.0%,550,7.8%,8.1%,December 2013
+704,"Philadelphia, PA metro area",2014,January,185000.0,-3.6%,0.0%,373,-32.2%,-10.6%,January 2014
+705,"Philadelphia, PA metro area",2014,February,178000.0,-3.8%,2.0%,321,-13.9%,-17.3%,February 2014
+706,"Philadelphia, PA metro area",2014,March,179000.0,0.5%,-10.6%,463,44.2%,-5.7%,March 2014
+707,"Philadelphia, PA metro area",2014,April,200000.0,11.8%,0.1%,484,4.5%,-14.8%,April 2014
+708,"Philadelphia, PA metro area",2014,May,214000.0,7.2%,-1.9%,648,33.9%,-9.7%,May 2014
+709,"Philadelphia, PA metro area",2014,June,225000.0,5.0%,-2.2%,782,20.7%,-1.9%,June 2014
+710,"Philadelphia, PA metro area",2014,July,215000.0,-4.4%,-4.4%,743,-5.0%,6.0%,July 2014
+711,"Philadelphia, PA metro area",2014,August,210000.0,-2.3%,-5.0%,694,-6.6%,0.3%,August 2014
+712,"Philadelphia, PA metro area",2014,September,194000.0,-7.6%,-3.0%,601,-13.4%,1.5%,September 2014
+713,"Philadelphia, PA metro area",2014,October,195000.0,0.5%,-0.3%,628,4.5%,9.0%,October 2014
+714,"Philadelphia, PA metro area",2014,November,190000.0,-2.6%,-3.1%,541,-13.9%,6.1%,November 2014
+715,"Philadelphia, PA metro area",2014,December,188000.0,-1.3%,-2.3%,615,13.7%,11.8%,December 2014
+716,"Philadelphia, PA metro area",2015,January,195000.0,4.0%,5.4%,437,-28.9%,17.2%,January 2015
+717,"Philadelphia, PA metro area",2015,February,175000.0,-10.3%,-1.7%,412,-5.7%,28.3%,February 2015
+718,"Philadelphia, PA metro area",2015,March,185000.0,5.7%,3.4%,502,21.8%,8.4%,March 2015
+719,"Philadelphia, PA metro area",2015,April,199000.0,7.8%,-0.3%,606,20.7%,25.2%,April 2015
+720,"Philadelphia, PA metro area",2015,May,210000.0,5.3%,-2.0%,671,10.7%,3.5%,May 2015
+721,"Philadelphia, PA metro area",2015,June,230000.0,9.5%,2.2%,937,39.6%,19.8%,June 2015
+722,"Philadelphia, PA metro area",2015,July,223000.0,-3.0%,3.7%,893,-4.7%,20.2%,July 2015
+723,"Philadelphia, PA metro area",2015,August,200000.0,-10.3%,-4.8%,725,-18.8%,4.5%,August 2015
+724,"Philadelphia, PA metro area",2015,September,190000.0,-5.0%,-2.1%,689,-5.0%,14.6%,September 2015
+725,"Philadelphia, PA metro area",2015,October,195000.0,2.5%,-0.1%,675,-2.0%,7.5%,October 2015
+726,"Philadelphia, PA metro area",2015,November,187000.0,-4.3%,-1.8%,524,-22.4%,-3.1%,November 2015
+727,"Philadelphia, PA metro area",2015,December,205000.0,9.9%,9.3%,646,23.3%,5.0%,December 2015
+728,"Philadelphia, PA metro area",2016,January,185000.0,-9.8%,-5.1%,483,-25.2%,10.5%,January 2016
+729,"Philadelphia, PA metro area",2016,February,180000.0,-2.8%,2.8%,487,0.8%,18.2%,February 2016
+730,"Philadelphia, PA metro area",2016,March,193000.0,7.0%,4.1%,581,19.3%,15.7%,March 2016
+731,"Philadelphia, PA metro area",2016,April,200000.0,3.8%,0.2%,644,10.8%,6.3%,April 2016
+732,"Philadelphia, PA metro area",2016,May,225000.0,12.6%,7.1%,840,30.4%,25.2%,May 2016
+733,"Philadelphia, PA metro area",2016,June,235000.0,4.4%,2.2%,"1,083",28.9%,15.6%,June 2016
+734,"Philadelphia, PA metro area",2016,July,225000.0,-4.3%,0.9%,871,-19.6%,-2.5%,July 2016
+735,"Philadelphia, PA metro area",2016,August,217000.0,-3.7%,8.3%,898,3.1%,23.9%,August 2016
+736,"Philadelphia, PA metro area",2016,September,199000.0,-8.1%,4.7%,738,-17.8%,7.1%,September 2016
+737,"Philadelphia, PA metro area",2016,October,210000.0,5.5%,7.8%,653,-11.5%,-3.3%,October 2016
+738,"Philadelphia, PA metro area",2016,November,220000.0,4.8%,18.0%,635,-2.8%,21.2%,November 2016
+739,"Philadelphia, PA metro area",2016,December,217000.0,-1.4%,5.9%,703,10.7%,8.8%,December 2016
+740,"Philadelphia, PA metro area",2017,January,200000.0,-7.8%,8.1%,521,-25.9%,7.9%,January 2017
+741,"Philadelphia, PA metro area",2017,February,195000.0,-2.5%,8.4%,451,-13.4%,-7.4%,February 2017
+742,"Philadelphia, PA metro area",2017,March,209000.0,7.2%,8.6%,605,34.1%,4.1%,March 2017
+743,"Philadelphia, PA metro area",2017,April,210000.0,0.4%,5.0%,735,21.5%,14.1%,April 2017
+744,"Philadelphia, PA metro area",2017,May,235000.0,12.0%,4.4%,914,24.4%,8.8%,May 2017
+745,"Philadelphia, PA metro area",2017,June,240000.0,2.1%,2.1%,"1,066",16.6%,-1.6%,June 2017
+746,"Philadelphia, PA metro area",2017,July,248000.0,3.4%,10.4%,846,-20.6%,-2.9%,July 2017
+747,"Philadelphia, PA metro area",2017,August,233000.0,-6.3%,7.4%,850,0.5%,-5.3%,August 2017
+748,"Philadelphia, PA metro area",2017,September,221000.0,-4.9%,11.1%,732,-13.9%,-0.8%,September 2017
+749,"Philadelphia, PA metro area",2017,October,221000.0,0.0%,5.2%,719,-1.8%,10.1%,October 2017
+750,"Philadelphia, PA metro area",2017,November,223000.0,0.7%,1.1%,709,-1.4%,11.7%,November 2017
+751,"Philadelphia, PA metro area",2017,December,230000.0,3.4%,6.0%,690,-2.7%,-1.8%,December 2017
+752,"Philadelphia, PA metro area",2018,January,207000.0,-10.0%,3.5%,487,-29.4%,-6.5%,January 2018
+753,"Philadelphia, PA metro area",2018,February,220000.0,6.2%,12.8%,431,-11.5%,-4.4%,February 2018
+754,"Philadelphia, PA metro area",2018,March,225000.0,2.3%,7.7%,604,40.1%,-0.2%,March 2018
+755,"Philadelphia, PA metro area",2018,April,228000.0,1.1%,8.4%,678,12.3%,-7.8%,April 2018
+756,"Philadelphia, PA metro area",2018,May,240000.0,5.5%,2.1%,842,24.2%,-7.9%,May 2018
+757,"Philadelphia, PA metro area",2018,June,250000.0,4.2%,4.2%,"1,013",20.3%,-5.0%,June 2018
+758,"Philadelphia, PA metro area",2018,July,244000.0,-2.2%,-1.5%,894,-11.7%,5.7%,July 2018
+759,"Philadelphia, PA metro area",2018,August,250000.0,2.3%,7.5%,901,0.8%,6.0%,August 2018
+760,"Philadelphia, PA metro area",2018,September,240000.0,-4.0%,8.5%,640,-29.0%,-12.6%,September 2018
+761,"Philadelphia, PA metro area",2018,October,281000.0,16.9%,26.9%,408,-36.3%,-43.3%,October 2018
+762,"Philadelphia, PA metro area",2018,November,286000.0,1.8%,28.3%,380,-6.9%,-46.4%,November 2018
+763,"Philadelphia, PA metro area",2018,December,290000.0,1.6%,26.1%,348,-8.4%,-49.6%,December 2018
+764,"Philadelphia, PA metro area",2019,January,290000.0,0.0%,40.1%,242,-30.5%,-50.3%,January 2019
+765,"Philadelphia, PA metro area",2019,February,283000.0,-2.4%,28.6%,243,0.4%,-43.6%,February 2019
+766,"Philadelphia, PA metro area",2019,March,286000.0,1.1%,27.1%,311,28.0%,-48.5%,March 2019
+767,"Philadelphia, PA metro area",2019,April,304000.0,6.3%,33.6%,428,37.6%,-36.9%,April 2019
+768,"Philadelphia, PA metro area",2019,May,310000.0,2.0%,29.2%,557,30.1%,-33.8%,May 2019
+769,"Philadelphia, PA metro area",2019,June,340000.0,9.7%,36.0%,628,12.7%,-38.0%,June 2019
+770,"Philadelphia, PA metro area",2019,July,325000.0,-4.4%,33.0%,531,-15.4%,-40.6%,July 2019
+771,"Philadelphia, PA metro area",2019,August,331000.0,1.8%,32.4%,508,-4.3%,-43.6%,August 2019
+772,"Philadelphia, PA metro area",2019,September,300000.0,-9.4%,25.0%,379,-25.4%,-40.8%,September 2019
+773,"Philadelphia, PA metro area",2019,October,313000.0,4.4%,11.7%,328,-13.5%,-19.6%,October 2019
+774,"Philadelphia, PA metro area",2019,November,314000.0,0.4%,10.1%,348,6.1%,-8.4%,November 2019
+775,"Philadelphia, PA metro area",2019,December,320000.0,1.7%,10.3%,413,18.7%,18.7%,December 2019
+776,"Philadelphia, PA metro area",2020,January,311000.0,-2.9%,7.2%,292,-29.3%,20.7%,January 2020
+777,"Philadelphia, PA metro area",2020,February,285000.0,-8.3%,0.7%,238,-18.5%,-2.1%,February 2020
+778,"Philadelphia, PA metro area",2020,March,321000.0,12.6%,12.2%,329,38.2%,5.8%,March 2020
+779,"Philadelphia, PA metro area",2020,April,335000.0,4.4%,10.2%,322,-2.1%,-24.8%,April 2020
+780,"Philadelphia, PA metro area",2020,May,367000.0,9.6%,18.4%,259,-19.6%,-53.5%,May 2020
+781,"Philadelphia, PA metro area",2020,June,340000.0,-7.4%,0.0%,316,22.0%,-49.7%,June 2020
+782,"Philadelphia, PA metro area",2020,July,350000.0,2.9%,7.7%,565,78.8%,6.4%,July 2020
+783,"Philadelphia, PA metro area",2020,August,375000.0,7.1%,13.3%,565,0.0%,11.2%,August 2020
+784,"Philadelphia, PA metro area",2020,September,352000.0,-6.1%,17.3%,532,-5.8%,40.4%,September 2020
+785,"Philadelphia, PA metro area",2020,October,350000.0,-0.6%,11.7%,524,-1.5%,59.8%,October 2020
+786,"Philadelphia, PA metro area",2020,November,352000.0,0.4%,11.8%,471,-10.1%,35.3%,November 2020
+787,"Philadelphia, PA metro area",2020,December,355000.0,1.0%,11.0%,479,1.7%,16.0%,December 2020
+788,"Philadelphia, PA metro area",2021,January,350000.0,-1.4%,12.6%,362,-24.4%,24.0%,January 2021
+789,"Philadelphia, PA metro area",2021,February,331000.0,-5.6%,16.0%,272,-24.9%,14.3%,February 2021
+790,"Philadelphia, PA metro area",2021,March,370000.0,12.0%,15.3%,357,31.3%,8.5%,March 2021
+791,"Philadelphia, PA metro area",2021,April,392000.0,5.9%,17.0%,425,19.0%,32.0%,April 2021
+792,"Philadelphia, PA metro area",2021,May,395000.0,0.8%,7.6%,442,4.0%,70.7%,May 2021
+793,"Philadelphia, PA metro area",2021,June,403000.0,2.1%,18.6%,629,42.3%,99.1%,June 2021
+794,"Philadelphia, PA metro area",2021,July,417000.0,3.4%,19.1%,588,-6.5%,4.1%,July 2021
+795,"Philadelphia, PA metro area",2021,August,402000.0,-3.6%,7.2%,521,-11.4%,-7.8%,August 2021
+796,"Philadelphia, PA metro area",2021,September,385000.0,-4.2%,9.4%,473,-9.2%,-11.1%,September 2021
+797,"Philadelphia, PA metro area",2021,October,390000.0,1.3%,11.4%,475,0.4%,-9.4%,October 2021
+798,"Philadelphia, PA metro area",2021,November,385000.0,-1.3%,9.5%,484,1.9%,2.8%,November 2021
+799,"Philadelphia, PA metro area",2021,December,385000.0,0.0%,8.5%,461,-4.8%,-3.8%,December 2021
+800,"Philadelphia, PA metro area",2022,January,360000.0,-6.5%,2.9%,359,-22.1%,-0.8%,January 2022
+801,"Philadelphia, PA metro area",2022,February,368000.0,2.1%,11.2%,290,-19.2%,6.6%,February 2022
+802,"Philadelphia, PA metro area",2022,March,405000.0,10.2%,9.5%,377,30.0%,5.6%,March 2022
+803,"Philadelphia, PA metro area",2022,April,405000.0,0.0%,3.3%,406,7.7%,-4.5%,April 2022
+804,"Philadelphia, PA metro area",2022,May,420000.0,3.7%,6.3%,417,2.7%,-5.7%,May 2022
+805,"Philadelphia, PA metro area",2022,June,450000.0,7.1%,11.6%,541,29.7%,-14.0%,June 2022
+806,"Philadelphia, PA metro area",2022,July,410000.0,-8.9%,-1.7%,436,-19.4%,-25.9%,July 2022
+807,"Philadelphia, PA metro area",2022,August,409000.0,-0.4%,1.6%,501,14.9%,-3.8%,August 2022
+808,"Philadelphia, PA metro area",2022,September,386000.0,-5.5%,0.3%,379,-24.4%,-19.9%,September 2022
+809,"Philadelphia, PA metro area",2022,October,385000.0,-0.3%,-1.3%,325,-14.2%,-31.6%,October 2022
+810,"Philadelphia, PA metro area",2022,November,400000.0,3.9%,3.9%,315,-3.1%,-34.9%,November 2022
+811,"Philadelphia, PA metro area",2022,December,396000.0,-1.0%,2.9%,305,-3.2%,-33.8%,December 2022
+812,"Philadelphia, PA metro area",2023,January,375000.0,-5.3%,4.2%,211,-30.8%,-41.2%,January 2023
+813,"Philadelphia, PA metro area",2023,February,375000.0,0.0%,2.0%,227,7.6%,-21.7%,February 2023
+814,"Philadelphia, PA metro area",2023,March,390000.0,4.0%,-3.7%,289,27.3%,-23.3%,March 2023
+815,"Philadelphia, PA metro area",2023,April,410000.0,5.1%,1.2%,289,0.0%,-28.8%,April 2023
+816,"Philadelphia, PA metro area",2023,May,465000.0,13.4%,10.7%,369,27.7%,-11.5%,May 2023
+817,"Philadelphia, PA metro area",2023,June,451000.0,-3.1%,0.1%,424,14.9%,-21.6%,June 2023
+818,"Philadelphia, PA metro area",2023,July,466000.0,3.5%,13.7%,318,-25.0%,-27.1%,July 2023
+819,"Philadelphia, PA metro area",2023,August,450000.0,-3.6%,10.0%,368,15.7%,-26.5%,August 2023
+820,"Philadelphia, PA metro area",2023,September,427000.0,-5.1%,10.5%,317,-13.9%,-16.4%,September 2023
+821,"Philadelphia, PA metro area",2023,October,420000.0,-1.5%,9.1%,310,-2.2%,-4.6%,October 2023
+822,"Philadelphia, PA metro area",2023,November,416000.0,-0.9%,4.1%,292,-5.8%,-7.3%,November 2023
+823,"Philadelphia, PA metro area",2023,December,413000.0,-0.9%,4.2%,293,0.3%,-3.9%,December 2023
+824,"Philadelphia, PA metro area",2024,January,400000.0,-3.0%,6.7%,199,-32.1%,-5.7%,January 2024
+825,"Philadelphia, PA metro area",2024,February,450000.0,12.5%,20.0%,193,-3.0%,-15.0%,February 2024
+826,"Philadelphia, PA metro area",2024,March,415000.0,-7.8%,6.4%,261,35.2%,-9.7%,March 2024
+827,"Philadelphia, PA metro area",2024,April,475000.0,14.5%,15.9%,311,19.2%,7.6%,April 2024
+828,"Philadelphia, PA metro area",2024,May,480000.0,1.1%,3.2%,343,10.3%,-7.0%,May 2024
+829,"Philadelphia, PA metro area",2024,June,460000.0,-4.2%,2.1%,411,19.8%,-3.1%,June 2024
+830,"Philadelphia, PA metro area",2024,July,470000.0,2.2%,0.8%,408,-0.7%,28.3%,July 2024
+831,"Philadelphia, PA metro area",2024,August,480000.0,2.1%,6.8%,378,-7.4%,2.7%,August 2024
+832,"Philadelphia, PA metro area",2024,September,455000.0,-5.2%,6.7%,304,-19.6%,-4.1%,September 2024
+833,"Philadelphia, PA metro area",2024,October,450000.0,-1.1%,7.1%,383,26.0%,23.5%,October 2024
+834,"Philadelphia, PA metro area",2024,November,450000.0,0.0%,8.1%,294,-23.2%,0.7%,November 2024
+835,"Philadelphia, PA metro area",2024,December,430000.0,-4.4%,4.2%,337,14.6%,15.0%,December 2024
+836,"Philadelphia, PA metro area",2025,January,440000.0,2.3%,10.0%,239,-29.1%,20.1%,January 2025
+837,"Philadelphia, PA metro area",2025,February,478000.0,8.5%,6.1%,190,-20.5%,-1.6%,February 2025
+838,"Philadelphia, PA metro area",2025,March,435000.0,-8.9%,4.8%,268,41.1%,2.7%,March 2025
+839,"Philadelphia, PA metro area",2025,April,475000.0,9.2%,0.0%,306,14.2%,-1.6%,April 2025
+840,"Philadelphia, PA metro area",2025,May,525000.0,10.5%,9.4%,339,10.8%,-1.2%,May 2025
+841,"Philadelphia, PA metro area",2025,June,515000.0,-1.9%,12.0%,431,27.1%,4.9%,June 2025
+842,"Philadelphia, PA metro area",2025,July,500000.0,-2.9%,6.4%,382,-11.4%,-6.4%,July 2025
+843,"Philadelphia, PA metro area",2025,August,485000.0,-3.0%,1.0%,385,0.8%,1.9%,August 2025
+844,"Philadelphia, PA metro area",2025,September,476000.0,-2.0%,4.5%,311,-19.2%,2.3%,September 2025
+845,"Philadelphia, PA metro area",2025,October,450000.0,-5.4%,0.0%,326,4.8%,-14.9%,October 2025
+846,"Philadelphia, PA metro area",2025,November,483000.0,7.3%,7.3%,319,-2.1%,8.5%,November 2025
+847,"Philadelphia, PA metro area",2025,December,461000.0,-4.5%,7.2%,302,-5.3%,-10.4%,December 2025
+848,"Philadelphia, PA metro area",2026,January,497000.0,7.7%,12.8%,216,-28.5%,-9.6%,January 2026
+849,"Philadelphia, PA metro area",2026,February,460000.0,-7.4%,-3.7%,178,-17.6%,-6.3%,February 2026
+850,"Seattle, WA metro area",2012,January,282000.0,-2.2%,-9.0%,"1,408",-30.7%,13.4%,January 2012
+851,"Seattle, WA metro area",2012,February,290000.0,2.8%,-4.9%,"1,739",23.5%,28.3%,February 2012
+852,"Seattle, WA metro area",2012,March,300000.0,3.4%,-4.0%,"2,247",29.2%,12.4%,March 2012
+853,"Seattle, WA metro area",2012,April,322000.0,7.5%,4.0%,"2,340",4.1%,16.0%,April 2012
+854,"Seattle, WA metro area",2012,May,323000.0,0.4%,3.5%,"2,712",15.9%,26.6%,May 2012
+855,"Seattle, WA metro area",2012,June,340000.0,5.3%,7.9%,"2,864",5.6%,14.1%,June 2012
+856,"Seattle, WA metro area",2012,July,335000.0,-1.6%,7.1%,"2,784",-2.8%,29.9%,July 2012
+857,"Seattle, WA metro area",2012,August,341000.0,1.6%,9.4%,"2,894",4.0%,23.8%,August 2012
+858,"Seattle, WA metro area",2012,September,343000.0,0.9%,12.8%,"2,380",-17.8%,10.5%,September 2012
+859,"Seattle, WA metro area",2012,October,337000.0,-1.9%,20.0%,"2,562",7.6%,27.7%,October 2012
+860,"Seattle, WA metro area",2012,November,350000.0,3.9%,16.7%,"2,417",-5.7%,24.1%,November 2012
+861,"Seattle, WA metro area",2012,December,342000.0,-2.3%,18.7%,"2,328",-3.7%,14.6%,December 2012
+862,"Seattle, WA metro area",2013,January,325000.0,-5.0%,15.2%,"1,671",-28.2%,18.7%,January 2013
+863,"Seattle, WA metro area",2013,February,332000.0,2.1%,14.5%,"1,839",10.1%,5.8%,February 2013
+864,"Seattle, WA metro area",2013,March,358000.0,7.8%,19.3%,"2,468",34.2%,9.8%,March 2013
+865,"Seattle, WA metro area",2013,April,356000.0,-0.5%,10.5%,"2,860",15.9%,22.2%,April 2013
+866,"Seattle, WA metro area",2013,May,380000.0,6.6%,17.4%,"3,316",15.9%,22.3%,May 2013
+867,"Seattle, WA metro area",2013,June,383000.0,0.9%,12.5%,"3,169",-4.4%,10.6%,June 2013
+868,"Seattle, WA metro area",2013,July,400000.0,4.4%,19.4%,"3,420",7.9%,22.8%,July 2013
+869,"Seattle, WA metro area",2013,August,390000.0,-2.5%,14.5%,"3,275",-4.2%,13.2%,August 2013
+870,"Seattle, WA metro area",2013,September,390000.0,0.0%,13.6%,"2,763",-15.6%,16.1%,September 2013
+871,"Seattle, WA metro area",2013,October,383000.0,-1.8%,13.7%,"2,823",2.2%,10.2%,October 2013
+872,"Seattle, WA metro area",2013,November,380000.0,-0.8%,8.6%,"2,219",-21.4%,-8.2%,November 2013
+873,"Seattle, WA metro area",2013,December,385000.0,1.3%,12.6%,"2,344",5.6%,0.7%,December 2013
+874,"Seattle, WA metro area",2014,January,375000.0,-2.6%,15.4%,"1,604",-31.6%,-4.0%,January 2014
+875,"Seattle, WA metro area",2014,February,381000.0,1.6%,14.8%,"1,783",11.2%,-3.0%,February 2014
+876,"Seattle, WA metro area",2014,March,380000.0,-0.3%,6.2%,"2,319",30.1%,-6.0%,March 2014
+877,"Seattle, WA metro area",2014,April,392000.0,3.2%,10.1%,"2,715",17.1%,-5.1%,April 2014
+878,"Seattle, WA metro area",2014,May,401000.0,2.3%,5.7%,"2,938",8.2%,-11.4%,May 2014
+879,"Seattle, WA metro area",2014,June,424000.0,5.7%,10.7%,"3,309",12.6%,4.4%,June 2014
+880,"Seattle, WA metro area",2014,July,417000.0,-1.6%,4.3%,"3,350",1.2%,-2.0%,July 2014
+881,"Seattle, WA metro area",2014,August,401000.0,-3.9%,2.8%,"3,119",-6.9%,-4.8%,August 2014
+882,"Seattle, WA metro area",2014,September,415000.0,3.6%,6.4%,"2,865",-8.1%,3.7%,September 2014
+883,"Seattle, WA metro area",2014,October,400000.0,-3.6%,4.4%,"2,981",4.0%,5.6%,October 2014
+884,"Seattle, WA metro area",2014,November,410000.0,2.5%,7.9%,"2,339",-21.5%,5.4%,November 2014
+885,"Seattle, WA metro area",2014,December,405000.0,-1.3%,5.1%,"2,544",8.8%,8.5%,December 2014
+886,"Seattle, WA metro area",2015,January,400000.0,-1.2%,6.7%,"1,707",-32.9%,6.4%,January 2015
+887,"Seattle, WA metro area",2015,February,393000.0,-1.8%,3.1%,"1,903",11.5%,6.7%,February 2015
+888,"Seattle, WA metro area",2015,March,420000.0,7.0%,10.5%,"2,830",48.7%,22.0%,March 2015
+889,"Seattle, WA metro area",2015,April,436000.0,3.8%,11.2%,"3,272",15.6%,20.5%,April 2015
+890,"Seattle, WA metro area",2015,May,440000.0,0.9%,9.7%,"3,404",4.0%,15.9%,May 2015
+891,"Seattle, WA metro area",2015,June,452000.0,2.7%,6.6%,"3,876",13.9%,17.1%,June 2015
+892,"Seattle, WA metro area",2015,July,445000.0,-1.5%,6.7%,"3,766",-2.8%,12.4%,July 2015
+893,"Seattle, WA metro area",2015,August,440000.0,-1.1%,9.8%,"3,377",-10.3%,8.3%,August 2015
+894,"Seattle, WA metro area",2015,September,435000.0,-1.1%,4.8%,"3,178",-5.9%,10.9%,September 2015
+895,"Seattle, WA metro area",2015,October,439000.0,1.0%,9.9%,"2,994",-5.8%,0.4%,October 2015
+896,"Seattle, WA metro area",2015,November,455000.0,3.5%,11.0%,"2,277",-23.9%,-2.7%,November 2015
+897,"Seattle, WA metro area",2015,December,440000.0,-3.3%,8.7%,"2,864",25.8%,12.6%,December 2015
+898,"Seattle, WA metro area",2016,January,440000.0,0.0%,10.0%,"1,711",-40.3%,0.2%,January 2016
+899,"Seattle, WA metro area",2016,February,441000.0,0.2%,12.3%,"1,918",12.1%,0.8%,February 2016
+900,"Seattle, WA metro area",2016,March,465000.0,5.5%,10.7%,"2,845",48.3%,0.5%,March 2016
+901,"Seattle, WA metro area",2016,April,472000.0,1.5%,8.2%,"3,024",6.3%,-7.6%,April 2016
+902,"Seattle, WA metro area",2016,May,489000.0,3.7%,11.1%,"3,551",17.4%,4.3%,May 2016
+903,"Seattle, WA metro area",2016,June,505000.0,3.3%,11.7%,"4,071",14.6%,5.0%,June 2016
+904,"Seattle, WA metro area",2016,July,485000.0,-4.0%,9.0%,"3,819",-6.2%,1.4%,July 2016
+905,"Seattle, WA metro area",2016,August,499000.0,2.8%,13.3%,"3,840",0.5%,13.7%,August 2016
+906,"Seattle, WA metro area",2016,September,475000.0,-4.7%,9.2%,"3,492",-9.1%,9.9%,September 2016
+907,"Seattle, WA metro area",2016,October,488000.0,2.7%,11.0%,"3,275",-6.2%,9.4%,October 2016
+908,"Seattle, WA metro area",2016,November,485000.0,-0.6%,6.6%,"3,057",-6.7%,34.3%,November 2016
+909,"Seattle, WA metro area",2016,December,490000.0,1.0%,11.4%,"2,878",-5.9%,0.5%,December 2016
+910,"Seattle, WA metro area",2017,January,475000.0,-3.1%,8.0%,"2,147",-25.4%,25.5%,January 2017
+911,"Seattle, WA metro area",2017,February,499000.0,5.0%,13.1%,"1,978",-7.9%,3.1%,February 2017
+912,"Seattle, WA metro area",2017,March,520000.0,4.3%,11.8%,"2,849",44.0%,0.1%,March 2017
+913,"Seattle, WA metro area",2017,April,548000.0,5.3%,16.1%,"2,770",-2.8%,-8.4%,April 2017
+914,"Seattle, WA metro area",2017,May,562000.0,2.6%,14.9%,"3,669",32.5%,3.3%,May 2017
+915,"Seattle, WA metro area",2017,June,575000.0,2.3%,13.9%,"4,102",11.8%,0.8%,June 2017
+916,"Seattle, WA metro area",2017,July,578000.0,0.5%,19.1%,"3,684",-10.2%,-3.5%,July 2017
+917,"Seattle, WA metro area",2017,August,570000.0,-1.4%,14.3%,"3,973",7.8%,3.5%,August 2017
+918,"Seattle, WA metro area",2017,September,550000.0,-3.5%,15.8%,"3,438",-13.5%,-1.5%,September 2017
+919,"Seattle, WA metro area",2017,October,555000.0,0.9%,13.7%,"3,324",-3.3%,1.5%,October 2017
+920,"Seattle, WA metro area",2017,November,561000.0,1.1%,15.7%,"3,065",-7.8%,0.3%,November 2017
+921,"Seattle, WA metro area",2017,December,553000.0,-1.5%,12.8%,"2,806",-8.5%,-2.5%,December 2017
+922,"Seattle, WA metro area",2018,January,545000.0,-1.5%,14.6%,"1,804",-35.7%,-16.0%,January 2018
+923,"Seattle, WA metro area",2018,February,575000.0,5.6%,15.3%,"2,026",12.3%,2.4%,February 2018
+924,"Seattle, WA metro area",2018,March,614000.0,6.8%,18.1%,"2,647",30.7%,-7.1%,March 2018
+925,"Seattle, WA metro area",2018,April,630000.0,2.6%,15.1%,"3,053",15.3%,10.2%,April 2018
+926,"Seattle, WA metro area",2018,May,629000.0,-0.1%,12.0%,"3,490",14.3%,-4.9%,May 2018
+927,"Seattle, WA metro area",2018,June,631000.0,0.2%,9.7%,"3,736",7.0%,-8.9%,June 2018
+928,"Seattle, WA metro area",2018,July,625000.0,-0.9%,8.2%,"3,524",-5.7%,-4.3%,July 2018
+929,"Seattle, WA metro area",2018,August,590000.0,-5.6%,3.5%,"3,338",-5.3%,-16.0%,August 2018
+930,"Seattle, WA metro area",2018,September,580000.0,-1.7%,5.5%,"2,588",-22.5%,-24.7%,September 2018
+931,"Seattle, WA metro area",2018,October,600000.0,3.4%,8.1%,"2,797",8.1%,-15.9%,October 2018
+932,"Seattle, WA metro area",2018,November,582000.0,-3.0%,3.7%,"2,516",-10.0%,-17.9%,November 2018
+933,"Seattle, WA metro area",2018,December,578000.0,-0.7%,4.5%,"2,329",-7.4%,-17.0%,December 2018
+934,"Seattle, WA metro area",2019,January,557000.0,-3.7%,2.2%,"1,633",-29.9%,-9.5%,January 2019
+935,"Seattle, WA metro area",2019,February,585000.0,5.1%,1.7%,"1,994",22.1%,-1.6%,February 2019
+936,"Seattle, WA metro area",2019,March,604000.0,3.2%,-1.6%,"2,371",18.9%,-10.4%,March 2019
+937,"Seattle, WA metro area",2019,April,625000.0,3.5%,-0.8%,"2,991",26.1%,-2.0%,April 2019
+938,"Seattle, WA metro area",2019,May,628000.0,0.5%,-0.2%,"3,588",20.0%,2.8%,May 2019
+939,"Seattle, WA metro area",2019,June,622000.0,-1.0%,-1.4%,"3,649",1.7%,-2.3%,June 2019
+940,"Seattle, WA metro area",2019,July,610000.0,-1.9%,-2.4%,"3,572",-2.1%,1.4%,July 2019
+941,"Seattle, WA metro area",2019,August,599000.0,-1.8%,1.5%,"3,449",-3.4%,3.3%,August 2019
+942,"Seattle, WA metro area",2019,September,585000.0,-2.3%,0.9%,"2,808",-18.6%,8.5%,September 2019
+943,"Seattle, WA metro area",2019,October,600000.0,2.6%,0.0%,"3,080",9.7%,10.1%,October 2019
+944,"Seattle, WA metro area",2019,November,595000.0,-0.8%,2.2%,"2,579",-16.3%,2.5%,November 2019
+945,"Seattle, WA metro area",2019,December,610000.0,2.5%,5.5%,"2,673",3.6%,14.8%,December 2019
+946,"Seattle, WA metro area",2020,January,586000.0,-3.9%,5.3%,"1,718",-35.7%,5.2%,January 2020
+947,"Seattle, WA metro area",2020,February,616000.0,5.1%,5.3%,"1,917",11.6%,-3.9%,February 2020
+948,"Seattle, WA metro area",2020,March,643000.0,4.3%,6.4%,"2,491",29.9%,5.1%,March 2020
+949,"Seattle, WA metro area",2020,April,650000.0,1.2%,4.0%,"2,221",-10.8%,-25.7%,April 2020
+950,"Seattle, WA metro area",2020,May,619000.0,-4.8%,-1.4%,"2,306",3.8%,-35.7%,May 2020
+951,"Seattle, WA metro area",2020,June,650000.0,5.0%,4.5%,"3,348",45.2%,-8.2%,June 2020
+952,"Seattle, WA metro area",2020,July,670000.0,3.1%,9.8%,"3,721",11.1%,4.2%,July 2020
+953,"Seattle, WA metro area",2020,August,680000.0,1.5%,13.5%,"3,706",-0.4%,7.5%,August 2020
+954,"Seattle, WA metro area",2020,September,685000.0,0.7%,17.1%,"3,914",5.6%,39.4%,September 2020
+955,"Seattle, WA metro area",2020,October,681000.0,-0.7%,13.4%,"4,136",5.7%,34.3%,October 2020
+956,"Seattle, WA metro area",2020,November,675000.0,-0.8%,13.4%,"3,252",-21.4%,26.1%,November 2020
+957,"Seattle, WA metro area",2020,December,676000.0,0.1%,10.8%,"3,166",-2.6%,18.4%,December 2020
+958,"Seattle, WA metro area",2021,January,690000.0,2.1%,17.7%,"1,935",-38.9%,12.6%,January 2021
+959,"Seattle, WA metro area",2021,February,733000.0,6.3%,19.0%,"2,025",4.7%,5.6%,February 2021
+960,"Seattle, WA metro area",2021,March,780000.0,6.4%,21.4%,"2,982",47.3%,19.7%,March 2021
+961,"Seattle, WA metro area",2021,April,800000.0,2.6%,23.1%,"3,529",18.3%,58.9%,April 2021
+962,"Seattle, WA metro area",2021,May,830000.0,3.8%,34.1%,"3,695",4.7%,60.2%,May 2021
+963,"Seattle, WA metro area",2021,June,832000.0,0.2%,27.9%,"4,352",17.8%,30.0%,June 2021
+964,"Seattle, WA metro area",2021,July,825000.0,-0.8%,23.1%,"4,129",-5.1%,11.0%,July 2021
+965,"Seattle, WA metro area",2021,August,810000.0,-1.8%,19.1%,"3,857",-6.6%,4.1%,August 2021
+966,"Seattle, WA metro area",2021,September,782000.0,-3.4%,14.2%,"3,765",-2.4%,-3.8%,September 2021
+967,"Seattle, WA metro area",2021,October,800000.0,2.3%,17.6%,"3,561",-5.4%,-13.9%,October 2021
+968,"Seattle, WA metro area",2021,November,789000.0,-1.4%,16.9%,"3,197",-10.2%,-1.7%,November 2021
+969,"Seattle, WA metro area",2021,December,800000.0,1.4%,18.3%,"2,610",-18.4%,-17.6%,December 2021
+970,"Seattle, WA metro area",2022,January,800000.0,0.0%,15.9%,"1,468",-43.8%,-24.1%,January 2022
+971,"Seattle, WA metro area",2022,February,860000.0,7.5%,17.3%,"1,687",14.9%,-16.7%,February 2022
+972,"Seattle, WA metro area",2022,March,925000.0,7.5%,18.6%,"2,944",74.5%,-1.3%,March 2022
+973,"Seattle, WA metro area",2022,April,951000.0,2.8%,18.9%,"3,215",9.2%,-8.9%,April 2022
+974,"Seattle, WA metro area",2022,May,950000.0,-0.1%,14.5%,"3,467",7.8%,-6.2%,May 2022
+975,"Seattle, WA metro area",2022,June,905000.0,-4.8%,8.8%,"3,352",-3.3%,-23.0%,June 2022
+976,"Seattle, WA metro area",2022,July,875000.0,-3.3%,6.1%,"2,585",-22.9%,-37.4%,July 2022
+977,"Seattle, WA metro area",2022,August,865000.0,-1.1%,6.8%,"2,767",7.0%,-28.3%,August 2022
+978,"Seattle, WA metro area",2022,September,850000.0,-1.7%,8.7%,"2,595",-6.2%,-31.1%,September 2022
+979,"Seattle, WA metro area",2022,October,850000.0,0.0%,6.3%,"2,192",-15.5%,-38.4%,October 2022
+980,"Seattle, WA metro area",2022,November,799000.0,-6.0%,1.3%,"1,858",-15.2%,-41.9%,November 2022
+981,"Seattle, WA metro area",2022,December,782000.0,-2.2%,-2.3%,"1,531",-17.6%,-41.3%,December 2022
+982,"Seattle, WA metro area",2023,January,781000.0,-0.1%,-2.4%,"1,100",-28.2%,-25.1%,January 2023
+983,"Seattle, WA metro area",2023,February,790000.0,1.2%,-8.2%,"1,494",35.8%,-11.4%,February 2023
+984,"Seattle, WA metro area",2023,March,846000.0,7.1%,-8.5%,"1,987",33.0%,-32.5%,March 2023
+985,"Seattle, WA metro area",2023,April,850000.0,0.5%,-10.6%,"1,913",-3.7%,-40.5%,April 2023
+986,"Seattle, WA metro area",2023,May,900000.0,5.9%,-5.3%,"2,249",17.6%,-35.1%,May 2023
+987,"Seattle, WA metro area",2023,June,900000.0,0.0%,-0.5%,"2,409",7.1%,-28.1%,June 2023
+988,"Seattle, WA metro area",2023,July,870000.0,-3.3%,-0.6%,"2,157",-10.5%,-16.6%,July 2023
+989,"Seattle, WA metro area",2023,August,859000.0,-1.3%,-0.7%,"2,295",6.4%,-17.1%,August 2023
+990,"Seattle, WA metro area",2023,September,860000.0,0.1%,1.2%,"1,964",-14.4%,-24.3%,September 2023
+991,"Seattle, WA metro area",2023,October,840000.0,-2.3%,-1.2%,"1,846",-6.0%,-15.8%,October 2023
+992,"Seattle, WA metro area",2023,November,845000.0,0.6%,5.8%,"1,591",-13.8%,-14.4%,November 2023
+993,"Seattle, WA metro area",2023,December,813000.0,-3.7%,4.1%,"1,381",-13.2%,-9.8%,December 2023
+994,"Seattle, WA metro area",2024,January,822000.0,1.0%,5.3%,"1,125",-18.5%,2.3%,January 2024
+995,"Seattle, WA metro area",2024,February,899000.0,9.4%,13.8%,"1,471",30.8%,-1.5%,February 2024
+996,"Seattle, WA metro area",2024,March,922000.0,2.6%,9.0%,"1,920",30.5%,-3.4%,March 2024
+997,"Seattle, WA metro area",2024,April,938000.0,1.7%,10.3%,"2,250",17.2%,17.6%,April 2024
+998,"Seattle, WA metro area",2024,May,965000.0,2.9%,7.2%,"2,574",14.4%,14.5%,May 2024
+999,"Seattle, WA metro area",2024,June,935000.0,-3.1%,3.9%,"2,390",-7.1%,-0.8%,June 2024
+1000,"Seattle, WA metro area",2024,July,942000.0,0.7%,8.2%,"2,473",3.5%,14.6%,July 2024
+1001,"Seattle, WA metro area",2024,August,925000.0,-1.8%,7.7%,"2,323",-6.1%,1.2%,August 2024
+1002,"Seattle, WA metro area",2024,September,900000.0,-2.7%,4.7%,"2,051",-11.7%,4.4%,September 2024
+1003,"Seattle, WA metro area",2024,October,930000.0,3.3%,10.7%,"2,459",19.9%,33.2%,October 2024
+1004,"Seattle, WA metro area",2024,November,900000.0,-3.2%,6.5%,"1,927",-21.6%,21.1%,November 2024
+1005,"Seattle, WA metro area",2024,December,893000.0,-0.8%,9.8%,"1,628",-15.5%,17.9%,December 2024
+1006,"Seattle, WA metro area",2025,January,850000.0,-4.8%,3.4%,"1,201",-26.2%,6.8%,January 2025
+1007,"Seattle, WA metro area",2025,February,900000.0,5.9%,0.1%,"1,493",24.3%,1.5%,February 2025
+1008,"Seattle, WA metro area",2025,March,950000.0,5.6%,3.0%,"1,940",29.9%,1.0%,March 2025
+1009,"Seattle, WA metro area",2025,April,990000.0,4.2%,5.6%,"2,223",14.6%,-1.2%,April 2025
+1010,"Seattle, WA metro area",2025,May,964000.0,-2.7%,-0.2%,"2,300",3.5%,-10.6%,May 2025
+1011,"Seattle, WA metro area",2025,June,975000.0,1.2%,4.3%,"2,520",9.6%,5.4%,June 2025
+1012,"Seattle, WA metro area",2025,July,950000.0,-2.6%,0.9%,"2,384",-5.4%,-3.6%,July 2025
+1013,"Seattle, WA metro area",2025,August,943000.0,-0.7%,1.9%,"2,172",-8.9%,-6.5%,August 2025
+1014,"Seattle, WA metro area",2025,September,925000.0,-1.9%,2.8%,"2,089",-3.8%,1.9%,September 2025
+1015,"Seattle, WA metro area",2025,October,935000.0,1.1%,0.5%,"2,258",8.1%,-8.2%,October 2025
+1016,"Seattle, WA metro area",2025,November,875000.0,-6.4%,-2.8%,"1,642",-27.3%,-14.8%,November 2025
+1017,"Seattle, WA metro area",2025,December,880000.0,0.6%,-1.5%,"1,703",3.7%,4.6%,December 2025
+1018,"Seattle, WA metro area",2026,January,850000.0,-3.4%,0.0%,"1,040",-38.9%,-13.4%,January 2026
+1019,"Seattle, WA metro area",2026,February,899000.0,5.8%,-0.1%,"1,464",40.8%,-1.9%,February 2026
+1020,"Washington, DC metro area",2012,January,310000.0,-1.6%,6.9%,"1,727",-24.3%,0.5%,January 2012
+1021,"Washington, DC metro area",2012,February,300000.0,-3.2%,1.7%,"1,970",14.1%,5.2%,February 2012
+1022,"Washington, DC metro area",2012,March,333000.0,11.0%,9.2%,"2,480",25.9%,-1.1%,March 2012
+1023,"Washington, DC metro area",2012,April,360000.0,8.1%,12.5%,"2,737",10.4%,5.9%,April 2012
+1024,"Washington, DC metro area",2012,May,375000.0,4.2%,8.7%,"3,313",21.0%,18.5%,May 2012
+1025,"Washington, DC metro area",2012,June,400000.0,6.7%,8.1%,"3,444",4.0%,-1.7%,June 2012
+1026,"Washington, DC metro area",2012,July,385000.0,-3.8%,7.0%,"3,066",-11.0%,3.7%,July 2012
+1027,"Washington, DC metro area",2012,August,375000.0,-2.6%,7.1%,"3,066",0.0%,6.9%,August 2012
+1028,"Washington, DC metro area",2012,September,345000.0,-8.0%,7.8%,"2,492",-18.7%,3.0%,September 2012
+1029,"Washington, DC metro area",2012,October,350000.0,1.4%,16.6%,"2,379",-4.5%,14.3%,October 2012
+1030,"Washington, DC metro area",2012,November,365000.0,4.3%,12.3%,"2,552",7.3%,19.2%,November 2012
+1031,"Washington, DC metro area",2012,December,368000.0,0.9%,17.0%,"2,394",-6.2%,5.0%,December 2012
+1032,"Washington, DC metro area",2013,January,325000.0,-11.9%,4.7%,"1,923",-19.7%,11.3%,January 2013
+1033,"Washington, DC metro area",2013,February,349000.0,7.6%,16.3%,"2,004",4.2%,1.7%,February 2013
+1034,"Washington, DC metro area",2013,March,375000.0,7.4%,12.6%,"2,542",26.8%,2.5%,March 2013
+1035,"Washington, DC metro area",2013,April,393000.0,4.8%,9.2%,"2,923",15.0%,6.8%,April 2013
+1036,"Washington, DC metro area",2013,May,415000.0,5.6%,10.7%,"3,614",23.6%,9.1%,May 2013
+1037,"Washington, DC metro area",2013,June,437000.0,5.3%,9.3%,"3,761",4.1%,9.2%,June 2013
+1038,"Washington, DC metro area",2013,July,417000.0,-4.6%,8.3%,"3,616",-3.9%,17.9%,July 2013
+1039,"Washington, DC metro area",2013,August,414000.0,-0.7%,10.4%,"3,317",-8.3%,8.2%,August 2013
+1040,"Washington, DC metro area",2013,September,380000.0,-8.2%,10.2%,"2,659",-19.8%,6.7%,September 2013
+1041,"Washington, DC metro area",2013,October,370000.0,-2.7%,5.7%,"2,608",-1.9%,9.6%,October 2013
+1042,"Washington, DC metro area",2013,November,375000.0,1.4%,2.7%,"2,206",-15.4%,-13.6%,November 2013
+1043,"Washington, DC metro area",2013,December,390000.0,4.0%,5.9%,"2,596",17.7%,8.4%,December 2013
+1044,"Washington, DC metro area",2014,January,362000.0,-7.1%,11.6%,"1,694",-34.7%,-11.9%,January 2014
+1045,"Washington, DC metro area",2014,February,370000.0,2.1%,6.0%,"1,760",3.9%,-12.2%,February 2014
+1046,"Washington, DC metro area",2014,March,380000.0,2.7%,1.3%,"2,274",29.2%,-10.5%,March 2014
+1047,"Washington, DC metro area",2014,April,412000.0,8.4%,4.8%,"2,676",17.7%,-8.5%,April 2014
+1048,"Washington, DC metro area",2014,May,415000.0,0.8%,0.0%,"3,170",18.5%,-12.3%,May 2014
+1049,"Washington, DC metro area",2014,June,440000.0,6.0%,0.7%,"3,576",12.8%,-4.9%,June 2014
+1050,"Washington, DC metro area",2014,July,410000.0,-6.8%,-1.7%,"3,383",-5.4%,-6.4%,July 2014
+1051,"Washington, DC metro area",2014,August,405000.0,-1.2%,-2.2%,"3,105",-8.2%,-6.4%,August 2014
+1052,"Washington, DC metro area",2014,September,380000.0,-6.2%,0.0%,"2,615",-15.8%,-1.7%,September 2014
+1053,"Washington, DC metro area",2014,October,382000.0,0.5%,3.2%,"2,677",2.4%,2.6%,October 2014
+1054,"Washington, DC metro area",2014,November,375000.0,-1.8%,0.0%,"2,222",-17.0%,0.7%,November 2014
+1055,"Washington, DC metro area",2014,December,400000.0,6.7%,2.6%,"2,766",24.5%,6.5%,December 2014
+1056,"Washington, DC metro area",2015,January,370000.0,-7.5%,2.2%,"1,878",-32.1%,10.9%,January 2015
+1057,"Washington, DC metro area",2015,February,390000.0,5.4%,5.4%,"1,880",0.1%,6.8%,February 2015
+1058,"Washington, DC metro area",2015,March,390000.0,0.0%,2.6%,"2,652",41.1%,16.6%,March 2015
+1059,"Washington, DC metro area",2015,April,402000.0,3.1%,-2.4%,"2,986",12.6%,11.6%,April 2015
+1060,"Washington, DC metro area",2015,May,425000.0,5.7%,2.4%,"3,398",13.8%,7.2%,May 2015
+1061,"Washington, DC metro area",2015,June,431000.0,1.4%,-2.0%,"4,180",23.0%,16.9%,June 2015
+1062,"Washington, DC metro area",2015,July,423000.0,-1.9%,3.2%,"3,786",-9.4%,11.9%,July 2015
+1063,"Washington, DC metro area",2015,August,400000.0,-5.4%,-1.2%,"3,332",-12.0%,7.3%,August 2015
+1064,"Washington, DC metro area",2015,September,385000.0,-3.8%,1.3%,"3,042",-8.7%,16.3%,September 2015
+1065,"Washington, DC metro area",2015,October,378000.0,-1.7%,-0.9%,"2,779",-8.6%,3.8%,October 2015
+1066,"Washington, DC metro area",2015,November,380000.0,0.4%,1.3%,"2,312",-16.8%,4.1%,November 2015
+1067,"Washington, DC metro area",2015,December,388000.0,2.0%,-3.1%,"3,018",30.5%,9.1%,December 2015
+1068,"Washington, DC metro area",2016,January,374000.0,-3.5%,1.1%,"2,018",-33.1%,7.5%,January 2016
+1069,"Washington, DC metro area",2016,February,366000.0,-2.0%,-6.0%,"2,069",2.5%,10.1%,February 2016
+1070,"Washington, DC metro area",2016,March,400000.0,9.2%,2.6%,"2,732",32.0%,3.0%,March 2016
+1071,"Washington, DC metro area",2016,April,416000.0,4.0%,3.4%,"3,330",21.9%,11.5%,April 2016
+1072,"Washington, DC metro area",2016,May,422000.0,1.6%,-0.6%,"3,907",17.3%,15.0%,May 2016
+1073,"Washington, DC metro area",2016,June,434000.0,2.7%,0.7%,"4,571",17.0%,9.4%,June 2016
+1074,"Washington, DC metro area",2016,July,425000.0,-2.1%,0.5%,"3,773",-17.5%,-0.3%,July 2016
+1075,"Washington, DC metro area",2016,August,415000.0,-2.4%,3.8%,"3,792",0.5%,13.8%,August 2016
+1076,"Washington, DC metro area",2016,September,394000.0,-5.1%,2.3%,"3,174",-16.3%,4.3%,September 2016
+1077,"Washington, DC metro area",2016,October,399000.0,1.3%,5.4%,"2,905",-8.5%,4.5%,October 2016
+1078,"Washington, DC metro area",2016,November,405000.0,1.5%,6.6%,"2,741",-5.6%,18.6%,November 2016
+1079,"Washington, DC metro area",2016,December,410000.0,1.2%,5.8%,"2,978",8.6%,-1.3%,December 2016
+1080,"Washington, DC metro area",2017,January,390000.0,-4.9%,4.3%,"2,155",-27.6%,6.8%,January 2017
+1081,"Washington, DC metro area",2017,February,396000.0,1.4%,7.9%,"2,200",2.1%,6.3%,February 2017
+1082,"Washington, DC metro area",2017,March,412000.0,4.2%,3.0%,"3,170",44.1%,16.0%,March 2017
+1083,"Washington, DC metro area",2017,April,435000.0,5.6%,4.6%,"3,415",7.7%,2.6%,April 2017
+1084,"Washington, DC metro area",2017,May,449000.0,3.2%,6.3%,"4,289",25.6%,9.8%,May 2017
+1085,"Washington, DC metro area",2017,June,453000.0,0.8%,4.3%,"4,813",12.2%,5.3%,June 2017
+1086,"Washington, DC metro area",2017,July,438000.0,-3.3%,3.0%,"3,914",-18.7%,3.7%,July 2017
+1087,"Washington, DC metro area",2017,August,430000.0,-1.8%,3.6%,"3,884",-0.8%,2.4%,August 2017
+1088,"Washington, DC metro area",2017,September,401000.0,-6.7%,1.8%,"3,054",-21.4%,-3.8%,September 2017
+1089,"Washington, DC metro area",2017,October,415000.0,3.5%,4.0%,"3,056",0.1%,5.2%,October 2017
+1090,"Washington, DC metro area",2017,November,422000.0,1.7%,4.2%,"2,890",-5.4%,5.4%,November 2017
+1091,"Washington, DC metro area",2017,December,425000.0,0.7%,3.7%,"2,887",-0.1%,-3.1%,December 2017
+1092,"Washington, DC metro area",2018,January,395000.0,-7.1%,1.3%,"2,121",-26.5%,-1.6%,January 2018
+1093,"Washington, DC metro area",2018,February,400000.0,1.3%,1.1%,"2,237",5.5%,1.7%,February 2018
+1094,"Washington, DC metro area",2018,March,430000.0,7.5%,4.4%,"2,965",32.5%,-6.5%,March 2018
+1095,"Washington, DC metro area",2018,April,448000.0,4.1%,2.9%,"3,494",17.8%,2.3%,April 2018
+1096,"Washington, DC metro area",2018,May,453000.0,1.2%,0.9%,"4,092",17.1%,-4.6%,May 2018
+1097,"Washington, DC metro area",2018,June,470000.0,3.8%,3.8%,"4,537",10.9%,-5.7%,June 2018
+1098,"Washington, DC metro area",2018,July,450000.0,-4.3%,2.8%,"3,954",-12.8%,1.0%,July 2018
+1099,"Washington, DC metro area",2018,August,440000.0,-2.2%,2.3%,"3,684",-6.8%,-5.1%,August 2018
+1100,"Washington, DC metro area",2018,September,417000.0,-5.2%,4.0%,"2,733",-25.8%,-10.5%,September 2018
+1101,"Washington, DC metro area",2018,October,425000.0,1.9%,2.4%,"3,045",11.4%,-0.4%,October 2018
+1102,"Washington, DC metro area",2018,November,425000.0,0.0%,0.7%,"2,884",-5.3%,-0.2%,November 2018
+1103,"Washington, DC metro area",2018,December,435000.0,2.4%,2.4%,"2,589",-10.2%,-10.3%,December 2018
+1104,"Washington, DC metro area",2019,January,425000.0,-2.3%,7.6%,"2,067",-20.2%,-2.5%,January 2019
+1105,"Washington, DC metro area",2019,February,410000.0,-3.5%,2.5%,"2,149",4.0%,-3.9%,February 2019
+1106,"Washington, DC metro area",2019,March,440000.0,7.3%,2.3%,"3,010",40.1%,1.5%,March 2019
+1107,"Washington, DC metro area",2019,April,470000.0,6.8%,5.0%,"3,497",16.2%,0.1%,April 2019
+1108,"Washington, DC metro area",2019,May,475000.0,1.1%,4.9%,"4,333",23.9%,5.9%,May 2019
+1109,"Washington, DC metro area",2019,June,470000.0,-1.1%,0.0%,"4,295",-0.9%,-5.3%,June 2019
+1110,"Washington, DC metro area",2019,July,475000.0,1.1%,5.6%,"4,087",-4.8%,3.4%,July 2019
+1111,"Washington, DC metro area",2019,August,465000.0,-2.1%,5.7%,"3,771",-7.7%,2.4%,August 2019
+1112,"Washington, DC metro area",2019,September,430000.0,-7.5%,3.1%,"3,216",-14.7%,17.7%,September 2019
+1113,"Washington, DC metro area",2019,October,440000.0,2.3%,3.5%,"3,198",-0.6%,5.0%,October 2019
+1114,"Washington, DC metro area",2019,November,449000.0,2.1%,5.6%,"2,720",-14.9%,-5.7%,November 2019
+1115,"Washington, DC metro area",2019,December,450000.0,0.2%,3.4%,"2,990",9.9%,15.5%,December 2019
+1116,"Washington, DC metro area",2020,January,420000.0,-6.7%,-1.2%,"2,173",-27.3%,5.1%,January 2020
+1117,"Washington, DC metro area",2020,February,450000.0,7.1%,9.8%,"2,349",8.1%,9.3%,February 2020
+1118,"Washington, DC metro area",2020,March,481000.0,6.9%,9.4%,"3,265",39.0%,8.5%,March 2020
+1119,"Washington, DC metro area",2020,April,494000.0,2.7%,5.2%,"3,199",-2.0%,-8.5%,April 2020
+1120,"Washington, DC metro area",2020,May,490000.0,-0.9%,3.2%,"3,149",-1.6%,-27.3%,May 2020
+1121,"Washington, DC metro area",2020,June,493000.0,0.6%,4.9%,"4,058",28.9%,-5.5%,June 2020
+1122,"Washington, DC metro area",2020,July,523000.0,6.0%,10.1%,"4,568",12.6%,11.8%,July 2020
+1123,"Washington, DC metro area",2020,August,511000.0,-2.2%,9.9%,"4,169",-8.7%,10.6%,August 2020
+1124,"Washington, DC metro area",2020,September,509000.0,-0.5%,18.3%,"4,024",-3.5%,25.1%,September 2020
+1125,"Washington, DC metro area",2020,October,510000.0,0.3%,15.9%,"4,173",3.7%,30.5%,October 2020
+1126,"Washington, DC metro area",2020,November,501000.0,-1.8%,11.6%,"3,572",-14.4%,31.3%,November 2020
+1127,"Washington, DC metro area",2020,December,499000.0,-0.4%,10.9%,"3,738",4.6%,25.0%,December 2020
+1128,"Washington, DC metro area",2021,January,495000.0,-0.8%,17.9%,"2,448",-34.5%,12.7%,January 2021
+1129,"Washington, DC metro area",2021,February,515000.0,4.0%,14.4%,"2,492",1.8%,6.1%,February 2021
+1130,"Washington, DC metro area",2021,March,541000.0,5.0%,12.4%,"3,437",37.9%,5.3%,March 2021
+1131,"Washington, DC metro area",2021,April,575000.0,6.4%,16.3%,"4,172",21.4%,30.4%,April 2021
+1132,"Washington, DC metro area",2021,May,600000.0,4.3%,22.4%,"4,545",8.9%,44.3%,May 2021
+1133,"Washington, DC metro area",2021,June,603000.0,0.5%,22.3%,"5,205",14.5%,28.3%,June 2021
+1134,"Washington, DC metro area",2021,July,585000.0,-3.0%,11.9%,"4,554",-12.5%,-0.3%,July 2021
+1135,"Washington, DC metro area",2021,August,560000.0,-4.3%,9.6%,"4,267",-6.3%,2.4%,August 2021
+1136,"Washington, DC metro area",2021,September,555000.0,-0.9%,9.1%,"3,733",-12.5%,-7.2%,September 2021
+1137,"Washington, DC metro area",2021,October,561000.0,1.1%,10.0%,"3,706",-0.7%,-11.2%,October 2021
+1138,"Washington, DC metro area",2021,November,562000.0,0.2%,12.2%,"3,615",-2.5%,1.2%,November 2021
+1139,"Washington, DC metro area",2021,December,550000.0,-2.1%,10.2%,"3,460",-4.3%,-7.4%,December 2021
+1140,"Washington, DC metro area",2022,January,525000.0,-4.5%,6.1%,"2,193",-36.6%,-10.4%,January 2022
+1141,"Washington, DC metro area",2022,February,570000.0,8.6%,10.7%,"2,324",6.0%,-6.7%,February 2022
+1142,"Washington, DC metro area",2022,March,605000.0,6.2%,11.9%,"3,235",39.2%,-5.9%,March 2022
+1143,"Washington, DC metro area",2022,April,647000.0,7.0%,12.6%,"3,538",9.4%,-15.2%,April 2022
+1144,"Washington, DC metro area",2022,May,650000.0,0.4%,8.3%,"4,012",13.4%,-11.7%,May 2022
+1145,"Washington, DC metro area",2022,June,650000.0,0.0%,7.8%,"3,860",-3.8%,-25.8%,June 2022
+1146,"Washington, DC metro area",2022,July,610000.0,-6.2%,4.3%,"3,198",-17.2%,-29.8%,July 2022
+1147,"Washington, DC metro area",2022,August,600000.0,-1.6%,7.1%,"3,095",-3.2%,-27.5%,August 2022
+1148,"Washington, DC metro area",2022,September,580000.0,-3.3%,4.5%,"2,706",-12.6%,-27.5%,September 2022
+1149,"Washington, DC metro area",2022,October,600000.0,3.4%,7.0%,"2,398",-11.4%,-35.3%,October 2022
+1150,"Washington, DC metro area",2022,November,575000.0,-4.2%,2.3%,"2,079",-13.3%,-42.5%,November 2022
+1151,"Washington, DC metro area",2022,December,565000.0,-1.7%,2.7%,"1,975",-5.0%,-42.9%,December 2022
+1152,"Washington, DC metro area",2023,January,559000.0,-1.2%,6.4%,"1,458",-26.2%,-33.5%,January 2023
+1153,"Washington, DC metro area",2023,February,560000.0,0.3%,-1.7%,"1,770",21.4%,-23.8%,February 2023
+1154,"Washington, DC metro area",2023,March,599000.0,6.9%,-1.0%,"2,411",36.2%,-25.5%,March 2023
+1155,"Washington, DC metro area",2023,April,630000.0,5.2%,-2.7%,"2,424",0.5%,-31.5%,April 2023
+1156,"Washington, DC metro area",2023,May,644000.0,2.2%,-0.9%,"3,046",25.7%,-24.1%,May 2023
+1157,"Washington, DC metro area",2023,June,653000.0,1.3%,0.4%,"3,126",2.6%,-19.0%,June 2023
+1158,"Washington, DC metro area",2023,July,645000.0,-1.1%,5.7%,"2,524",-19.3%,-21.1%,July 2023
+1159,"Washington, DC metro area",2023,August,634000.0,-1.7%,5.6%,"2,648",4.9%,-14.4%,August 2023
+1160,"Washington, DC metro area",2023,September,610000.0,-3.8%,5.2%,"2,157",-18.5%,-20.3%,September 2023
+1161,"Washington, DC metro area",2023,October,605000.0,-0.8%,0.8%,"2,081",-3.5%,-13.2%,October 2023
+1162,"Washington, DC metro area",2023,November,601000.0,-0.7%,4.4%,"1,912",-8.1%,-8.0%,November 2023
+1163,"Washington, DC metro area",2023,December,580000.0,-3.4%,2.7%,"1,823",-4.7%,-7.7%,December 2023
+1164,"Washington, DC metro area",2024,January,585000.0,0.9%,4.7%,"1,464",-19.7%,0.4%,January 2024
+1165,"Washington, DC metro area",2024,February,590000.0,0.9%,5.4%,"1,787",22.1%,1.0%,February 2024
+1166,"Washington, DC metro area",2024,March,635000.0,7.6%,6.0%,"2,211",23.7%,-8.3%,March 2024
+1167,"Washington, DC metro area",2024,April,683000.0,7.5%,8.4%,"2,677",21.1%,10.4%,April 2024
+1168,"Washington, DC metro area",2024,May,680000.0,-0.4%,5.6%,"3,061",14.3%,0.5%,May 2024
+1169,"Washington, DC metro area",2024,June,700000.0,2.9%,7.3%,"2,874",-6.1%,-8.1%,June 2024
+1170,"Washington, DC metro area",2024,July,670000.0,-4.3%,3.9%,"2,829",-1.6%,12.1%,July 2024
+1171,"Washington, DC metro area",2024,August,645000.0,-3.7%,1.8%,"2,621",-7.4%,-1.0%,August 2024
+1172,"Washington, DC metro area",2024,September,642000.0,-0.5%,5.2%,"2,284",-12.9%,5.9%,September 2024
+1173,"Washington, DC metro area",2024,October,635000.0,-1.1%,5.0%,"2,442",6.9%,17.3%,October 2024
+1174,"Washington, DC metro area",2024,November,650000.0,2.4%,8.2%,"2,110",-13.6%,10.4%,November 2024
+1175,"Washington, DC metro area",2024,December,630000.0,-3.1%,8.6%,"2,129",0.9%,16.8%,December 2024
+1176,"Washington, DC metro area",2025,January,623000.0,-1.1%,6.5%,"1,569",-26.3%,7.2%,January 2025
+1177,"Washington, DC metro area",2025,February,640000.0,2.7%,8.5%,"1,661",5.9%,-7.1%,February 2025
+1178,"Washington, DC metro area",2025,March,690000.0,7.8%,8.7%,"2,100",26.4%,-5.0%,March 2025
+1179,"Washington, DC metro area",2025,April,717000.0,3.9%,5.0%,"2,612",24.4%,-2.4%,April 2025
+1180,"Washington, DC metro area",2025,May,715000.0,-0.3%,5.1%,"2,971",13.7%,-2.9%,May 2025
+1181,"Washington, DC metro area",2025,June,715000.0,0.0%,2.1%,"3,002",1.0%,4.5%,June 2025
+1182,"Washington, DC metro area",2025,July,695000.0,-2.8%,3.7%,"2,742",-8.7%,-3.1%,July 2025
+1183,"Washington, DC metro area",2025,August,699000.0,0.6%,8.4%,"2,519",-8.1%,-3.9%,August 2025
+1184,"Washington, DC metro area",2025,September,650000.0,-7.0%,1.2%,"2,405",-4.5%,5.3%,September 2025
+1185,"Washington, DC metro area",2025,October,688000.0,5.8%,8.3%,"2,501",4.0%,2.4%,October 2025
+1186,"Washington, DC metro area",2025,November,673000.0,-2.1%,3.5%,"2,054",-17.9%,-2.7%,November 2025
+1187,"Washington, DC metro area",2025,December,655000.0,-2.7%,4.0%,"2,167",5.5%,1.8%,December 2025
+1188,"Washington, DC metro area",2026,January,619000.0,-5.5%,-0.6%,"1,425",-34.2%,-9.2%,January 2026
+1189,"Washington, DC metro area",2026,February,655000.0,5.8%,2.3%,"1,712",20.1%,3.1%,February 2026
