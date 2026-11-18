@@ -2,6 +2,10 @@
 
 Exploring how population growth relates to home prices and sales activity across five Southeastern states and six cities, using interactive Plotly visualizations.
 
+![Average median home price per year by city](images/12linechart_city_median_price_overtime.png)
+
+![State population map](images/1map_state_pop.png)
+
 | | |
 |---|---|
 | **Course** | Data Visualization (IAN-605), UNCG (Spring 2026) Informatics & Analytics | 
@@ -60,7 +64,7 @@ Population growth and price growth generally move together, but not one-to-one. 
 
 ## Population
 
-![State population map](images/1map_state_pop.png)
+*State population map shown at the top of this page.*
 
 ![State population comparison](images/2bargraph_state_pop.png)
 
@@ -88,7 +92,7 @@ All five cities grew steadily. Raleigh (1.6M) and Charlotte (1.2M) are the large
 
 Every state's average median price rose from 2024 to 2025. Virginia stands well above the rest, West Virginia well below, and NC, SC, and TN are nearly identical.
 
-![Average median home price per year by city](images/12linechart_city_median_price_overtime.png)
+*Average median home price by city over time is shown at the top of this page.*
 
 ![Median home price by city, 2024 vs 2025](images/5dbarchart_city_median_price_.2024_v_2025.png)
 
@@ -182,9 +186,8 @@ Redfin files are exported as UTF-16, tab-separated text.
 ## How to Run
 
 ```bash
-git clone https://github.com/hermanmckinney3/<housing-market-population-growth-data
->.git
-cd <housing-market-population-growth-data>
+git clone https://github.com/hermanmckinney3/housing-market-population-growth-data.git
+cd housing-market-population-growth-data
 pip install -r requirements.txt
 jupyter notebook code_visualizations.ipynb
 ```
